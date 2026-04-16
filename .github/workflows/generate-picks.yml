@@ -1,0 +1,36 @@
+name: Generate AI Recommendations
+
+on:
+  schedule:
+    # Jeden Montag um 9:00 Uhr (UTC)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate recommendations
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_picks.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add picks.json all-picks.json archiv/
+          git diff --staged --quiet || git commit -m "🤖 Neue Empfehlungen - $(date +'%Y-%m-%d')"
+          git push
