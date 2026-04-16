@@ -39,15 +39,15 @@ theme_full, theme_short = themes[week_number % len(themes)]
 
 prompt = f"""Empfehle 5 gute {theme_full} die typischerweise auf {service} verfügbar sind.
 
-Für jede Serie gib an:
+Für jede Serie/Film schreibe:
 - Titel
 - Erscheinungsjahr  
 - Geschätzte IMDb-Bewertung (zwischen 7.0 und 9.0)
 - Genre
-- Kurze Beschreibung (max 20 Wörter) warum sehenswert
+- AUSFÜHRLICHE Beschreibung (100-150 Wörter): Worum geht es? Was macht die Serie besonders? Warum sollte man einschalten? Beschreibe die Handlung, Atmosphäre und was Zuschauer erwartet.
 
 Antworte AUSSCHLIESSLICH mit JSON, kein anderer Text:
-{{"picks":[{{"rank":1,"title":"Titel","year":"2023","rating":8.1,"genre":"Drama","description":"Beschreibung hier."}}]}}"""
+{{"picks":[{{"rank":1,"title":"Titel","year":"2023","rating":8.1,"genre":"Drama","description":"Ausführliche Beschreibung hier mit 100-150 Wörtern..."}}]}}"""
 
 client = Anthropic()
 
@@ -98,11 +98,11 @@ except json.JSONDecodeError as e:
     print(f"JSON parse error: {e}")
     # Fallback: Beispiel-Empfehlungen
     picks_data = {"picks": [
-        {"rank": 1, "title": "Dark", "year": "2017", "rating": 8.7, "genre": "Sci-Fi Thriller", "description": "Deutsche Mystery-Serie über Zeitreisen und Familiengeheimnisse in einer Kleinstadt."},
-        {"rank": 2, "title": "The Crown", "year": "2016", "rating": 8.6, "genre": "Drama", "description": "Einblick in das Leben der britischen Königsfamilie über mehrere Jahrzehnte."},
-        {"rank": 3, "title": "Mindhunter", "year": "2017", "rating": 8.6, "genre": "Krimi", "description": "FBI-Agenten interviewen inhaftierte Serienmörder um neue Fälle zu lösen."},
-        {"rank": 4, "title": "Ozark", "year": "2017", "rating": 8.5, "genre": "Thriller", "description": "Ein Finanzberater muss für ein Drogenkartell Geld waschen um zu überleben."},
-        {"rank": 5, "title": "Better Call Saul", "year": "2015", "rating": 8.9, "genre": "Drama", "description": "Die Vorgeschichte des Anwalts Saul Goodman aus Breaking Bad."}
+        {"rank": 1, "title": "Dark", "year": "2017", "rating": 8.7, "genre": "Sci-Fi Thriller", "description": "In der deutschen Kleinstadt Winden verschwinden Kinder unter mysteriösen Umständen. Was als lokaler Vermisstenfall beginnt, entwickelt sich zu einem generationenübergreifenden Geheimnis, das vier Familien über mehrere Zeitebenen hinweg verbindet. Die Serie verwebt geschickt Zeitreisen mit einem komplexen Familiengeflecht und philosophischen Fragen über Schicksal und freien Willen. Mit seiner düsteren Atmosphäre, den verschachtelten Handlungssträngen und der präzisen deutschen Erzählweise hebt sich Dark deutlich von amerikanischen Produktionen ab. Jede Episode enthüllt neue Puzzleteile, während die Grenzen zwischen Vergangenheit, Gegenwart und Zukunft zunehmend verschwimmen. Perfekt für Zuschauer, die anspruchsvolle Science-Fiction mit emotionaler Tiefe suchen."},
+        {"rank": 2, "title": "The Crown", "year": "2016", "rating": 8.6, "genre": "Drama", "description": "Diese aufwendig produzierte Serie gewährt einen intimen Einblick in das Leben von Königin Elizabeth II. und die britische Königsfamilie über mehrere Jahrzehnte. Von ihrer überraschenden Thronbesteigung als junge Frau bis zu den Skandalen der modernen Ära erzählt The Crown von den Spannungen zwischen Pflicht und persönlichem Glück. Die Serie brilliert durch ihre historische Genauigkeit, atemberaubende Kostüme und Kulissen sowie herausragende Schauspielleistungen. Politische Krisen, Familiendramen und die sich wandelnde Rolle der Monarchie in der modernen Welt werden mit bemerkenswerter Nuance dargestellt. Ein Muss für alle, die sich für Geschichte, Politik und die menschliche Seite hinter den royalen Fassaden interessieren."},
+        {"rank": 3, "title": "Mindhunter", "year": "2017", "rating": 8.6, "genre": "Krimi", "description": "Basierend auf wahren Begebenheiten folgt Mindhunter zwei FBI-Agenten in den späten 1970er Jahren, die eine revolutionäre Methode entwickeln: Sie interviewen inhaftierte Serienmörder, um deren Psyche zu verstehen und zukünftige Verbrechen zu verhindern. Die Serie von David Fincher ist ein faszinierendes Psychogramm des Bösen, das niemals auf billige Schockeffekte setzt. Stattdessen baut sie langsam eine beklemmende Atmosphäre auf, während die Ermittler tiefer in die Abgründe der menschlichen Psyche eintauchen. Die Verhörsszenen mit realen Serienmördern wie Ed Kemper sind meisterhaft inszeniert und zutiefst verstörend. Für Fans von True Crime und psychologischen Thrillern ist diese Serie ein absolutes Meisterwerk."},
+        {"rank": 4, "title": "Ozark", "year": "2017", "rating": 8.5, "genre": "Thriller", "description": "Der Finanzberater Marty Byrde führt ein Doppelleben: Nach außen hin ein respektabler Familienvater, wäscht er in Wahrheit Geld für ein mexikanisches Drogenkartell. Als ein Deal schiefgeht, muss er mit seiner Familie in die Ozarks fliehen und dort ein neues Geldwäsche-Imperium aufbauen. Was folgt, ist ein atemloser Thriller über Macht, Moral und das Überleben um jeden Preis. Jason Bateman und Laura Linney liefern karrieredefinierende Leistungen als Ehepaar, das zunehmend in die Kriminalität abrutscht. Die Serie überzeugt durch ihre düstere Atmosphäre, unvorhersehbare Wendungen und die Frage, wie weit normale Menschen gehen würden, um ihre Familie zu schützen."},
+        {"rank": 5, "title": "Better Call Saul", "year": "2015", "rating": 8.9, "genre": "Drama", "description": "Diese brillante Vorgeschichte zu Breaking Bad erzählt den Werdegang des Anwalts Jimmy McGill zu seinem späteren Alter Ego Saul Goodman. Was als scheinbar leichtfüßige Anwaltsserie beginnt, entwickelt sich zu einer tiefgründigen Charakterstudie über Identität, Ambitionen und moralischen Verfall. Bob Odenkirk zeigt in der Hauptrolle eine Bandbreite von Komik bis Tragik, die ihresgleichen sucht. Die Serie nimmt sich Zeit für ihre Figuren und belohnt geduldige Zuschauer mit einer der befriedigendsten Erzählungen des modernen Fernsehens. Mit ihrer cinematografischen Brillanz und dem perfekten Zusammenspiel mit dem Breaking-Bad-Universum setzt sie neue Maßstäbe für Spin-off-Serien."}
     ]}
 
 # Eindeutige ID für diese Woche
