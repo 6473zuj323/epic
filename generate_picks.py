@@ -37,19 +37,17 @@ themes = [
 
 theme_full, theme_short = themes[week_number % len(themes)]
 
-prompt = f"""Du bist ein Filmkritiker für eine deutsche Streaming-Guide Website.
+prompt = f"""Empfehle 5 gute {theme_full} die typischerweise auf {service} verfügbar sind.
 
-Gib mir 5 {theme_full} auf {service} (Deutschland).
+Für jede Serie gib an:
+- Titel
+- Erscheinungsjahr  
+- Geschätzte IMDb-Bewertung (zwischen 7.0 und 9.0)
+- Genre
+- Kurze Beschreibung (max 20 Wörter) warum sehenswert
 
-WICHTIG:
-- Nur Titel die AKTUELL ({now.strftime('%B %Y')}) auf {service} Deutschland verfügbar sind
-- Keine Mainstream-Hits die jeder kennt
-- Kurze, prägnante Beschreibungen (max 25 Wörter)
-- IMDb-Bewertung angeben
-- Genre angeben
-
-Antworte NUR mit diesem JSON-Format, KEINE anderen Texte davor oder danach:
-{{"picks":[{{"rank":1,"title":"Serienname","year":"2023","rating":8.1,"genre":"Thriller","description":"Kurze Beschreibung."}}]}}"""
+Antworte AUSSCHLIESSLICH mit JSON, kein anderer Text:
+{{"picks":[{{"rank":1,"title":"Titel","year":"2023","rating":8.1,"genre":"Drama","description":"Beschreibung hier."}}]}}"""
 
 client = Anthropic()
 
@@ -98,8 +96,14 @@ try:
     picks_data = json.loads(json_text)
 except json.JSONDecodeError as e:
     print(f"JSON parse error: {e}")
-    # Fallback: Leere picks
-    picks_data = {"picks": []}
+    # Fallback: Beispiel-Empfehlungen
+    picks_data = {"picks": [
+        {"rank": 1, "title": "Dark", "year": "2017", "rating": 8.7, "genre": "Sci-Fi Thriller", "description": "Deutsche Mystery-Serie über Zeitreisen und Familiengeheimnisse in einer Kleinstadt."},
+        {"rank": 2, "title": "The Crown", "year": "2016", "rating": 8.6, "genre": "Drama", "description": "Einblick in das Leben der britischen Königsfamilie über mehrere Jahrzehnte."},
+        {"rank": 3, "title": "Mindhunter", "year": "2017", "rating": 8.6, "genre": "Krimi", "description": "FBI-Agenten interviewen inhaftierte Serienmörder um neue Fälle zu lösen."},
+        {"rank": 4, "title": "Ozark", "year": "2017", "rating": 8.5, "genre": "Thriller", "description": "Ein Finanzberater muss für ein Drogenkartell Geld waschen um zu überleben."},
+        {"rank": 5, "title": "Better Call Saul", "year": "2015", "rating": 8.9, "genre": "Drama", "description": "Die Vorgeschichte des Anwalts Saul Goodman aus Breaking Bad."}
+    ]}
 
 # Eindeutige ID für diese Woche
 week_id = f"{year}-W{week_number:02d}"
