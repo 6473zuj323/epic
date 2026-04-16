@@ -1,5 +1,66 @@
 {
-  "last_updated": "2026-04-16T22:44:49.950984",
-  "total": 0,
-  "picks": []
+  "last_updated": "2026-04-16T22:48:07.048780",
+  "total": 5,
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science Fiction/Horror",
+      "description": "Mysteriöse Vorgänge in Kleinstadt, Spannung und 80er-Jahre-Nostalgie ab Folge 1.",
+      "week_id": "2026-W16",
+      "week_date": "14. April 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 2,
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama/Biografie",
+      "description": "Fesselnde Einblicke in britische Königsfamilie, hervorragende Schauspielerei, politische Intrigen.",
+      "week_id": "2026-W16",
+      "week_date": "14. April 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 3,
+      "title": "Wednesday",
+      "year": "2022",
+      "rating": 8.1,
+      "genre": "Mystery/Comedy",
+      "description": "Dunkler Humor, packende Mystery, Jenna Ortega glänzt, sofort süchtig machend.",
+      "week_id": "2026-W16",
+      "week_date": "14. April 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 4,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime/Drama",
+      "description": "Spannungsgeladenes Finanz-Thriller, komplexe Charaktere, ständig überraschende Wendungen und Spannung.",
+      "week_id": "2026-W16",
+      "week_date": "14. April 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 5,
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": 8.0,
+      "genre": "Fantasy/Action",
+      "description": "Fantasy-Epos mit Abenteuer, Monster, epische Kämpfe und Henrys unglaublicher Darstellung.",
+      "week_id": "2026-W16",
+      "week_date": "14. April 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    }
+  ]
 }

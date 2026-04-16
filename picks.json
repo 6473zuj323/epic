@@ -1,6 +1,6 @@
 {
   "id": "2026-W16",
-  "generated": "2026-04-16T22:44:49.950984",
+  "generated": "2026-04-16T22:48:07.048780",
   "date_formatted": "16. April 2026",
   "week": 16,
   "year": 2026,
@@ -9,5 +9,46 @@
   "next_service": "Prime Video",
   "theme": "Serien die nach 1-2 Folgen zünden",
   "theme_short": "Slow Burner",
-  "picks": []
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science Fiction/Horror",
+      "description": "Mysteriöse Vorgänge in Kleinstadt, Spannung und 80er-Jahre-Nostalgie ab Folge 1."
+    },
+    {
+      "rank": 2,
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama/Biografie",
+      "description": "Fesselnde Einblicke in britische Königsfamilie, hervorragende Schauspielerei, politische Intrigen."
+    },
+    {
+      "rank": 3,
+      "title": "Wednesday",
+      "year": "2022",
+      "rating": 8.1,
+      "genre": "Mystery/Comedy",
+      "description": "Dunkler Humor, packende Mystery, Jenna Ortega glänzt, sofort süchtig machend."
+    },
+    {
+      "rank": 4,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime/Drama",
+      "description": "Spannungsgeladenes Finanz-Thriller, komplexe Charaktere, ständig überraschende Wendungen und Spannung."
+    },
+    {
+      "rank": 5,
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": 8.0,
+      "genre": "Fantasy/Action",
+      "description": "Fantasy-Epos mit Abenteuer, Monster, epische Kämpfe und Henrys unglaublicher Darstellung."
+    }
+  ]
 }
