@@ -1,0 +1,43 @@
+{
+  "weeks": [
+    {
+      "id": "2026-W16",
+      "date": "14. April 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "unterschätzte Serien, die kaum jemand kennt",
+      "theme_short": "Geheimtipps",
+      "file": "2026-W16-netflix.json"
+    },
+    {
+      "id": "2026-W15",
+      "date": "07. April 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "beste Thriller-Serien für schlaflose Nächte",
+      "theme_short": "Thriller",
+      "file": "2026-W15-prime.json"
+    },
+    {
+      "id": "2026-W14",
+      "date": "31. März 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "europäische Serien-Geheimtipps",
+      "theme_short": "Europa",
+      "file": "2026-W14-netflix.json"
+    }
+  ],
+  "stats": {
+    "total_picks": 15,
+    "total_weeks": 3,
+    "genres": {
+      "Thriller": 5,
+      "Drama": 4,
+      "Krimi": 3,
+      "Sci-Fi": 2,
+      "Komödie": 1
+    },
+    "last_updated": "2026-04-14T10:00:00"
+  }
+}

@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Serien-Empfehlungen Archiv – epic.watch</title>
+  <meta name="description" content="Alle AI-kuratierten Serien-Empfehlungen für Netflix und Prime Video. Durchsuche unser Archiv nach Genre, Streaming-Dienst und Thema.">
+  <meta name="keywords" content="Netflix Serien Empfehlungen, Prime Video Geheimtipps, Serien Tipps, Streaming Empfehlungen, beste Serien 2026">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="Serien-Empfehlungen Archiv – epic.watch">
+  <meta property="og:description" content="Wöchentlich kuratierte Serien-Tipps für Netflix und Prime Video.">
+  <meta property="og:type" content="website">
+  
+  <!-- Schema.org für SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Serien-Empfehlungen Archiv",
+    "description": "Wöchentlich kuratierte Serien-Empfehlungen für Netflix und Prime Video",
+    "provider": {
+      "@type": "Organization",
+      "name": "epic.watch"
+    }
+  }
+  </script>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-cream: #faf8f5;
+      --bg-white: #ffffff;
+      --text-dark: #1a1a1a;
+      --text-gray: #666666;
+      --text-light: #999999;
+      --primary: #c41e3a;
+      --primary-hover: #a01830;
+      --primary-light: rgba(196, 30, 58, 0.1);
+      --secondary: #1a1a1a;
+      --border: #e8e4df;
+      --shadow: 0 2px 12px rgba(0,0,0,0.08);
+      --netflix: #e50914;
+      --prime: #00a8e1;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Source Sans 3', sans-serif; background: var(--bg-cream); color: var(--text-dark); line-height: 1.6; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+    
+    header { background: var(--bg-white); border-bottom: 1px solid var(--border); padding: 18px 0; position: sticky; top: 0; z-index: 100; }
+    .header-inner { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+    .logo { font-family: 'Playfair Display', serif; font-size: 1.8rem; font-weight: 900; color: var(--text-dark); text-decoration: none; }
+    .logo span { color: var(--primary); }
+    .back-link { color: var(--primary); text-decoration: none; font-weight: 500; display: flex; align-items: center; gap: 6px; }
+    .back-link:hover { text-decoration: underline; }
+    
+    .hero { text-align: center; padding: 50px 0 40px; }
+    .hero h1 { font-family: 'Playfair Display', serif; font-size: 2.2rem; font-weight: 700; margin-bottom: 12px; }
+    .hero p { color: var(--text-gray); font-size: 1.1rem; max-width: 600px; margin: 0 auto 30px; }
+    
+    /* Stats */
+    .stats-bar { display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; margin-bottom: 40px; }
+    .stat { text-align: center; }
+    .stat-value { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--primary); }
+    .stat-label { font-size: 0.85rem; color: var(--text-gray); }
+    
+    /* Filters */
+    .filters { background: var(--bg-white); border-radius: 16px; padding: 20px 24px; margin-bottom: 30px; box-shadow: var(--shadow); }
+    .filter-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+    .search-box { flex: 1; min-width: 200px; position: relative; }
+    .search-input { width: 100%; padding: 12px 16px 12px 44px; border: 1px solid var(--border); border-radius: 10px; font-size: 0.95rem; font-family: inherit; }
+    .search-input:focus { outline: none; border-color: var(--primary); }
+    .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: var(--text-light); }
+    
+    .filter-group { display: flex; gap: 8px; flex-wrap: wrap; }
+    .filter-btn { padding: 8px 16px; border-radius: 20px; font-size: 0.85rem; font-weight: 500; cursor: pointer; border: 1px solid var(--border); background: transparent; color: var(--text-gray); transition: all 0.2s; }
+    .filter-btn:hover { border-color: var(--secondary); color: var(--secondary); }
+    .filter-btn.active { background: var(--secondary); color: white; border-color: var(--secondary); }
+    .filter-btn.netflix.active { background: var(--netflix); border-color: var(--netflix); }
+    .filter-btn.prime.active { background: var(--prime); border-color: var(--prime); }
+    
+    /* Results */
+    .results-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 12px; }
+    .results-count { color: var(--text-gray); font-size: 0.9rem; }
+    
+    /* Week Cards */
+    .weeks-grid { display: flex; flex-direction: column; gap: 24px; margin-bottom: 60px; }
+    .week-card { background: var(--bg-white); border-radius: 16px; padding: 24px; box-shadow: var(--shadow); }
+    .week-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+    .week-info h2 { font-family: 'Playfair Display', serif; font-size: 1.2rem; font-weight: 600; margin-bottom: 4px; }
+    .week-meta { font-size: 0.85rem; color: var(--text-gray); }
+    .week-service { padding: 6px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; color: white; }
+    .week-service.netflix { background: var(--netflix); }
+    .week-service.prime { background: var(--prime); }
+    
+    .picks-list { display: flex; flex-direction: column; gap: 12px; }
+    .pick-item { display: grid; grid-template-columns: 28px 1fr auto; gap: 14px; align-items: center; padding: 12px 16px; background: var(--bg-cream); border-radius: 10px; }
+    .pick-rank { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: var(--primary); text-align: center; }
+    .pick-info h3 { font-size: 0.95rem; font-weight: 600; margin-bottom: 2px; }
+    .pick-info h3 span { font-weight: 400; color: var(--text-light); font-size: 0.85rem; }
+    .pick-desc { font-size: 0.85rem; color: var(--text-gray); }
+    .pick-tags { display: flex; gap: 8px; align-items: center; }
+    .genre-tag { font-size: 0.75rem; padding: 4px 10px; background: rgba(26,26,26,0.06); border-radius: 20px; color: var(--text-gray); }
+    .rating-tag { font-size: 0.8rem; font-weight: 600; color: #f5a623; }
+    
+    /* All Picks View */
+    .all-picks-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; margin-bottom: 60px; }
+    .pick-card { background: var(--bg-white); border-radius: 12px; padding: 20px; box-shadow: var(--shadow); transition: transform 0.2s; }
+    .pick-card:hover { transform: translateY(-2px); }
+    .pick-card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 10px; }
+    .pick-card h3 { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; }
+    .pick-card h3 span { font-weight: 400; color: var(--text-light); font-size: 0.9rem; }
+    .pick-card-rating { font-size: 0.9rem; font-weight: 600; color: #f5a623; }
+    .pick-card-desc { font-size: 0.9rem; color: var(--text-gray); margin-bottom: 12px; line-height: 1.5; }
+    .pick-card-meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 0.8rem; }
+    .pick-card-meta span { padding: 4px 10px; background: var(--bg-cream); border-radius: 20px; color: var(--text-gray); }
+    .pick-card-meta .service-netflix { background: rgba(229,9,20,0.1); color: var(--netflix); }
+    .pick-card-meta .service-prime { background: rgba(0,168,225,0.1); color: var(--prime); }
+    
+    /* Empty State */
+    .empty-state { text-align: center; padding: 60px 20px; color: var(--text-gray); }
+    .empty-state h3 { font-size: 1.2rem; margin-bottom: 8px; color: var(--text-dark); }
+    
+    /* Footer */
+    footer { background: var(--secondary); color: white; padding: 40px 0; text-align: center; }
+    footer p { opacity: 0.7; font-size: 0.9rem; }
+    footer a { color: var(--primary); text-decoration: none; }
+    
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 1.6rem; }
+      .filter-row { flex-direction: column; align-items: stretch; }
+      .search-box { min-width: 100%; }
+      .pick-item { grid-template-columns: 1fr; gap: 8px; }
+      .pick-rank { display: none; }
+      .pick-tags { margin-top: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-inner">
+        <a href="epicwatch.html" class="logo">epic<span>.watch</span></a>
+        <a href="epicwatch.html" class="back-link">← Zurück zur Startseite</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <section class="hero">
+        <h1>🤖 Claudes Picks Archiv</h1>
+        <p>Alle wöchentlichen AI-kuratierten Serien-Empfehlungen. Durchsuche nach Titel, Genre oder Streaming-Dienst.</p>
+        
+        <div class="stats-bar">
+          <div class="stat">
+            <div class="stat-value" id="statPicks">0</div>
+            <div class="stat-label">Empfehlungen</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value" id="statWeeks">0</div>
+            <div class="stat-label">Wochen</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value" id="statGenres">0</div>
+            <div class="stat-label">Genres</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="filters">
+        <div class="filter-row">
+          <div class="search-box">
+            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <input type="text" class="search-input" id="searchInput" placeholder="Serie suchen...">
+          </div>
+          <div class="filter-group">
+            <button class="filter-btn active" data-service="all">Alle</button>
+            <button class="filter-btn netflix" data-service="netflix">Netflix</button>
+            <button class="filter-btn prime" data-service="prime">Prime</button>
+          </div>
+          <div class="filter-group" id="genreFilters">
+            <!-- Wird per JS gefüllt -->
+          </div>
+        </div>
+      </section>
+
+      <div class="results-header">
+        <span class="results-count" id="resultsCount">0 Ergebnisse</span>
+        <div class="filter-group">
+          <button class="filter-btn active" data-view="weeks">Nach Wochen</button>
+          <button class="filter-btn" data-view="all">Alle Serien</button>
+        </div>
+      </div>
+
+      <!-- Wochen-Ansicht -->
+      <div class="weeks-grid" id="weeksView"></div>
+      
+      <!-- Alle Serien Ansicht -->
+      <div class="all-picks-grid" id="allPicksView" style="display: none;"></div>
+
+      <div class="empty-state" id="emptyState" style="display: none;">
+        <h3>Keine Ergebnisse</h3>
+        <p>Versuche einen anderen Suchbegriff oder Filter.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>epic.watch – Dein Wegweiser durch den Streaming-Dschungel</p>
+      <p style="margin-top: 8px; font-size: 0.8rem;">
+        <a href="epicwatch.html">Startseite</a> · 
+        <a href="epicwatch-admin.html">Admin</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    // GitHub Raw URL - ANPASSEN!
+    const DATA_BASE_URL = 'https://raw.githubusercontent.com/DEIN-USERNAME/epicwatch-picks/main/';
+    
+    let archiveIndex = { weeks: [], stats: {} };
+    let allPicks = [];
+    let currentView = 'weeks';
+    let currentService = 'all';
+    let currentGenre = 'all';
+    let searchQuery = '';
+
+    async function loadData() {
+      try {
+        // Archiv-Index laden
+        const indexRes = await fetch(DATA_BASE_URL + 'archiv/index.json');
+        archiveIndex = await indexRes.json();
+        
+        // Alle Picks laden
+        const allRes = await fetch(DATA_BASE_URL + 'all-picks.json');
+        const allData = await allRes.json();
+        allPicks = allData.picks;
+        
+        // Stats anzeigen
+        document.getElementById('statPicks').textContent = archiveIndex.stats.total_picks;
+        document.getElementById('statWeeks').textContent = archiveIndex.stats.total_weeks;
+        document.getElementById('statGenres').textContent = Object.keys(archiveIndex.stats.genres || {}).length;
+        
+        // Genre-Filter erstellen
+        renderGenreFilters();
+        
+        // Initial rendern
+        render();
+      } catch (error) {
+        console.error('Fehler beim Laden:', error);
+        document.getElementById('emptyState').style.display = 'block';
+      }
+    }
+
+    function renderGenreFilters() {
+      const genres = archiveIndex.stats.genres || {};
+      const container = document.getElementById('genreFilters');
+      
+      const sortedGenres = Object.entries(genres)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+      
+      container.innerHTML = `<button class="filter-btn active" data-genre="all">Alle Genres</button>` +
+        sortedGenres.map(([genre, count]) => 
+          `<button class="filter-btn" data-genre="${genre}">${genre}</button>`
+        ).join('');
+      
+      container.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentGenre = btn.dataset.genre;
+          render();
+        });
+      });
+    }
+
+    function filterPicks(picks) {
+      return picks.filter(pick => {
+        const matchesService = currentService === 'all' || 
+          (currentService === 'netflix' && pick.service?.includes('Netflix')) ||
+          (currentService === 'prime' && pick.service?.includes('Prime'));
+        
+        const matchesGenre = currentGenre === 'all' || pick.genre === currentGenre;
+        
+        const matchesSearch = searchQuery === '' || 
+          pick.title.toLowerCase().includes(searchQuery) ||
+          pick.description?.toLowerCase().includes(searchQuery) ||
+          pick.genre?.toLowerCase().includes(searchQuery);
+        
+        return matchesService && matchesGenre && matchesSearch;
+      });
+    }
+
+    function render() {
+      const weeksView = document.getElementById('weeksView');
+      const allPicksView = document.getElementById('allPicksView');
+      const emptyState = document.getElementById('emptyState');
+      
+      if (currentView === 'weeks') {
+        weeksView.style.display = 'flex';
+        allPicksView.style.display = 'none';
+        renderWeeks();
+      } else {
+        weeksView.style.display = 'none';
+        allPicksView.style.display = 'grid';
+        renderAllPicks();
+      }
+    }
+
+    async function renderWeeks() {
+      const container = document.getElementById('weeksView');
+      let visibleWeeks = 0;
+      let visiblePicks = 0;
+      
+      const weekPromises = archiveIndex.weeks.map(async (week) => {
+        // Filter für Service
+        if (currentService !== 'all' && week.service_slug !== currentService) {
+          return null;
+        }
+        
+        try {
+          const res = await fetch(DATA_BASE_URL + 'archiv/' + week.file);
+          const weekData = await res.json();
+          
+          const filteredPicks = filterPicks(weekData.picks.map(p => ({
+            ...p,
+            service: week.service
+          })));
+          
+          if (filteredPicks.length === 0) return null;
+          
+          visibleWeeks++;
+          visiblePicks += filteredPicks.length;
+          
+          return `
+            <article class="week-card">
+              <div class="week-header">
+                <div class="week-info">
+                  <h2>${week.theme}</h2>
+                  <div class="week-meta">${week.date} · ${week.id}</div>
+                </div>
+                <span class="week-service ${week.service_slug}">${week.service}</span>
+              </div>
+              <div class="picks-list">
+                ${filteredPicks.map(pick => `
+                  <div class="pick-item">
+                    <span class="pick-rank">${pick.rank}</span>
+                    <div class="pick-info">
+                      <h3>${pick.title} <span>(${pick.year})</span></h3>
+                      <p class="pick-desc">${pick.description}</p>
+                    </div>
+                    <div class="pick-tags">
+                      <span class="genre-tag">${pick.genre || 'Serie'}</span>
+                      <span class="rating-tag">★ ${pick.rating}</span>
+                    </div>
+                  </div>
+                `).join('')}
+              </div>
+            </article>
+          `;
+        } catch (e) {
+          return null;
+        }
+      });
+      
+      const results = await Promise.all(weekPromises);
+      const html = results.filter(Boolean).join('');
+      
+      container.innerHTML = html || '';
+      document.getElementById('emptyState').style.display = html ? 'none' : 'block';
+      document.getElementById('resultsCount').textContent = `${visiblePicks} Empfehlungen in ${visibleWeeks} Wochen`;
+    }
+
+    function renderAllPicks() {
+      const container = document.getElementById('allPicksView');
+      const filtered = filterPicks(allPicks);
+      
+      document.getElementById('resultsCount').textContent = `${filtered.length} Serien`;
+      
+      if (filtered.length === 0) {
+        container.innerHTML = '';
+        document.getElementById('emptyState').style.display = 'block';
+        return;
+      }
+      
+      document.getElementById('emptyState').style.display = 'none';
+      
+      container.innerHTML = filtered.map(pick => `
+        <article class="pick-card">
+          <div class="pick-card-header">
+            <h3>${pick.title} <span>(${pick.year})</span></h3>
+            <span class="pick-card-rating">★ ${pick.rating}</span>
+          </div>
+          <p class="pick-card-desc">${pick.description}</p>
+          <div class="pick-card-meta">
+            <span class="${pick.service?.includes('Netflix') ? 'service-netflix' : 'service-prime'}">${pick.service}</span>
+            <span>${pick.genre}</span>
+            <span>${pick.theme}</span>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    // Event Listeners
+    document.querySelectorAll('[data-service]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('[data-service]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentService = btn.dataset.service;
+        render();
+      });
+    });
+
+    document.querySelectorAll('[data-view]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('[data-view]').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentView = btn.dataset.view;
+        render();
+      });
+    });
+
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase();
+      render();
+    });
+
+    // Init
+    loadData();
+  </script>
+</body>
+</html>
