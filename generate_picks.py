@@ -6,6 +6,7 @@ Speichert alle Empfehlungen in einem Archiv für SEO.
 
 import json
 import os
+import re
 from datetime import datetime
 from anthropic import Anthropic
 
@@ -47,19 +48,8 @@ WICHTIG:
 - IMDb-Bewertung angeben
 - Genre angeben
 
-Antworte NUR mit validem JSON in diesem Format:
-{{
-  "picks": [
-    {{
-      "rank": 1,
-      "title": "Serienname",
-      "year": "2023",
-      "rating": 8.1,
-      "genre": "Thriller",
-      "description": "Kurze knackige Beschreibung warum man das schauen sollte."
-    }}
-  ]
-}}"""
+Antworte NUR mit diesem JSON-Format, KEINE anderen Texte davor oder danach:
+{{"picks":[{{"rank":1,"title":"Serienname","year":"2023","rating":8.1,"genre":"Thriller","description":"Kurze Beschreibung."}}]}}"""
 
 client = Anthropic()
 
@@ -71,19 +61,59 @@ message = client.messages.create(
     ]
 )
 
-# Response parsen
-response_text = message.content[0].text
+# Response parsen - robuster
+response_text = message.content[0].text.strip()
+print(f"Raw response:\n{response_text}\n")
 
-if "```json" in response_text:
-    response_text = response_text.split("```json")[1].split("```")[0]
-elif "```" in response_text:
-    response_text = response_text.split("```")[1].split("```")[0]
+# Verschiedene Methoden um JSON zu extrahieren
+def extract_json(text):
+    # Methode 1: Markdown Code-Block
+    if "```json" in text:
+        match = re.search(r'```json\s*(.*?)\s*```', text, re.DOTALL)
+        if match:
+            return match.group(1).strip()
+    
+    if "```" in text:
+        match = re.search(r'```\s*(.*?)\s*```', text, re.DOTALL)
+        if match:
+            return match.group(1).strip()
+    
+    # Methode 2: Finde JSON-Objekt mit picks
+    match = re.search(r'\{\s*"picks"\s*:\s*\[.*?\]\s*\}', text, re.DOTALL)
+    if match:
+        return match.group(0)
+    
+    # Methode 3: Finde erstes { bis letztes }
+    first_brace = text.find('{')
+    last_brace = text.rfind('}')
+    if first_brace != -1 and last_brace != -1:
+        return text[first_brace:last_brace+1]
+    
+    return text
 
-picks_data = json.loads(response_text.strip())
+json_text = extract_json(response_text)
+print(f"Extracted JSON:\n{json_text}\n")
+
+try:
+    picks_data = json.loads(json_text)
+except json.JSONDecodeError as e:
+    print(f"JSON parse error: {e}")
+    # Fallback: Leere picks
+    picks_data = {"picks": []}
 
 # Eindeutige ID für diese Woche
 week_id = f"{year}-W{week_number:02d}"
-date_formatted = now.strftime("%d. %B %Y").replace("January", "Januar").replace("February", "Februar").replace("March", "März").replace("April", "April").replace("May", "Mai").replace("June", "Juni").replace("July", "Juli").replace("August", "August").replace("September", "September").replace("October", "Oktober").replace("November", "November").replace("December", "Dezember")
+
+# Deutsche Monatsnamen
+month_names = {
+    "January": "Januar", "February": "Februar", "March": "März",
+    "April": "April", "May": "Mai", "June": "Juni",
+    "July": "Juli", "August": "August", "September": "September",
+    "October": "Oktober", "November": "November", "December": "Dezember"
+}
+date_formatted = now.strftime("%d. %B %Y")
+for en, de in month_names.items():
+    date_formatted = date_formatted.replace(en, de)
 
 # Aktuelle Picks
 current_picks = {
