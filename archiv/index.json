@@ -32,12 +32,12 @@
     "total_picks": 5,
     "total_weeks": 3,
     "genres": {
-      "Science Fiction/Horror": 1,
-      "Drama/Biografie": 1,
-      "Mystery/Comedy": 1,
-      "Crime/Drama": 1,
-      "Fantasy/Action": 1
+      "Science Fiction / Horror / Drama": 1,
+      "Drama / Historisch / Biografie": 1,
+      "Crime Thriller / Drama": 1,
+      "Thriller / Drama / Dystopie": 1,
+      "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-04-16T22:48:07.048780"
+    "last_updated": "2026-04-16T23:05:36.226634"
   }
 }
