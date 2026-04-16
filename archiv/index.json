@@ -29,15 +29,9 @@
     }
   ],
   "stats": {
-    "total_picks": 15,
+    "total_picks": 0,
     "total_weeks": 3,
-    "genres": {
-      "Thriller": 5,
-      "Drama": 4,
-      "Krimi": 3,
-      "Sci-Fi": 2,
-      "Komödie": 1
-    },
-    "last_updated": "2026-04-14T10:00:00"
+    "genres": {},
+    "last_updated": "2026-04-16T22:44:49.950984"
   }
 }

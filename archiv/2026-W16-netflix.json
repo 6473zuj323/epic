@@ -1,54 +1,13 @@
 {
   "id": "2026-W16",
-  "generated": "2026-04-14T10:00:00",
-  "date_formatted": "14. April 2026",
+  "generated": "2026-04-16T22:44:49.950984",
+  "date_formatted": "16. April 2026",
   "week": 16,
   "year": 2026,
   "service": "Netflix",
   "service_slug": "netflix",
   "next_service": "Prime Video",
-  "theme": "unterschätzte Serien, die kaum jemand kennt",
-  "theme_short": "Geheimtipps",
-  "picks": [
-    {
-      "rank": 1,
-      "title": "Bodyguard",
-      "year": "2018",
-      "rating": 8.0,
-      "genre": "Thriller",
-      "description": "Britischer Politthriller mit überraschenden Wendungen. Nur 6 Folgen, perfekt für ein Wochenende."
-    },
-    {
-      "rank": 2,
-      "title": "Black Doves",
-      "year": "2024",
-      "rating": 7.5,
-      "genre": "Thriller",
-      "description": "Keira Knightley als Spionin. Stylish, spannend, mit trockenem britischen Humor."
-    },
-    {
-      "rank": 3,
-      "title": "The Diplomat",
-      "year": "2023",
-      "rating": 7.8,
-      "genre": "Drama",
-      "description": "Politthriller mit einer US-Botschafterin in London. Schnelle Dialoge, clevere Intrigen."
-    },
-    {
-      "rank": 4,
-      "title": "Treason",
-      "year": "2022",
-      "rating": 6.8,
-      "genre": "Thriller",
-      "description": "MI6-Agent zwischen den Fronten. Kurz, knackig, spannend bis zur letzten Minute."
-    },
-    {
-      "rank": 5,
-      "title": "Into the Badlands",
-      "year": "2015-2019",
-      "rating": 8.0,
-      "genre": "Action",
-      "description": "Martial-Arts in postapokalyptischer Welt. Visuell atemberaubend, komplett unterschätzt."
-    }
-  ]
+  "theme": "Serien die nach 1-2 Folgen zünden",
+  "theme_short": "Slow Burner",
+  "picks": []
 }
