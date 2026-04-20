@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-04-16T23:05:36.226634",
-  "total": 5,
+  "last_updated": "2026-04-20T10:26:19.629842",
+  "total": 10,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys Presents: Starlight",
+      "year": "2024",
+      "rating": 8.2,
+      "genre": "Superhero-Drama",
+      "description": "Diese Spin-off-Serie folgt Starlight in ihren Anfängen als idealistisches Superheldin-Talent, bevor sie sich den Machenschaften von The Seven und Vought bewusst wird. Die Serie zeigt ihren Aufstieg und die schockierenden Wahrheiten, mit denen sie konfrontiert wird. Mit nur 6 Folgen wird eine intensive, düstere Geschichte erzählt, die die Korruption der Superhelden-Industrie offenlegt. Die Atmosphäre ist beklemmend und spannungsgeladen, mit starken Schauspielleistungen und visuellen Effekten. Fans des The Boys-Universums werden begeistert sein, mehr über Starlights Transformation zu erfahren und verstehen, wie sie zur Widerstandskämpferin wurde. Die Serie bietet tiefe psychologische Einblicke und düstere Überraschungen.",
+      "week_id": "2026-W17",
+      "week_date": "20. April 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 2,
+      "title": "Undone",
+      "year": "2019",
+      "rating": 8.4,
+      "genre": "Fantasy-Drama-Animation",
+      "description": "Diese animierte Serie folgt Alma, einer jungen Frau, die nach einem Autounfall plötzlich übermenschliche Fähigkeiten entwickelt und die Zeit verlangsamen kann. Sie begibt sich auf eine Reise der Selbstentdeckung und Familiengeheimnisse, während sie versucht zu verstehen, was mit ihr geschieht. Mit nur 8 rotoscope-animierten Folgen wird eine emotional tiefe, surreale Geschichte erzählt, die Realität und Wahnvorstellung verschwimmen lässt. Die Kunstrichtung ist einzigartig und faszinierend, die Charakterentwicklung tiefgreifend. Die Serie behandelt Themen wie psychische Gesundheit, Familie und Identität mit großer Sensibilität und Authentizität, was sie zu einem unvergesslichen Meisterwerk macht.",
+      "week_id": "2026-W17",
+      "week_date": "20. April 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 3,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Diese britische Serie ist eine brillante Mischung aus Komödie und emotionalem Drama. Sie folgt einer zynischen, chaotischen und liebenswert fehlerhaften jungen Frau in London, die das Publikum direkt anspricht und ihre Gedanken teilt. Mit nur 6 Folgen pro Staffel wird eine intensiv humorvolle und herzzerreißend ehrliche Geschichte erzählt. Die Schöpferin und Hauptdarstellerin Phoebe Waller-Bridge liefert meisterhafte Schauspielleistungen ab. Die Serie besticht durch ihren unkonventionellen Humor, die brillante Schreibweise und die tiefgreifende Charakterentwicklung. Sie balanciert mühelos zwischen Lachen und tränenreicher Rührung, weshalb sie zu einer der besten Serien aller Zeiten zählt.",
+      "week_id": "2026-W17",
+      "week_date": "20. April 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 4,
+      "title": "Lore",
+      "year": "2017",
+      "rating": 8.1,
+      "genre": "Horror-Dokumentation-Drama",
+      "description": "Basierend auf Aaron Mahnkes populärem Podcast erzählt diese Serie wahre Geschichten hinter bekannten Legenden und Horrorprojekten. Mit einer deutlich hörbaren, narrativen Stimme werden historische Begebenheiten, paranormale Ereignisse und die düstere Vergangenheit der Menschheit erforscht. Jede der 8 Folgen konzentriert sich auf verschiedene faszinierende und verstörende Themen. Die atmosphärische Cinematographie und das dunkle Storytelling schaffen eine beklemmende, aber fesselnde Umgebung. Die Serie bietet eine einzigartige Mischung aus Fakten und Fiktion, die Zuschauer erhalten tiefgreifende Einblicke in die kulturellen Ursprünge von Angst und Horror. Perfekt für Fans von dokumentarischen und Mystery-Serien.",
+      "week_id": "2026-W17",
+      "week_date": "20. April 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 5,
+      "title": "Homecoming",
+      "year": "2018",
+      "rating": 7.8,
+      "genre": "Psychologischer Thriller",
+      "description": "Diese psychologische Thriller-Serie folgt einer Therapeutin namens Heidi Bergman, die in einer geheimnisvollen Einrichtung namens Homecoming arbeitet, die Soldaten beim Übergang zum Zivilleben hilft. Doch als sie die Einrichtung verlässt, hat sie keine Erinnerung an ihre Zeit dort. Mit nur 10 Folgen wird eine spannungsgeladene, verwirrende und faszinierende Realität geschaffen. Die brillante Darstellung von Julia Roberts trägt zur intensiven Atmosphäre bei. Die Serie besticht durch ihr innovatives Sound-Design, ihre nicht-lineare Erzählweise und die psychologischen Tiefe. Sie wirft Fragen über Manipulation, Erinnerung und ethische Grenzen auf. Ein absolut fesselnder Thriller, der Zuschauer in den Bann zieht.",
+      "week_id": "2026-W17",
+      "week_date": "20. April 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
     {
       "rank": 1,
       "title": "Stranger Things",
