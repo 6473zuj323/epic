@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-04-20T10:26:19.629842",
-  "total": 10,
+  "last_updated": "2026-04-27T10:51:56.901532",
+  "total": 15,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.6,
+      "genre": "Crime Drama",
+      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, die revolutionäre Verhörtechniken entwickeln und die ersten Psychoprofile von Serienmördern erstellen. Die Serie basiert auf wahren Fällen und zeigt die Geburt der modernen Kriminalpsychologie. Die Spannung entsteht nicht durch Action, sondern durch intensive psychologische Duelle zwischen Ermittlern und Verbrechern. Die Atmosphäre ist düster und beklemmend, mit ausgezeichneter Charakterentwicklung. Zuschauer erwartet ein intelligentes Drama, das tief in die Psyche von Mördern eintaucht und gleichzeitig die persönlichen Kämpfe der Ermittler zeigt. Perfekt für Fans analytischer Kriminalgeschichten.",
+      "week_id": "2026-W18",
+      "week_date": "27. April 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 2,
+      "title": "The Diplomat",
+      "year": "2023",
+      "rating": 7.8,
+      "genre": "Crime Thriller",
+      "description": "Diese Serie kombiniert politisches Intrigendrama mit echten Kriminalermittlungen auf internationaler Ebene. Eine neue US-Botschafterin wird mit einem mysteriösen Flugzeugunglück konfrontiert, das möglicherweise Mord ist. Sie muss zwischen Diplomatie, persönlichen Geheimnissen und echten Verbrechen navigieren. Die Serie besticht durch ihre schnelle Handlung, komplexe Charaktere und die Verflechtung von politischen und kriminalistischen Elementen. Die Spannung bleibt konstant hoch, während Zuschauer verschiedene Verdächtige und Motive erkunden. Mit starkem Cast und intelligenter Drehbucharbeit bietet diese Serie eine moderne Perspektive auf True Crime mit diplomatischem Thriller-Flair.",
+      "week_id": "2026-W18",
+      "week_date": "27. April 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 3,
+      "title": "Dahmer – Monster: The Jeffrey Dahmer Story",
+      "year": "2022",
+      "rating": 8.5,
+      "genre": "Crime Drama",
+      "description": "Diese limitierte Serie erzählt die verstörende, aber fesselnde wahre Geschichte des Serienmörders Jeffrey Dahmer aus mehreren Perspektiven. Statt nur auf die Verbrechen zu fokussieren, zeigt sie auch die Opfer, deren Familien und die Ermittlungen. Die atmosphärische Inszenierung und schauspielerische Performance sind außergewöhnlich intensiv. Zuschauer tauchen in die düstere Welt der 1990er Jahre ein und verstehen die sozialen und psychologischen Faktoren hinter den Verbrechen. Die Serie ist verstörerisch, aber respektvoll gegenüber den Opfern. Sie setzt auf psychologische Tiefe statt Sensationalismus und bietet eine tiefe Analyse eines der berüchtigtsten Fälle der Kriminalgeschichte.",
+      "week_id": "2026-W18",
+      "week_date": "27. April 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 4,
+      "title": "Unbelievable",
+      "year": "2020",
+      "rating": 8.4,
+      "genre": "Crime Drama",
+      "description": "Basierend auf wahren Ereignissen folgt diese Serie einer Vergewaltigungsermittlung, die mehrere Fälle verbindet. Zentral ist die Geschichte eines Opfers, dessen Aussage zunächst angezweifelt wird, bis zwei hartnäckige Detektivinnen ein Muster erkennen. Die Serie zeichnet sich durch ihre einfühlsame Behandlung von Trauma aus und zeigt die Frustration bei der Verfolgung von Serienkriminellen. Die Atmosphäre ist beklemmend und emotinal, mit herausragenden Schauspielleistungen. Zuschauer erwartet ein intelligentes Drama über Ungerechtigkeit, Beharrlichkeit und das Vertrauen in Opfern. Die Serie ist verstörerisch, aber wichtig – sie zeigt die menschliche Seite von echten Kriminalfällen.",
+      "week_id": "2026-W18",
+      "week_date": "27. April 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 5,
+      "title": "The Staircase",
+      "year": "2022",
+      "rating": 7.9,
+      "genre": "Crime Drama",
+      "description": "Diese Serie rekonstruiert den rätselhaften Fall von Michael Peterson, dem vorgeworfen wird, seine Frau die Treppe hinuntergestoßen zu haben. Die Erzählung wechselt zwischen der Gerichtsverhandlung und Rückblicken auf die Eheverhältnisse, wobei ständig Fragen offen bleiben. Die mehrdeutige Inszenierung zwingt Zuschauer, selbst Schlussfolgerungen zu ziehen – war es ein Unfall oder Mord? Die Serie glänzt durch ihre Komplexität und Nuancierung ohne einfache Antworten. Mit starkem Cast und meisterhafter Regie wird eine psychologisch komplexe Geschichte erzählt. Perfect für True Crime Fans, die keine klaren Antworten erwarten und lieber in Ambiguität eintauchen möchten.",
+      "week_id": "2026-W18",
+      "week_date": "27. April 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
     {
       "rank": 1,
       "title": "The Boys Presents: Starlight",
