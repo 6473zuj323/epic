@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-04-27T10:51:56.901532",
-  "total": 15,
+  "last_updated": "2026-05-04T10:54:27.653461",
+  "total": 20,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Superhero-Drama",
+      "description": "Die Serie folgt einer Gruppe von Außenseitern, die gegen korrupte Superhelden kämpfen, die von einem mächtigen Konzern beschützt werden. Die weiblichen Charaktere wie Starlight und Queen Maeve sind absolut zentral und treiben die Handlung voran. Sie zeigen Stärke, Verwundbarkeit und komplexe moralische Dilemmata. Die Atmosphäre ist düster und provokativ, mit intensiven Action-Szenen und gesellschaftskritischen Themen. Die Serie deckt Machtmissbrauch und Korruption auf und bietet eine frische, subversive Sicht auf das Superhero-Genre. Mit großartigem Schauspiel und intelligente Dialoge ist dies ein Muss für Genre-Fans, die mehr als oberflächliche Unterhaltung suchen.",
+      "week_id": "2026-W19",
+      "week_date": "04. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 2,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.8,
+      "genre": "Comedy-Drama",
+      "description": "Fleabag ist eine britische Meisterklasse über eine chaotische, sarkastische junge Frau in London, die direkt mit dem Publikum spricht. Die Serie verbindet brillanten britischen Humor mit emotionaler Tiefe und macht den Zuschauer zum vertrauten Freund der Protagonistin. Ihre Kämpfe mit Familie, Liebe, Karriere und Selbstakzeptanz fühlen sich authentisch und relatable an. Die zweite Staffel vertieft die Charakterentwicklung und bringt emotionale Wendungen, die überraschen. Mit nur sechs Episoden pro Staffel ist sie kompakt und perfekt strukturiert. Phoebe Waller-Bridge schuf eine kulturelle Sensation, die für ihre innovative Erzählweise, den unvergesslichen Humor und die rohe menschliche Wahrhaftigkeit gefeiert wird.",
+      "week_id": "2026-W19",
+      "week_date": "04. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 3,
+      "title": "Killing Eve",
+      "year": "2018",
+      "rating": 8.1,
+      "genre": "Thriller/Drama",
+      "description": "Diese Thriller-Serie erzählt die Katz-und-Maus-Geschichte zwischen Eve, einer britischen MI6-Agentin, und Villanelle, einer psychopathischen Auftragsmörderin. Die Chemie zwischen den beiden Hauptfiguren ist elektrisierend und das Herzstück der Serie. Eve ist intelligent, zielstrebig und von ihrem Gegner besessen, während Villanelle unvorhersehbar und zugleich verstörend charismatisch ist. Die Serie kombiniert psychologische Spannung mit dunkelm Humor und überraschenden Wendungen. Jede Staffel intensiviert das Katz-und-Maus-Spiel und die psychologische Abhängigkeit zwischen den beiden Frauen. Mit stylischer Inszenierung, ausgezeichnetem Schauspiel und einer fesselnden Handlung ist dies ein must-watch Thriller, der Zuschauer ständig auf der Kante ihrer Sitze hält.",
+      "week_id": "2026-W19",
+      "week_date": "04. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 4,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Diese preisgekrönte Serie folgt Miriam Maisel, eine Hausfrau der 1950er Jahre, die nach der Trennung von ihrem Mann eine Karriere als Stand-up-Comedian beginnt. Mit brillanten Dialogen, einer wunderschönen Ausstattung und Rachel Brosnahan in der Hauptrolle ist die Serie ein Fest für die Sinne. Midge ist eine komplexe Protagonistin, die mit gesellschaftlichen Erwartungen bricht, während sie ihre Träume verfolgt. Die Serie ist witzig, herzerwärmend und inspirierend zugleich. Sie zeigt Misges Wachstum, ihre Kämpfe in einer männerdominierten Industrie und ihre liebevollen Beziehungen zu Familie und Freunden. Mit sorgfältiger Handlungsstruktur und außergewöhnlicher Schauspielleistung wird der Zuschauer sofort in Midges Welt gezogen und jubelt ihr beim Erfolg zu.",
+      "week_id": "2026-W19",
+      "week_date": "04. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 5,
+      "title": "Bodyguard",
+      "year": "2018",
+      "rating": 8.5,
+      "genre": "Political Thriller/Drama",
+      "description": "Dieser britische Thriller erzählt die Geschichte zwischen David Budd, einem traumatisierten Soldaten, und Julia Montague, einer ehrgeizigen und polarisierenden Politikerin. Julia ist eine starke, unabhängige Frau, die ihre politischen Ziele mit aller Macht verfolgt, während David mit PTSD kämpft und ihr Life-Guard werden soll. Die Serie ist spannungsgeladen, mit unerwarteten Wendungen und moralischen Graubereichen, die Zuschauer konstant überraschen. Die Atmosphäre ist düster und angespannt, mit ausgezeichnetem Pacing, das Zuschauer atemlos hält. Beide Hauptcharaktere sind vielschichtig und fehlerhaft, was die Serie psychologisch faszinierend macht. Mit einer bahnbrechenden Twist-Ende und fünf intensiven Episoden ist dies ein absoluter Thriller-Klassiker für alle, die intelligente, gut erzählte Dramen schätzen.",
+      "week_id": "2026-W19",
+      "week_date": "04. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
     {
       "rank": 1,
       "title": "Mindhunter",
