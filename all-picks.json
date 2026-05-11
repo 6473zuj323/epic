@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-04T10:54:27.653461",
-  "total": 20,
+  "last_updated": "2026-05-11T11:56:02.481164",
+  "total": 25,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.6,
+      "genre": "Psychologischer Thriller",
+      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie Pionierarbeit bei der Entwicklung von Criminal Profiling leisten. Die Serie zeigt ihre Reisen durch Amerika, während sie Serienmörder und psychopathische Verbrecher interviewen, um ihre Motive zu verstehen. Die Atmosphäre ist beklemmend und psychologisch intensiv. Jede Episode offenbart neue Schichten der menschlichen Dunkelheit. Die Serie besticht durch ihre langsam aufbauende Spannung, glänzende Charakterentwicklung und die fesselnde Darstellung echter Verbrechen. Die Zuschauer werden in ein Labyrinth aus Psyche und Verbrechen hineingezogen, das lange nachwirkt und zum Nachdenken zwingt.",
+      "week_id": "2026-W20",
+      "week_date": "11. Mai 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 2,
+      "title": "Bodyguard",
+      "year": "2018",
+      "rating": 8.4,
+      "genre": "Politischer Thriller",
+      "description": "Diese britische Miniserie folgt David Budd, einem PTBS-geschädigten Kriegsveteranen, der als Bodyguard für eine umstrittene Politikerin angeheuert wird. Schnell wird klar, dass nichts ist, wie es scheint. Verwickelte Verschwörungen, persönliche Dämonen und politische Machenschaften durchziehen die Handlung. Mit nur sechs Episoden liefert Bodyguard eine rasante, an den Nerven zerrende Erfahrung. Die Spannung ist konstant und überwältigend, mit Wendungen, die Zuschauer schockieren. Die Chemie zwischen den Hauptfiguren und die dichte Atmosphäre machen dies zur perfekten Serie für eine schlaflose Nacht voller Adrenalin.",
+      "week_id": "2026-W20",
+      "week_date": "11. Mai 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 3,
+      "title": "The Fall",
+      "year": "2013",
+      "rating": 8.2,
+      "genre": "Kriminalpsychothriller",
+      "description": "The Fall erzählt die Geschichte eines britischen Detektivs, der einen hochintelligenten Serienmörder in Belfast jagt. Die Serie wechselt zwischen den Perspektiven der Ermittlerin und des Mörders, was eine zutiefst beklemmende psychologische Dynamik schafft. Mit jeder Episode enthüllt sich die Komplexität des Verbrechers, während sich das Netz um ihn zuzieht. Die Spannung ist subtil, aber unglaublich effektiv. Die Charakterisierung ist tiefgreifend, die Dialoge präzise. Zuschauer erleben eine intellektuelle Katz-und-Maus-Spiel, das emotionale und mentale Grenzen testet. Die düstere Atmosphäre und psychologische Tiefe machen The Fall zur idealen Serie für unruhige Nächte.",
+      "week_id": "2026-W20",
+      "week_date": "11. Mai 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 4,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime-Drama-Thriller",
+      "description": "Ozark folgt einem Finanzberater, der in die Welt des Geldwäschens gezogen wird, nachdem ein Deal schiefgeht. Er muss seine Familie vor Mexico-Stadt bis zu den Südstaaten verstecken, während er für einen gefährlichen Drogenkartell arbeitet. Die Serie vereint intensive Charakterdramen mit ständiger Gefahr und moralischen Dilemmata. Die Handlung ist komplex, mit vielen Wendungen, die das Publikum überraschen. Die Atmosphäre ist beklemmend und angespannt. Jede Staffel steigert die Spannung. Mit ihrem dunkelton, den glaubwürdigen Charakteren und der preisgekrönten Schauspielleistung schafft Ozark eine süchtig machende, schlafraub Erfahrung.",
+      "week_id": "2026-W20",
+      "week_date": "11. Mai 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 5,
+      "title": "You",
+      "year": "2018",
+      "rating": 8.1,
+      "genre": "Psychologischer Thriller",
+      "description": "You folgt Joe Goldberg, einem obsessiven und manipulativen Mann, der sich unsterblich in eine Frau verliebt und beginnt, sie zu stalken. Die Serie wird teilweise aus Joes Perspektive erzählt, was die Zuschauer in sein abnormales Denken hineinzieht. Mit jeder Episode werden seine Verbrechen dunkler und kalkülierter. Die Serie ist verstörendes Kino, das die Grenzen zwischen Romantik und Horror verwischt. Die Spannung ist konstant, die Wendungen schockierend, die psychologische Komponente verstörendhaft. Mit ihrer Fähigkeit, Zuschauer zu schockieren und psychologisch zu manipulieren, macht You jede Nacht zur unvergesslichen, beklemmenden Erfahrung.",
+      "week_id": "2026-W20",
+      "week_date": "11. Mai 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
     {
       "rank": 1,
       "title": "The Boys",

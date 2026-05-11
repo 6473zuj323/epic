@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W20",
+      "date": "11. Mai 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "beste Thriller-Serien für schlaflose Nächte",
+      "theme_short": "Thriller",
+      "file": "2026-W20-netflix.json"
+    },
+    {
       "id": "2026-W19",
       "date": "04. Mai 2026",
       "service": "Amazon Prime Video",
@@ -56,9 +65,13 @@
     }
   ],
   "stats": {
-    "total_picks": 20,
-    "total_weeks": 6,
+    "total_picks": 25,
+    "total_weeks": 7,
     "genres": {
+      "Psychologischer Thriller": 3,
+      "Politischer Thriller": 1,
+      "Kriminalpsychothriller": 1,
+      "Crime-Drama-Thriller": 1,
       "Action/Superhero-Drama": 1,
       "Comedy-Drama": 3,
       "Thriller/Drama": 1,
@@ -68,13 +81,12 @@
       "Superhero-Drama": 1,
       "Fantasy-Drama-Animation": 1,
       "Horror-Dokumentation-Drama": 1,
-      "Psychologischer Thriller": 1,
       "Science Fiction / Horror / Drama": 1,
       "Drama / Historisch / Biografie": 1,
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-05-04T10:54:27.653461"
+    "last_updated": "2026-05-11T11:56:02.481164"
   }
 }
