@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-11T11:56:02.481164",
-  "total": 25,
+  "last_updated": "2026-05-18T12:19:57.695402",
+  "total": 30,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Diese brillante Serie folgt Miriam Maisel, einer Hausfrau der 1950er Jahre, die nach einer Trennung ihre Karriere als Stand-Up-Comedian beginnt. Mit Witz, Charme und wunderschöner Cinematografie erzählt die Show eine Geschichte über Selbstfindung, Ambition und Empowerment. Die schnellen, geistreichen Dialoge und das farbenfrohe New York der Nachkriegszeit schaffen eine unglaublich positive Atmosphäre. Die Serie ist herzerwärmend durch ihre Charakterentwicklung, die starken Beziehungen zwischen Familie und Freunden sowie die inspirierende Botschaft über das Verfolgen eigener Träume. Perfekt für schlechte Tage, da sie Mut und Optimismus verbreitet.",
+      "week_id": "2026-W21",
+      "week_date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 2,
+      "title": "Schitt's Creek",
+      "year": "2015",
+      "rating": 8.4,
+      "genre": "Comedy",
+      "description": "Eine wohlhabende Familie verliert ihr Vermögen und wird gezwungen, in einer kleinen Stadt namens Schitt's Creek zu leben. Was folgt, ist eine wunderbar warmherzige Comedy über Demütigung, Wachstum und Familie. Die Serie dokumentiert, wie die anfangs unsympathischen Charaktere lernen, sich selbst zu akzeptieren und sich untereinander näher zu kommen. Der Humor ist feinfühlig und liebevoll, nicht bösartig. Die Beziehungen zwischen den Familienmitgliedern werden immer tiefer und authentischer. Mit emotionalen Momenten, die zwischen hysterischer Komödie balancieren, bietet Schitt's Creek genau das, was man bei schlechten Tagen braucht: Lachen, Trost und das Gefühl, nicht allein zu sein.",
+      "week_id": "2026-W21",
+      "week_date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 3,
+      "title": "Good Omens",
+      "year": "2019",
+      "rating": 8.0,
+      "genre": "Fantasy-Comedy",
+      "description": "Diese visuell wunderbare Serie basiert auf Neil Gaimans Roman und erzählt von einem Engel und einem Dämonen, die sich anfreunden und zusammenarbeiten, um die Apokalypse zu verhindern. Mit großartigen Schauspielern, fantastischer Musik und einer skurrilen, charmanten Atmosphäre bietet die Serie Flucht in eine magische Welt. Die Chemie zwischen den Hauptcharakteren ist herzzerreißend und humorvoll zugleich. Die Serie ist voller Liebe, Loyalität und dem Gedanken, dass auch unerwartete Freundschaften bedeutungsvoll sind. Die visuellen Effekte und das Weltbuilding schaffen eine gemütliche, fantastische Umgebung, die perfekt ist, um in schlechten Zeiten in eine andere Welt abzutauchen.",
+      "week_id": "2026-W21",
+      "week_date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 4,
+      "title": "Ted Lasso",
+      "year": "2020",
+      "rating": 8.5,
+      "genre": "Comedy-Drama",
+      "description": "Ted Lasso, ein naiver amerikanischer Football-Coach, wird eingestellt, um ein englisches Fußballteam zu trainieren, das er sabotieren soll. Doch statt Katastrophe passiert etwas Magisches: Ted ändert alle um sich herum mit seiner grenzenlosen Positivität und Güte. Diese Serie ist pure Heilung für schlechte Tage. Sie behandelt ernsthafte Themen wie Angst, Verlust und Zweifeln auf feine, einfühlsame Weise. Die Charakterentwicklung ist außergewöhnlich, und die Beziehungen sind authentisch und tiefgründig. Mit witzigen Momenten, inspirierenden Botschaften und dem Kern-Gedanken, dass Güte und Optimismus ansteckend sind, schafft Ted Lasso eine warmherzige Atmosphäre, die Zuschauer emotional berührt und glücklich macht.",
+      "week_id": "2026-W21",
+      "week_date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 5,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.8,
+      "genre": "Comedy-Drama",
+      "description": "Diese innovative britische Serie folgt einer chaotischen jungen Frau navigiert durch Liebe, Familie und Selbstzerstörung. Durch humorvolle Blicke direkt in die Kamera spricht Fleabag zur Audience, als würde sie mit einem Freund kommunizieren. Die Serie balanciert brillant zwischen Humor und herzzerreißenden emotionalen Momenten. Während Fleabag anfangs unsympathisch wirkt, entwickelt sich die Serie zu einer tiefgreifenden Erforschung von Familie, Akzeptanz und Selbstmitgefühl. Die Beziehung zu ihrem Vater wird besonders bewegend. Trotz des Chaos und der Verrücktheit gibt es tiefe Liebe und Verständnis. Die Serie ist herzerwärmend, da sie zeigt, dass selbst durcheinander gebrachte Menschen es verdienen, geliebt zu werden.",
+      "week_id": "2026-W21",
+      "week_date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
     {
       "rank": 1,
       "title": "Mindhunter",

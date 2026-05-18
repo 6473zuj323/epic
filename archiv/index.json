@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W21",
+      "date": "18. Mai 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "herzerwärmende Serien für schlechte Tage",
+      "theme_short": "Feel-Good",
+      "file": "2026-W21-prime.json"
+    },
+    {
       "id": "2026-W20",
       "date": "11. Mai 2026",
       "service": "Netflix",
@@ -65,15 +74,17 @@
     }
   ],
   "stats": {
-    "total_picks": 25,
-    "total_weeks": 7,
+    "total_picks": 30,
+    "total_weeks": 8,
     "genres": {
+      "Comedy-Drama": 6,
+      "Comedy": 1,
+      "Fantasy-Comedy": 1,
       "Psychologischer Thriller": 3,
       "Politischer Thriller": 1,
       "Kriminalpsychothriller": 1,
       "Crime-Drama-Thriller": 1,
       "Action/Superhero-Drama": 1,
-      "Comedy-Drama": 3,
       "Thriller/Drama": 1,
       "Political Thriller/Drama": 1,
       "Crime Drama": 4,
@@ -87,6 +98,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-05-11T11:56:02.481164"
+    "last_updated": "2026-05-18T12:19:57.695402"
   }
 }
