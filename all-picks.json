@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-18T12:19:57.695402",
-  "total": 30,
+  "last_updated": "2026-05-25T12:17:32.427427",
+  "total": 35,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science-Fiction, Horror, Drama",
+      "description": "Stranger Things entführt Zuschauer in die 1980er Jahre nach Hawkins, Indiana, wo eine Gruppe von Kindern in übernatürliche Phänomene verwickelt wird. Als ein Junge spurlos verschwindet, enthüllen sich Portale zu einer düsteren Parallelwelt namens Upside Down. Die Serie besticht durch ihre ikonische Synthwave-Ästhetik, meisterhafte Spannung und emotionale Tiefe. Die Kombination aus Nostalgie, Mystery und praktischen Spezialeffekten schafft eine atmosphärisch dichte Welt. Mit exzellenten Schauspielleistungen, besonders der jungen Darsteller, und einer fesselnden Handlung, die über vier Staffeln hinweg wächst, bietet die Serie perfekte Unterhaltung für alle Altersgruppen.",
+      "week_id": "2026-W22",
+      "week_date": "25. Mai 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 2,
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama, Biografie, Geschichte",
+      "description": "The Crown erzählt die Saga der britischen Königsfamilie vom Ende des Zweiten Weltkriegs bis zur modernen Gegenwart. Die Serie folgt der Herrschaft von Königin Elizabeth II. und bietet einen intimen Blick hinter die Palastmauern. Mit opulentem Production Design, prächtigen Kostümen und ikonischen Sets wird jede Staffel zur visuellen Meisterleistung. Die Dramatisierung historischer Ereignisse verbindet Authentizität mit narrativer Spannung. Herausragende Schauspielleistungen von Claire Foy, Olivia Colman und anderen Stars machen diese Serie zu einem visuellen und emotionalen Epos. Ein Muss für Geschichte- und Dramaliebhaber.",
+      "week_id": "2026-W22",
+      "week_date": "25. Mai 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 3,
+      "title": "Bridgerton",
+      "year": "2020",
+      "rating": 8.0,
+      "genre": "Drama, Romantik, Geschichte",
+      "description": "Bridgerton ist ein farbenfrohes historisches Liebesdrama, das in der regency-zeitlichen englischen Gesellschaft angesiedelt ist. Die Serie folgt der wohlhabenden Bridgerton-Familie durch romantische Abenteuer, gesellschaftliche Intrigen und persönliche Konflikte. Mit atemberaubend schönen viktorianischen Kostümen, prachtvollen Ballsälen und üppigen Gartenanlagen schafft die Serie eine visuelle Märchenwelt. Die Mischung aus Spannung, Humor und Zärtlichkeit macht jede Episode reizvoll. Großartige Ensembledarstellung und Gillian Anderson als zeitlose Matriarchin verleihen der Serie Gravitas. Ein opulentes, unterhaltsames Drama für jeden, der sich in historische Romantik verliebt.",
+      "week_id": "2026-W22",
+      "week_date": "25. Mai 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 4,
+      "title": "Chilling Adventures of Sabrina",
+      "year": "2018",
+      "rating": 8.2,
+      "genre": "Übernatürlich, Horror, Drama",
+      "description": "Diese düstere Neuinterpretation des Sabrina-Universums taucht tief in übernatürliche Horror-Elemente ein. Sabrina Spellman navigiert zwischen ihrer menschlichen und ihrer Hexen-Seite, während sie sich dämonischen Machenschaften widersetzt. Die Serie besticht durch eine atmosphärisch dichte Ästhetik mit gotischen Kulissen, effektive praktische Spezialeffekte und verstörendes Sound-Design. Jede Episode balanciert zwischen düsterer Atmosphäre und komplexer Charakterentwicklung. Mit starken Performances und philosophischen Fragen zur Moral und zum Opfer wird Sabrina zu mehr als nur einer Teenager-Serie. Perfekt für Horror-Fans und jene, die tiefe, düstere Fantasy-Dramen schätzen.",
+      "week_id": "2026-W22",
+      "week_date": "25. Mai 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 5,
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": 8.1,
+      "genre": "Fantasy, Adventure, Drama",
+      "description": "The Witcher adaptiert die epische Fantasy-Saga und folgt Geralt von Rivia, einem Hexer, der Monster jagt und sich in eine Welt voller politischer Intrigen verwickelt. Die Serie bietet spektakuläre Actionsequenzen, komplexe Charaktere und eine reichhaltige, detaillierte Welt. Mit aufwendigen Produktionen, praktischen Kostümen und CGI-Effekten schafft jede Szene visuellen Eindruck. Die nicht-lineare Erzählweise der ersten Staffel verleiht der Serie Tiefe und Geheimnisse. Henry Cavill liefert als Geralt eine ikonische Darstellung eines komplexen Antiheroen. Ein episches Fantasy-Drama mit Action, Magie und emotionalen Wendungen für jeden Abenteuer-Liebhaber.",
+      "week_id": "2026-W22",
+      "week_date": "25. Mai 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
     {
       "rank": 1,
       "title": "The Marvelous Mrs. Maisel",

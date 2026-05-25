@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W22",
+      "date": "25. Mai 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "visuell atemberaubende Serien",
+      "theme_short": "Visuell",
+      "file": "2026-W22-netflix.json"
+    },
+    {
       "id": "2026-W21",
       "date": "18. Mai 2026",
       "service": "Amazon Prime Video",
@@ -74,9 +83,14 @@
     }
   ],
   "stats": {
-    "total_picks": 30,
-    "total_weeks": 8,
+    "total_picks": 35,
+    "total_weeks": 9,
     "genres": {
+      "Science-Fiction, Horror, Drama": 1,
+      "Drama, Biografie, Geschichte": 1,
+      "Drama, Romantik, Geschichte": 1,
+      "Übernatürlich, Horror, Drama": 1,
+      "Fantasy, Adventure, Drama": 1,
       "Comedy-Drama": 6,
       "Comedy": 1,
       "Fantasy-Comedy": 1,
@@ -98,6 +112,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-05-18T12:19:57.695402"
+    "last_updated": "2026-05-25T12:17:32.427427"
   }
 }
