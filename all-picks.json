@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-25T12:17:32.427427",
-  "total": 35,
+  "last_updated": "2026-06-01T14:47:16.555920",
+  "total": 40,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Superhelden-Drama",
+      "description": "The Boys erzählt die dunkle Geschichte einer Gruppe gewöhnlicher Menschen, die gegen korrupte Superhelden kämpfen. Basierend auf wahren Elementen von Macht und Manipulation zeigt die Serie eine dystopische Version unserer Welt, in der Superkräfte kein Segen sind. Die Protagonisten enthüllen die schmutzigen Geheimnisse einer großen Corporation und ihrer prominenten Superhelden. Mit grafischer Action, schwarzem Humor und tiefgründigen Charakteren bietet die Serie eine erfrischend kritische Perspektive auf Heroismus. Die Spannung baut kontinuierlich auf, während Charaktere morally grey werden. Zuschauer erwartet eine intensiv düstere Atmosphäre mit überraschenden Wendungen, die Konventionen des Superhelden-Genres vollständig brechen.",
+      "week_id": "2026-W23",
+      "week_date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 2,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.0,
+      "genre": "Western/Drama",
+      "description": "Godless ist ein atmosphärischer Western basierend auf der wahren Geschichte von Independence, New Mexico – eine Stadt, die vollständig von Frauen regiert wird. Nach Missbrauch durch einen Religionsführer flieht ein junges Mädchen in diese einzigartige Gemeinschaft und muss dort Schutz suchen. Jeff Daniels spielt den charismatischen Antagonisten, der die Stadt bedroht. Die Serie brilliert durch ihre unkonventionelle Perspektive auf Western-Tropes, innovative Kameraarbeit und starke weibliche Charaktere. Die Atmosphäre ist visuell beeindruckend und spannungsgeladen. Zuschauer erwartet ein langsam aufbauendes Drama mit ethischen Dilemmata, das traditionelle Machtverhältnisse hinterfragt und eine düstere, fesselnde Erzählung bietet.",
+      "week_id": "2026-W23",
+      "week_date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 3,
+      "title": "The Diplomat",
+      "year": "2023",
+      "rating": 7.8,
+      "genre": "Political Thriller/Drama",
+      "description": "The Diplomat folgt einer ehrgeizigen US-Botschafterin, die in einen internationalen Konflikt verwickelt wird, der die globale Stabilität gefährdet. Die Serie kombiniert politische Spannung mit persönlichen Dramen und basiert auf realen diplomatischen Herausforderungen. Keri Russell liefert eine Leistung von Weltklasse als die taktisch kluge Protagonistin, die zwischen politischen Gegnern navigieren muss. Mit intelligenten Dialogen, überraschenden Wendungen und hochkarätigen Nebencharakteren wird Zuschauer schnell in die Komplexität internationaler Politik hineingezogen. Die Atmosphäre alterniert zwischen angespannter Diplomatie und persönlichen Vulnerabilitäten. Erwartet wird ein intellektuell anspruchsvolles Thriller-Drama mit eleganter Spannung und komplexer politischer Intrige.",
+      "week_id": "2026-W23",
+      "week_date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 4,
+      "title": "Darklands",
+      "year": "2021",
+      "rating": 7.5,
+      "genre": "Crime Drama/Mystery",
+      "description": "Darklands ist ein düsteres walisisches Crime-Drama, das auf wahren Verbrechen basiert und sich um Ermittler konzentriert, die in einem gefährlichen Fall verstrickt sind. Die Serie erforscht Korruption, moralische Ambiguität und die psychologischen Auswirkungen von Verbrechen auf Detektive. Zeitsprünge zwischen verschiedenen Zeitperioden offenbaren schrittweise die komplexe Wahrheit hinter mysteriösen Ereignissen. Die dunkle walisische Landschaft verstärkt die beklemmende Atmosphäre, während Charakterentwicklung im Vordergrund steht. Mit methodischer Erzählweise und psychologischer Tiefe bietet die Serie eine konstante, unterschwellige Spannung. Zuschauer sollten erwarten: intellektuelles Kriminal-Drama, das langsam aufbaut, komplexe Charaktere mit verborgenen Motiven und eine Reise in moralische Grauzonendes menschlichen Verhaltens.",
+      "week_id": "2026-W23",
+      "week_date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 5,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "The Marvelous Mrs. Maisel ist eine charmante, schnelllebige Serie über eine Hausfrau des Jahres 1958, die ihre Berufung als Stand-up-Comedienne entdeckt. Inspiriert von wahren Geschichten weiblicher Pionierin der Comedy-Szene, folgt die Serie Miriam Maisels Transformation und ihrem Aufstieg im männerdominierten Entertainment-Business. Mit glänzenden Dialogen, fantastischen Kostümen und einer visuell beeindruckenden New-York-Ästhetik ist die Serie gleichzeitig unterhaltsam und tiefgründig. Sie behandelt Themen wie Emanzipation, Familie und Selbstverwirklichung mit Humor und Sensibilität. Die Atmosphäre ist lebhaft und optimistisch, trotz gesellschaftlicher Hürden. Zuschauer erwartet ein fesselndes Coming-of-Age-Drama mit exzellentem Schreiben, das Drama und Comedy mühelos verbindet.",
+      "week_id": "2026-W23",
+      "week_date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
     {
       "rank": 1,
       "title": "Stranger Things",

@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W23",
+      "date": "01. Juni 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "Serien basierend auf wahren Geschichten",
+      "theme_short": "True Stories",
+      "file": "2026-W23-prime.json"
+    },
+    {
       "id": "2026-W22",
       "date": "25. Mai 2026",
       "service": "Netflix",
@@ -83,9 +92,14 @@
     }
   ],
   "stats": {
-    "total_picks": 35,
-    "total_weeks": 9,
+    "total_picks": 40,
+    "total_weeks": 10,
     "genres": {
+      "Action/Superhelden-Drama": 1,
+      "Western/Drama": 1,
+      "Political Thriller/Drama": 2,
+      "Crime Drama/Mystery": 1,
+      "Comedy/Drama": 1,
       "Science-Fiction, Horror, Drama": 1,
       "Drama, Biografie, Geschichte": 1,
       "Drama, Romantik, Geschichte": 1,
@@ -100,7 +114,6 @@
       "Crime-Drama-Thriller": 1,
       "Action/Superhero-Drama": 1,
       "Thriller/Drama": 1,
-      "Political Thriller/Drama": 1,
       "Crime Drama": 4,
       "Crime Thriller": 1,
       "Superhero-Drama": 1,
@@ -112,6 +125,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-05-25T12:17:32.427427"
+    "last_updated": "2026-06-01T14:47:16.555920"
   }
 }
