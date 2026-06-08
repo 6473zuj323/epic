@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-01T14:47:16.555920",
-  "total": 40,
+  "last_updated": "2026-06-08T12:55:57.112748",
+  "total": 45,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.2,
+      "genre": "Western/Drama",
+      "description": "Eine einzigartige Western-Serie, die in einer von Frauen dominierten Stadt spielt, nachdem alle Männer in einer Bergbauexplosion ums Leben kamen. Ein mysterieser Outlaw kommt in die Stadt und verstört die fragile Ordnung. Die Serie brilliert durch ihre unkonventionelle Perspektive auf das Western-Genre, starke weibliche Charaktere und eine düstere, spannungsgeladene Atmosphäre. Visuell atemberaubend mit ikonographischen Bildern und komplex geschriebenen Rollen jenseits von Klischees. Die Handlung verbindet Spannung, Charakter-Drama und gesellschaftliche Fragen. Trotz kritischer Anerkennung bleibt sie unterschätzt und verdient viel mehr Aufmerksamkeit für ihre originelle Erzählweise und hochkarätige Besetzung.",
+      "week_id": "2026-W24",
+      "week_date": "08. Juni 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 2,
+      "title": "The Diplomat",
+      "year": "2023",
+      "rating": 7.8,
+      "genre": "Political Thriller/Drama",
+      "description": "Kate Winslet spielt eine brillante US-Diplomatin, die mit internatioalen Krisen und persönlichen Machtspielen kämpft. Die Serie kombiniert politische Spannungen mit persönlichen Konflikten und moralischen Dilemmata. Winslet liefert eine nuancierte, charismatische Performance in einer komplexen Rolle zwischen Idealismus und Pragmatismus. Die Schreibweise ist scharf, witzig und fesselnd mit überraschenden Wendungen. Die Serie erkundet Themen wie Macht, Geschlecht in der Politik und die Kosten von Ambition. Trotz erstklassiger Besetzung und intelligenten Drehbuch-Arbeiten blieb sie im Schatten größerer Produktionen und verdient deutlich mehr Sichtbarkeit und Anerkennung.",
+      "week_id": "2026-W24",
+      "week_date": "08. Juni 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 3,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.6,
+      "genre": "Crime/Drama",
+      "description": "Ein Finanzberater und seine Familie müssen in die Ozarks fliehen und sich in Geldwäsche verstricken, um mit einem mexikanischen Kartell zu überleben. Jason Bateman und Laura Linney spielen ein bemerkenswertes Ehepaar in existenzieller Bedrängnis. Die Serie bietet psychologische Tiefe mit einer bedrückenden Atmosphäre, die kontinuierlich eskaliert. Jede Staffel intensiviert die Spannungen und moralischen Kompromisse. Die Charakterentwicklung ist außergewöhnlich, zeigt wie Durchschnittsmenschen in kriminelle Abgründe abgleiten. Trotz ihrer Qualität wurde die Serie oft überschattet von ähnlichen Produktionen, verdient aber definitiv mehr Anerkennung als Meisterwerk des modernen Dram-Krimis.",
+      "week_id": "2026-W24",
+      "week_date": "08. Juni 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 4,
+      "title": "Russian Doll",
+      "year": "2019",
+      "rating": 8.1,
+      "genre": "Dark Comedy/Science Fiction",
+      "description": "Eine Frau erlebt ihren 36. Geburtstag wiederholt, muss sterben und wacht immer wieder auf—ähnlich Groundhog Day, aber dunkler und existenzieller. Natasha Lyonne als Protagonistin Nadia ist charismatisch und verletzlich zugleich. Die Serie verbindet schwarzen Humor mit tiefgründigen Fragen über Sinn, Wiedergeburt und zwischenmenschliche Beziehungen. Jede Episode enthüllt neue Schichten des Mysteriums und der Psyche der Hauptfigur. Die visuelle Gestaltung ist kreativ und surreal, unterstützt die verrückte Premisse perfekt. Trotz kritischer Begeisterung blieb sie weniger populär als vergleichbare High-Concept-Serien und verdient als innovatives, emotional ehrliches Werk mehr Aufmerksamkeit.",
+      "week_id": "2026-W24",
+      "week_date": "08. Juni 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 5,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime/Drama/Thriller",
+      "description": "Die Serie folgt FBI-Agenten Holden Ford und Bill Tench in den 1970ern bei der Entwicklung moderner Kriminalprofilierung durch Interviews mit Serienmördern. Basierend auf wahren Ereignissen kombiniert sie spannendes Procedural-Drama mit psychologischen Kriminalgeschichten. Jonah Hill und Holt McCallany spielen überzeugende Rollen mit großer Chemie und Tiefgang. Die Serie erforscht, wie Obsession für Ermittlungsarbeit notwendig und destruktiv sein kann. Die Spannungsaufbau ist subtil aber kraftvoll, fokussiert auf Gespräche statt Action. Trotz Netflix-Cancellation nach zwei Staffeln bleibt die Serie ein unterschätztes Meisterwerk des Thriller-Genres mit intelligenter Schreibweise.",
+      "week_id": "2026-W24",
+      "week_date": "08. Juni 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
     {
       "rank": 1,
       "title": "The Boys",
