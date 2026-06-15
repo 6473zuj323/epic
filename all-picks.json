@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-08T12:55:57.112748",
-  "total": 45,
+  "last_updated": "2026-06-15T14:54:02.726078",
+  "total": 50,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Superhelden-Satire",
+      "description": "The Boys bietet eine düstere, subversive Perspektive auf das Superhelden-Genre. Die Serie folgt einer Gruppe gewöhnlicher Menschen, die gegen korrupte, gefährliche Superhelden kämpfen, die von einem bösen Konzern kontrolliert werden. Mit explodierenden Action-Szenen, dunklem Humor und moralisch fragwürdigen Charakteren schafft die Serie eine einzigartige Atmosphäre. Die Handlung ist voller Wendungen, die Charakterentwicklung ist tiefgreifend, und die Kritik an Macht und Konsumismus ist brillant verpackt. Perfekt für Binge-Watching mit cliffhanger-lastigen Episoden-Enden.",
+      "week_id": "2026-W25",
+      "week_date": "15. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 2,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.8,
+      "genre": "Komödie/Drama",
+      "description": "Fleabag ist eine britische Meisterwerk-Serie über eine unkonventionelle, manipulative Frau in ihren 30ern, die direkt in die Kamera spricht. Die Serie kombiniert herzzerreißende Dramaturgie mit absurdem britischem Humor auf nahtlose Weise. Jede Episode ist schnell erzählt, verdichtet und emotional resonant. Die Charaktere sind scharf geschrieben, die Familie dysfunktional und lustig zugleich. Die Serie bietet tiefe, nachdenkliche Momente neben Comedy-Gold, was sie perfekt für intensives Binge-Watching macht. Mit nur zwei Staffeln ist sie auch ideal für einen konzentrierten Marathon.",
+      "week_id": "2026-W25",
+      "week_date": "15. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 3,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Thriller/Psychologisches Drama",
+      "description": "Mindhunter erzählt die fiktionalisierte wahre Geschichte der Gründung der FBI-Abteilung für Verhaltensanalyse. Die Serie folgt zwei Agenten, die innovative Verhörtechniken entwickeln und legendäre Serienmörder profilen. Mit meticulous recherchierter Atmosphäre und psychologischer Tiefe ist jede Episode fesselnd. Die Spannungen zwischen Tradition und Innovation, persönliche Konflikte und die psychologische Komplexität der Tätermotive schaffen ein süchtig machendes Drama. Perfekt für Zuschauer, die intelligente, anspruchsvolle Crime-Thriller bevorzugen mit langsam aufbauender Spannung.",
+      "week_id": "2026-W25",
+      "week_date": "15. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 4,
+      "title": "Transparent",
+      "year": "2014",
+      "rating": 8.3,
+      "genre": "Drama/Familie",
+      "description": "Transparent ist ein emotionales Familien-Drama, das sich um Maura Pfefferman dreht, die sich mit 70 Jahren als Transgender outet. Die Serie erforscht tiefgreifend, wie diese Offenbarung die dysfunktionale, jüdische Familie erschüttert. Mit innovativem Storytelling, Sprüngen in der Zeit und psychologischer Komplexität schafft die Serie eine eindringliche, intime Atmosphäre. Die Charaktere sind fehlerhaft und vierdimensional, die Dialoge realistisch und zuweilen schmerzhaft ehrlich. Es ist eine Serie über Identität, Familie und Liebe, die zugleich unterhält und tiefgründig nachdenklich macht.",
+      "week_id": "2026-W25",
+      "week_date": "15. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 5,
+      "title": "Good Omens",
+      "year": "2019",
+      "rating": 8.1,
+      "genre": "Fantasy/Komödie",
+      "description": "Good Omens basiert auf Neil Gaimans Klassiker und folgt einem Engel und einem Dämon, die sich anfreunden und zusammenarbeiten, um die Apokalypse zu verhindern. Die Serie besticht durch witzige, intelligente Dialoge, fantastische Weltgebäudung und charmante Charakterchemie. Mit einer perfekten Mischung aus Humor, Action und sentimentalen Momenten ist sie leicht zugänglich und unterhaltsam. Die visuellen Effekte sind beeindruckend, die Inszenierung kreativ, und die Episode zu Beginn der Zeit ist brillant. Perfekt für einen unterhaltsamen Binge-Marathon ohne zu viel emotionale Belastung.",
+      "week_id": "2026-W25",
+      "week_date": "15. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
     {
       "rank": 1,
       "title": "Godless",
