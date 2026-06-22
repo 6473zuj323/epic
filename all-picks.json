@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-15T14:54:02.726078",
-  "total": 50,
+  "last_updated": "2026-06-22T14:23:02.825752",
+  "total": 55,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Sixth Sense",
+      "year": "1999",
+      "rating": 8.2,
+      "genre": "Thriller/Drama",
+      "description": "Ein Kinderpsycholog arbeitet mit einem jungen Patienten zusammen, der behauptet, Tote sehen zu können. Die Serie entwickelt sich als psychologischer Thriller, der die Grenze zwischen Realität und Übernatürlichem verschwimmen lässt. Mit jedem Gespräch zwischen Arzt und Patient wird die Spannung aufgebaut, während mysteriöse Ereignisse die Handlung vorantreiben. Die Atmosphäre ist beklemmend und introspektiv. Der finale Plot-Twist stellt alles in Frage, was der Zuschauer bislang gesehen hat und zwingt zu einem kompletten Neudenken der gesamten Geschichte. Meisterhaft inszeniert mit subtilen Hinweisen, die erst rückblickend Sinn ergeben.",
+      "week_id": "2026-W26",
+      "week_date": "22. Juni 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 2,
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Science-Fiction/Mystery",
+      "description": "In einer kleinen deutschen Stadt verschwindet ein Junge spurlos. Die Ermittlungen enthüllen ein komplexes Netzwerk von Familien, verstrickten Geheimen und einer zeitreisenden Verschwörung, die Generationen verbindet. Die Serie verwebt Multiple Timelines, dunkle Atmosphäre und philosophische Fragen zur Kausalität. Jede Episode offenbart neue Schichten, während mysteriöse Symbole und wiederkehrende Motive ein großes Geheimnis andeuten. Die mehrfachen Plot-Twists führen zu völlig unerwarteten Wendungen, die bisherige Annahmen grundlegend ändern. Das Finale verbindet alle Fäden zu einer atemberaubenden Offenbarung über die Natur von Zeit und Schicksal.",
+      "week_id": "2026-W26",
+      "week_date": "22. Juni 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 3,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime/Thriller",
+      "description": "Die Serie folgt dem FBI-Agenten Holden Ford und seinem Partner Bill Tench, die Pionierarbeit im Bereich der Kriminalprofilerstellung leisten. Sie fahren durch Amerika, um mit Serienmördern zu sprechen und deren psychologische Muster zu analysieren. Die Atmosphäre ist düster und intensiv, mit ethischen Dilemmata und persönlichen Konflikten. Während sie glauben, Mörder zu verstehen, stellen sich die Befragungen als psychologisches Schachspiel heraus. Plot-Twists entstehen, wenn bisherige Annahmen über Täter widerlegt werden oder neue Erkenntnisse alte Fälle in neuem Licht zeigen. Die Serie hält psychologische Spannung und unerwartete Wendungen konstant, während sie die düstere Realität von Verbrechensbekämpfung und menschlicher Manipulation beleuchtet.",
+      "week_id": "2026-W26",
+      "week_date": "22. Juni 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 4,
+      "title": "The Haunting of Hill House",
+      "year": "2018",
+      "rating": 8.6,
+      "genre": "Horror/Drama",
+      "description": "Eine Familie kehrt in das legendär verfluchte Hill House zurück, um ihre traumatischen Kindheitserlebnisse zu verarbeiten. Die Serie springt zwischen Gegenwart und Vergangenheit, enthüllend wie Übernatürliches und familiäre Trauma verschwimmen. Die Atmosphäre ist angespannt und psychologisch verstörend, mit jump scares durchmischt. Jeder Episode offenbart mehr über die Natur des Hauses und die individuellen Geheimnisse der Familie. Der größte Plot-Twist betrifft die Wahrheit darüber, was wirklich im Haus passiert ist und welche Ereignisse real versus übernatürlich sind. Die finale Episode redefliniert das gesamte Verständnis der Serie und zeigt, dass Horror nicht nur außen, sondern auch innen lauert.",
+      "week_id": "2026-W26",
+      "week_date": "22. Juni 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 5,
+      "title": "Bodyguard",
+      "year": "2018",
+      "rating": 8.4,
+      "genre": "Thriller/Drama",
+      "description": "Ein traumatisierter Veteran wird als Bodyguard einer umstrittenen Politikerin angestellt und muss sie vor einer drohenden Bedrohung schützen. Die Serie wird zu einem Spiel der Intrigen, bei dem nichts und niemand vertrauenswürdig ist. Die Spannung eskaliert konstant mit jedem Episode, während Paranoia und Misstrauen wachsen. Charaktere zeigen unerwartete Seiten ihrer Persönlichkeit, loyale Verbündete werden zu Verdächtigen. Die Plot-Twists erscheinen unerwartet und ändern das Verständnis von Motiven und Schuld fundamental. Die Serie stellt Fragen über Vertrauen, Loyalität und moralische Grenzen in einem politischen Thriller, der psychologisch packend und dramatisch unbezahlbar ist.",
+      "week_id": "2026-W26",
+      "week_date": "22. Juni 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
     {
       "rank": 1,
       "title": "The Boys",

@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W26",
+      "date": "22. Juni 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "Serien mit überraschenden Plot-Twists",
+      "theme_short": "Plot-Twists",
+      "file": "2026-W26-netflix.json"
+    },
+    {
       "id": "2026-W25",
       "date": "15. Juni 2026",
       "service": "Amazon Prime Video",
@@ -110,9 +119,13 @@
     }
   ],
   "stats": {
-    "total_picks": 50,
-    "total_weeks": 12,
+    "total_picks": 55,
+    "total_weeks": 13,
     "genres": {
+      "Thriller/Drama": 3,
+      "Science-Fiction/Mystery": 1,
+      "Crime/Thriller": 1,
+      "Horror/Drama": 1,
       "Action/Superhelden-Satire": 1,
       "Komödie/Drama": 1,
       "Thriller/Psychologisches Drama": 1,
@@ -139,7 +152,6 @@
       "Kriminalpsychothriller": 1,
       "Crime-Drama-Thriller": 1,
       "Action/Superhero-Drama": 1,
-      "Thriller/Drama": 1,
       "Crime Drama": 4,
       "Crime Thriller": 1,
       "Superhero-Drama": 1,
@@ -151,6 +163,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-06-15T14:54:02.726078"
+    "last_updated": "2026-06-22T14:23:02.825752"
   }
 }
