@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-22T14:23:02.825752",
-  "total": 55,
+  "last_updated": "2026-06-29T12:55:12.386673",
+  "total": 60,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Engrenages (Spiral)",
+      "year": "2005",
+      "rating": 8.4,
+      "genre": "Krimidrama",
+      "description": "Diese französische Krimiserie folgt einer Ermittlergruppe in Paris, die sich mit komplexen Mordfällen auseinandersetzt. Die Serie zeichnet sich durch ihre düstere Atmosphäre, realistische Charakterentwicklung und verschlungene Handlungsstränge aus. Sie zeigt nicht nur die polizeiliche Arbeit, sondern auch die psychologischen Belastungen der Ermittler und das korrupte Justizsystem. Mit ausgezeichneten Schauspielern und intensiven Episoden bietet Engrenages ein packend geschriebenes Drama, das europäisches Noir-Kino auf hohem Niveau liefert. Die Serie wurde international gefeiert und gilt als Klassiker des französischen Fernsehens. Zuschauer erwartet ein gritty, spannendes Crime-Drama ohne Schnörkel.",
+      "week_id": "2026-W27",
+      "week_date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 2,
+      "title": "The Bureau (Le Bureau des Légendes)",
+      "year": "2015",
+      "rating": 8.3,
+      "genre": "Spionage-Thriller",
+      "description": "Diese französische Serie folgt einem Geheimagenten, der nach einer langen Undercover-Mission nach Paris zurückkehrt und sich in die komplexen politischen Strukturen des französischen Geheimdienstes einfädeln muss. The Bureau kombiniert Spionage-Spannung mit psychologischer Tiefe und zeigt die emotionalen Narben, die lange Einsätze hinterlassen. Die Serie zeichnet sich durch ihre Authentizität, unpredictable Wendungen und glaubwürdige Charaktere aus. Sie erforscht Themen wie Identität, Vertrauen und die Grenzen zwischen Gut und Böse. Mit hochwertiger Cinematographie und Spannung bis zur letzten Minute ist dies ein Must-Watch für Fans anspruchsvoller Spy-Thriller.",
+      "week_id": "2026-W27",
+      "week_date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 3,
+      "title": "Alles Inklusive (Hotel Cesar)",
+      "year": "2016",
+      "rating": 7.8,
+      "genre": "Dramedy",
+      "description": "Diese schwedische Serie spielt in einem heruntergekommenen Luxushotel und folgt dem chaotischen Personal und den exzentrischen Gästen. Mit schwarzem Humor und überraschend herzerwärmenden Momenten schafft sie ein faszinierendes Mosaik menschlicher Absurditäten. Die Serie ist perfekt für Zuschauer, die Komödie mit Drama vermischen mögen und eine einzigartige skandinavische Perspektive schätzen. Jede Episode bringt neue, skurrile Charaktere und unerwartete Wendungen. Die Balance zwischen Lachen und ernsthafte emotionale Momente macht diese Serie besonders. Wunderbar geschrieben, großartiges Ensemble-Cast und eine außergewöhnliche Atmosphäre des kontrollierten Chaos.",
+      "week_id": "2026-W27",
+      "week_date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 4,
+      "title": "Suburra",
+      "year": "2017",
+      "rating": 7.9,
+      "genre": "Krimidrama",
+      "description": "Diese italienische Serie ist ein intensiver Blick in die Unterwelt Roms, wo Banden, Korruption und Politik zusammentreffen. Suburra erzählt die Geschichte rivalisierender Krimineller, Politiker und Polizisten, deren Leben auf düstere Weise verflochten sind. Die Serie besticht durch ihre rohe Energie, visuellen Stil und die komplexe Darstellung der italienischen Mafia-Kultur jenseits von Stereotypen. Mit violenten Szenen, morally grey characters und unerwarteten Wendungen bietet sie europäisches Gangster-Drama auf höchstem Niveau. Die Charakterentwicklung ist außergewöhnlich, und die Serie stellt wichtige Fragen über Macht, Loyalität und Überleben in einer korrupten Stadt.",
+      "week_id": "2026-W27",
+      "week_date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 5,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 7.7,
+      "genre": "Drama/Western",
+      "description": "Diese britisch-französische Serie spielt in einer einzigartigen Westernstadt, die vollständig von Frauen regiert wird. Nach einem Bergbauunglück übernehmen Frauen die Kontrolle und schaffen eine progressive Gesellschaft. Als ein rätselhafter Fremder ankommt, gerät diese Ordnung in Gefahr. Godless verbindet klassische Western-Elemente mit modernen Themen wie Geschlechterrolle und Gemeinschaft. Die Serie besticht durch ihre visuellen Effekte, starke weibliche Charaktere und die Spannung zwischen Tradition und Fortschritt. Mit ausgezeichneten Performances und atemberaubenden Landschaften bietet diese Serie eine frische Perspektive auf das Genre und hält Zuschauer durchgehend engagiert.",
+      "week_id": "2026-W27",
+      "week_date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
     {
       "rank": 1,
       "title": "The Sixth Sense",

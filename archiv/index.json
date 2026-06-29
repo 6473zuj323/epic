@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W27",
+      "date": "29. Juni 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "europäische Serien-Geheimtipps",
+      "theme_short": "Europa",
+      "file": "2026-W27-prime.json"
+    },
+    {
       "id": "2026-W26",
       "date": "22. Juni 2026",
       "service": "Netflix",
@@ -119,9 +128,13 @@
     }
   ],
   "stats": {
-    "total_picks": 55,
-    "total_weeks": 13,
+    "total_picks": 60,
+    "total_weeks": 14,
     "genres": {
+      "Krimidrama": 2,
+      "Spionage-Thriller": 1,
+      "Dramedy": 1,
+      "Drama/Western": 1,
       "Thriller/Drama": 3,
       "Science-Fiction/Mystery": 1,
       "Crime/Thriller": 1,
@@ -163,6 +176,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-06-22T14:23:02.825752"
+    "last_updated": "2026-06-29T12:55:12.386673"
   }
 }
