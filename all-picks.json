@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-06-29T12:55:12.386673",
-  "total": 60,
+  "last_updated": "2026-07-06T12:34:15.446678",
+  "total": 65,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science-Fiction/Horror/Drama",
+      "description": "In den 1980er Jahren verschwindet ein Junge spurlos aus einer Kleinstadt, was eine Gruppe von Freunden in ein Abenteuer voller übernatürlicher Phänomene zieht. Die Serie verbindet nostalgische 80er-Jahre-Ästhetik mit modernem Horror und Spannung. Bereits in den ersten beiden Folgen wird eine fesselnde Mystery aufgebaut, die Zuschauer sofort in ihren Bann zieht. Die Chemie zwischen den jungen Schauspielern ist authentisch, die Musik legendär und die Balance zwischen gruseligen Momenten, Humor und emotionalen Szenen perfekt. Jede Folge endet mit Cliffhangern, die zum Weiterschauen zwingen. Ein moderner Klassiker, der Generationen begeistert.",
+      "week_id": "2026-W28",
+      "week_date": "06. Juli 2026",
+      "service": "Netflix",
+      "theme": "Slow Burner"
+    },
+    {
+      "rank": 2,
+      "title": "Squid Game",
+      "year": "2021",
+      "rating": 8.0,
+      "genre": "Drama/Thriller/Science-Fiction",
+      "description": "Hunderte verzweifelte Menschen mit Schulden werden zu mysteriösen Spielen eingeladen, in denen sie um gigantische Geldpreise kämpfen – auf Kosten ihres Lebens. Die südkoreanische Serie präsentiert eine düstere Sozialkritik verpackt in nervenzehrende Spannung. Bereits die erste Folge etabliert die beklemmende Atmosphäre und zeichnet sympathische Charaktere, deren Schicksale emotional fesseln. Die Spiele selbst sind kreativ und verstörend zugleich, jede Runde bringt neue Wendungen. Die Serie kombiniert Psycho-Thriller-Elemente mit tiefgreifenden Fragen über Moral, Klassenkampf und menschliche Natur. Ein Phänomen, das weltweit Zuschauer in seinen Bann zog.",
+      "week_id": "2026-W28",
+      "week_date": "06. Juli 2026",
+      "service": "Netflix",
+      "theme": "Slow Burner"
+    },
+    {
+      "rank": 3,
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama/Biografie/Historie",
+      "description": "Die Serie erzählt die Lebensgeschichte von Königin Elizabeth II. und der britischen Monarchie über Jahrzehnte hinweg mit aufwendiger Produktion und meisterhaftem Schauspiel. Bereits in den ersten Folgen wird das innere Leben der Royal Family enthüllt – persönliche Kämpfe, politische Intrigen und menschliche Konflikte hinter den Kronenjuwelen. Die Charakterentwicklung ist tiefgründig, die historischen Ereignisse dramaturgisch meisterhaft inszeniert. Claire Foy liefert eine ikonische Performance als Elizabeth. Die Serie bietet Glamour, politisches Kalkül, Liebesgeschichten und persönliche Tragödien. Ein Geschichtsdrama auf höchstem Niveau, das Geschichte lebendig macht und zum Weiterschauen verführt.",
+      "week_id": "2026-W28",
+      "week_date": "06. Juli 2026",
+      "service": "Netflix",
+      "theme": "Slow Burner"
+    },
+    {
+      "rank": 4,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Thriller/Drama/Kriminal",
+      "description": "Die Serie folgt zwei FBI-Agenten in den 1970ern, die revolutionäre Verhörungstechniken und Psychologie nutzen, um Serienmörder zu verstehen und zu fassen. Mindhunter besticht durch seine methodische, psychologische Spannung statt Action-Geschrei. Die erste Folge führt elegant in die Welt der Kriminalprofilierung ein und zeigt echte, verstörende Interaktionen mit berüchtigten Mördern. Die Serie baut subtile Spannung auf, während sie tiefe psychologische Profile zeichnet. David Finchers Einfluss zeigt sich in der visuellen Ästhetik und narrativen Raffinesse. Zuschauer werden in komplexe Ermittlungen gezogen, erleben professionelle Breakthroughs und persönliche Konflikte. Ein intelligent erzählter Psycho-Thriller für anspruchsvolle Zuschauer.",
+      "week_id": "2026-W28",
+      "week_date": "06. Juli 2026",
+      "service": "Netflix",
+      "theme": "Slow Burner"
+    },
+    {
+      "rank": 5,
+      "title": "Breaking Bad",
+      "year": "2008",
+      "rating": 9.5,
+      "genre": "Drama/Thriller/Krimi",
+      "description": "Ein Chemielehrer wird Krebspatient und beginnt, Methamphetamin zu kochen, um seine Familie finanziell zu versorgen – ein moralischer Abstieg ins Verbrechen beginnt. Breaking Bad zündet sofort mit einer brillanten Prämisse und entwickelt sich zu einer der besten Serien aller Zeiten. Bereits nach zwei Folgen ist klar: Hier wird ein ordinärer Mann schrittweise zum Bösewicht. Bryan Cranstons Performance ist legendär, die Schreibweise makellos, jede Szene zählt. Die Serie verbindet Spannung, psychologische Tiefe, großartige Characterentwicklung und perfektes Timing. Cliffhanger treiben zum Weiterschauen, die Atmosphäre ist konstant druckreich. Ein Meisterwerk, das Fernsehen neu definierte und jeden fesselt.",
+      "week_id": "2026-W28",
+      "week_date": "06. Juli 2026",
+      "service": "Netflix",
+      "theme": "Slow Burner"
+    },
     {
       "rank": 1,
       "title": "Engrenages (Spiral)",

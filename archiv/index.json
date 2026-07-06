@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W28",
+      "date": "06. Juli 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "Serien die nach 1-2 Folgen zünden",
+      "theme_short": "Slow Burner",
+      "file": "2026-W28-netflix.json"
+    },
+    {
       "id": "2026-W27",
       "date": "29. Juni 2026",
       "service": "Amazon Prime Video",
@@ -128,9 +137,14 @@
     }
   ],
   "stats": {
-    "total_picks": 60,
-    "total_weeks": 14,
+    "total_picks": 65,
+    "total_weeks": 15,
     "genres": {
+      "Science-Fiction/Horror/Drama": 1,
+      "Drama/Thriller/Science-Fiction": 1,
+      "Drama/Biografie/Historie": 1,
+      "Thriller/Drama/Kriminal": 1,
+      "Drama/Thriller/Krimi": 1,
       "Krimidrama": 2,
       "Spionage-Thriller": 1,
       "Dramedy": 1,
@@ -176,6 +190,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-06-29T12:55:12.386673"
+    "last_updated": "2026-07-06T12:34:15.446678"
   }
 }
