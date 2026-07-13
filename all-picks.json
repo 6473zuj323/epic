@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-06T12:34:15.446678",
-  "total": 65,
+  "last_updated": "2026-07-13T11:49:03.661992",
+  "total": 70,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Eine brillante britische Comedy-Drama-Serie über Fleabag, eine chaotische, impulsive junge Frau in London, die ständig gegen soziale Normen verstößt. Die Serie besticht durch ihre einzigartige Erzählweise mit direktem Blickkontakt zur Kamera, durch den Fleabag ihre Gedanken und Gefühle mit dem Publikum teilt. Neben Humor findet sich tiefe emotionale Substanz in den Beziehungen zu ihrer Familie, besonders zu ihrer Schwester und dem neuen Partner ihrer Mutter. Die Show balanciert perfekt zwischen herzzerreißenden Momenten und absolut hilarischen Szenen. Mit nur 6 Episoden pro Staffel ist sie perfekt für einen Binge-Watch geeignet.",
+      "week_id": "2026-W29",
+      "week_date": "13. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 2,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Superhero-Action-Drama",
+      "description": "Eine düstere Dekonstruktion des Superhero-Genres, die Shows wie Superman und The Avengers auf den Kopf stellt. Eine Gruppe gewöhnlicher Menschen kämpft gegen korrupte, arrogante Superhelden, die von einem bösen Konzern kontrolliert werden. Die Serie kombiniert intensive Action mit politischem Thriller und schwarzem Humor. Sie hinterfragt Themen wie Macht, Korruption und Medienmanipulation auf intelligente Weise. Mit komplexen Charakteren, schockierenden Wendungen und extremer Gewalt bietet sie ein völlig neues Superhero-Erlebnis. Staffel 1 mit 8 Episoden ist ein perfekter Start in diese provokative Serie.",
+      "week_id": "2026-W29",
+      "week_date": "13. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 3,
+      "title": "Chernobyl",
+      "year": "2019",
+      "rating": 9.3,
+      "genre": "Historical Drama-Thriller",
+      "description": "Ein meisterhaftes Historiendrama über die Katastrophe von Tschernobyl 1986. Die Serie folgt Wissenschaftlern und Politikern, die versuchen, die Wahrheit über den Unfall zu ergründen und dessen Auswirkungen zu bewältigen. Mit spannender Erzählweise und beeindruckender Atmosphäre zeigt die Show sowohl die menschliche Tragödie als auch die technischen und politischen Dimensionen der Katastrophe. Die Schauspieler liefern glaubwürdige Performances in einer intensiven, beklemmenden Handlung. Mit nur 5 Episoden ist dies ein kompaktes, aber profund wirkendes Meisterwerk, das zeigt, wie Korruption zu Katastrophen führt.",
+      "week_id": "2026-W29",
+      "week_date": "13. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 4,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Eine Originalserie über eine Hausfrau in den 1950er Jahren, die nach der Trennung von ihrem Mann Comedian wird. Mit schnellem Tempo, cleveren Dialogen und bildschönem Retro-Setting folgt die Serie ihrer Reise aus der Hausfrau zur aufstrebenden Stand-up-Komödiantin. Die Serie verbindet Humor mit gesellschaftlich relevanten Themen wie Feminismus und weibliche Unabhängigkeit in einer konservativen Ära. Die Darstellerin Miriam Maisel überzeugt mit ihrem Charisma, während die Serie mit ihrem Witz, der wunderbaren Nebendarstellung und ihrer fesselnden Handlung besticht.",
+      "week_id": "2026-W29",
+      "week_date": "13. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
+    {
+      "rank": 5,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.6,
+      "genre": "Crime-Thriller-Drama",
+      "description": "Ein psychologischer Thriller über die Gründung der profiling-Abteilung des FBI in den 1970ern. Die Serie folgt zwei Agenten, die beginnen, Verhaltensweisen von Serienmördern zu analysieren, um zukünftige Verbrechen zu verhindern. Mit düsterer Atmosphäre, psychologischer Tiefe und Interviews mit echten Mördern kombiniert die Show fesselnde Spannung mit intellektueller Substanz. Die erste Staffel mit 10 Episoden etabliert ein meisterliches Psychological-Crime-Drama mit hervorragenden Performances. Zuschauen können sich auf intensive, nachdenklich stimmende Geschichten freuen, die die Grenzen zwischen Gut und Böse erforschen.",
+      "week_id": "2026-W29",
+      "week_date": "13. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Kurz & Knackig"
+    },
     {
       "rank": 1,
       "title": "Stranger Things",
