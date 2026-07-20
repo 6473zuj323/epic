@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W30",
+      "date": "20. Juli 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "Serien für True Crime Fans",
+      "theme_short": "True Crime",
+      "file": "2026-W30-netflix.json"
+    },
+    {
       "id": "2026-W29",
       "date": "13. Juli 2026",
       "service": "Amazon Prime Video",
@@ -146,9 +155,12 @@
     }
   ],
   "stats": {
-    "total_picks": 70,
-    "total_weeks": 16,
+    "total_picks": 75,
+    "total_weeks": 17,
     "genres": {
+      "Crime Drama": 6,
+      "Documentary Series": 2,
+      "Crime Thriller": 2,
       "Comedy-Drama": 8,
       "Superhero-Action-Drama": 1,
       "Historical Drama-Thriller": 1,
@@ -191,8 +203,6 @@
       "Kriminalpsychothriller": 1,
       "Crime-Drama-Thriller": 1,
       "Action/Superhero-Drama": 1,
-      "Crime Drama": 4,
-      "Crime Thriller": 1,
       "Superhero-Drama": 1,
       "Fantasy-Drama-Animation": 1,
       "Horror-Dokumentation-Drama": 1,
@@ -202,6 +212,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-07-13T11:49:03.661992"
+    "last_updated": "2026-07-20T11:33:55.272298"
   }
 }

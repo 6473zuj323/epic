@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-13T11:49:03.661992",
-  "total": 70,
+  "last_updated": "2026-07-20T11:33:55.272298",
+  "total": 75,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime Drama",
+      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie das revolutionäre Profiling von Serienkillern entwickeln. Die Serie basiert auf wahren Fällen und zeigt die Entstehung der modernen Kriminalpsychologie. Durch intensive Verhörszenen und psychologische Analysen wird die Spannung aufgebaut. Die Atmosphäre ist dunkel und atmosphärisch, mit detaillierter Rekonstruktion historischer Fälle. Was die Serie besonders macht, ist der Fokus auf die mentalen Prozesse der Ermittler und Kriminellen. Zuschauer erwartet ein intellektueller Thriller mit großartiger Schauspielleistung und historischer Authentizität.",
+      "week_id": "2026-W30",
+      "week_date": "20. Juli 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 2,
+      "title": "Dahmer – Monster: The Jeffrey Dahmer Story",
+      "year": "2022",
+      "rating": 8.5,
+      "genre": "Crime Drama",
+      "description": "Diese Serie erzählt die verstörende Geschichte des Serienmörders Jeffrey Dahmer und seiner grausamen Verbrechen in Milwaukee. Die Produktion präsentiert sowohl Dahmers Perspektive als auch die der Opfer und Ermittler. Die Atmosphäre ist beklemmend und intensiv, mit detaillierten Darstellungen der psychologischen Abgründe. Evan Peters liefert eine beeindruckende schauspielerische Leistung als Dahmer. Die Serie untersucht, wie ein Raubtier jahrelang unentdeckt bleiben konnte. Zuschauer erwartet ein verstörendes, aber fesselndes Porträt einer der dunkelsten Seiten der Kriminalgeschichte, das zum Nachdenken über Justiz und Gesellschaft anregt.",
+      "week_id": "2026-W30",
+      "week_date": "20. Juli 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 3,
+      "title": "Making a Murderer",
+      "year": "2015",
+      "rating": 8.1,
+      "genre": "Documentary Series",
+      "description": "Diese dokumentarische Serie untersucht den Fall von Steven Avery, der in Wisconsin für einen Mord verurteilt wurde. Die Filmemacher präsentieren überzeugende Beweise für mögliche Justizirrtümer und Fehlverhalten der Behörden. Die Serie wirft Fragen zur Integrität des Justizsystems auf und zeigt, wie ein Justizirrtum entstehen kann. Die Erzählung ist fesselnd und emotional, mit Interviews von Beteiligten und forensischen Details. Zuschauer erwartet ein verstörendes Bild von Korruption und Fahrlässigkeit in der Justiz. Die Serie provozierte massive öffentliche Diskussionen und Debatten. Ein Must-Watch für alle, die sich für Justizfälle interessieren.",
+      "week_id": "2026-W30",
+      "week_date": "20. Juli 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 4,
+      "title": "The Confession Tapes",
+      "year": "2017",
+      "rating": 7.8,
+      "genre": "Documentary Series",
+      "description": "Die Serie untersucht mehrere Fälle, in denen Unschuldige Verbrechen gestanden haben, die sie nicht begangen hatten. Jede Episode behandelt einen anderen Fall und zeigt, wie psychologischer Druck, schlechte Ermittlungsarbeit und fehlerhafte Verhörmethoden zu falschen Geständnissen führten. Die Dokumentation ist gründlich recherchiert und emotional ergreifend. Zuschauer folgen den Wegen dieser Menschen durch das Justizsystem und sehen die Konsequenzen falscher Anklagen. Die atmosphärisch dichte Erzählweise macht jeden Fall eindringlich. Die Serie hinterfragt grundlegende Annahmen über Schuldgeständnisse und zeigt Systemversagen.",
+      "week_id": "2026-W30",
+      "week_date": "20. Juli 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
+    {
+      "rank": 5,
+      "title": "The Diplomat",
+      "year": "2023",
+      "rating": 7.9,
+      "genre": "Crime Thriller",
+      "description": "Diese Serie kombiniert politisches Thriller-Drama mit Crime-Elementen und folgt einer US-Botschafterin, die sich inmitten diplomatischer Intrigen und eines internationalen Mordfalls wiederfindet. Die komplexe Handlung vereint Spionage, Verhandlungen und kriminelle Machenschaften auf höchster politischer Ebene. Die Atmosphäre ist spannungsgeladen mit undurchschaubaren Wendungen. Keri Russell liefert eine starke Leistung als Protagonistin, die navigieren muss zwischen persönlichen Ambitionen und internationalen Krisen. Die Serie bietet intellektuelle Spannung mit actionreichen Momenten. Zuschauer erwartet ein fesselndes Thriller-Abenteuer mit realpolitischen Hintergründen und überraschenden Plottwists.",
+      "week_id": "2026-W30",
+      "week_date": "20. Juli 2026",
+      "service": "Netflix",
+      "theme": "True Crime"
+    },
     {
       "rank": 1,
       "title": "Fleabag",
