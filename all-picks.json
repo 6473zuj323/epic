@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-20T11:33:55.272298",
-  "total": 75,
+  "last_updated": "2026-07-27T12:08:43.020236",
+  "total": 80,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Superhero",
+      "description": "The Boys bietet eine düstere Dekonstruktion des Superhelden-Genres. Die Serie folgt einer Gruppe von Außenseitern, die gegen korrupte Superkräfte kämpfen. Erin Moriarty spielt Starlight, eine idealistisches Superhelden-Neuling, die die moralischen Abgründe ihrer Industrie enthüllt und sich dagegen aufbegehrt. Die Serie besticht durch ihre raue Action, politische Tiefe und komplexe Charakterentwicklung. Starlight verkörpert eine beeindruckende Transformation von naiver Idealistin zur starken, selbstbewussten Anführerin. Die Atmosphäre ist intensiv und verstörendes, mit überraschenden Wendungen und echten Konsequenzen für alle Charaktere.",
+      "week_id": "2026-W31",
+      "week_date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 2,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.8,
+      "genre": "Comedy/Drama",
+      "description": "Fleabag ist eine britische Meisterwerk über eine chaotische, witzig-freche Frau, die ihr Leben in London navigiert. Mit innovativem Storytelling spricht die Hauptfigur direkt zur Kamera, wodurch eine intime Verbindung zu Zuschauern entsteht. Die Serie balanciert perfekt zwischen hilarischem Humor und tiefem emotionalen Drama, während sie Familie, Liebe und Selbstfindung erkundet. Phoebe Waller-Bridge schafft einen authentischen, unvollkommenen Charakter, der sich anfangs selbstsüchtig und manipulativ zeigt, dann aber überraschende Tiefe und Verletzlichkeit enthüllt. Die zwei Staffeln sind prägnant und beinhalten unvergessliche Charakterentwicklung.",
+      "week_id": "2026-W31",
+      "week_date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 3,
+      "title": "Killing Eve",
+      "year": "2018",
+      "rating": 8.1,
+      "genre": "Thriller/Drama",
+      "description": "Killing Eve ist ein psychologischer Thriller über eine obsessive Katz-und-Maus-Jagd zwischen Eve, einer britischen Ermittlerin, und Villanelle, einer charismatischen Serienmörderin. Die Serie erkundet die gefährliche emotionale Verbindung zwischen Jägerin und Gejagter mit Spannung und dunklem Humor. Jodie Comer brilliert als unberechenbare, charmante Villanelle, während Sandra Oh als Eve eine komplexe Protagonistin mit moralischen Graubereichen darstellt. Die Chemie zwischen den Hauptfiguren ist elektrisierend. Mit stilvoller Inszenierung, überraschenden Plot-Wendungen und ikonischen Szenen schafft die Serie eine süchtig machende, atmosphärisch dichte Erfahrung.",
+      "week_id": "2026-W31",
+      "week_date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 4,
+      "title": "Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "The Marvelous Mrs. Maisel ist ein Retro-Comedy-Drama über eine Hausfrau aus den 1950er-Jahren, die ihre neue Leidenschaft als Stand-up-Comedienne entdeckt. Nach der Trennung von ihrem Ehemann findet Miriam ihren Weg ins männerdominierte Bühnen-Comedy-Geschäft und kämpft gegen gesellschaftliche Konventionen. Rachel Brosnahan verkörpert eine mitreißende, intelligente Protagonistin mit Witz und Determinismus. Die Serie besticht durch schnelle, witzig geschriebene Dialoge, wunderbare Production Design und tiefgreifende Familiendramen. Sie kombiniert leichte Unterhaltung mit ernsten Themen wie Frauenrechte, Identität und Unabhängigkeit auf fesselnde Weise.",
+      "week_id": "2026-W31",
+      "week_date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
+    {
+      "rank": 5,
+      "title": "Orphan Black",
+      "year": "2013",
+      "rating": 8.3,
+      "genre": "Science Fiction/Thriller",
+      "description": "Orphan Black ist ein innovative Science-Fiction-Serie über Klone, die entdecken, dass sie Teil eines unethischen genetischen Experiments sind. Die Serie folgt mehreren unterschiedlichen Klonen, alle gespielt von der brillanten Tatiana Maslany, die verschiedene Persönlichkeiten und Akzente porträtiert. Jeder Klon hat eigene Ziele und Überzeugungen, was zur komplexen, vielschichtigen Narration beiträgt. Die Serie bietet hochwertige Action, komplizierte Handlungsstränge und tiefgreifende Themen über Körperautonomie und Identität. Maslany's vielfältige Leistungen sind atemberaubend. Mit Spannung, Humor und emotionalen Momenten schafft Orphan Black eine einzigartige, fesselnde Science-Fiction-Erfahrung.",
+      "week_id": "2026-W31",
+      "week_date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Starke Frauen"
+    },
     {
       "rank": 1,
       "title": "Mindhunter",

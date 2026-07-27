@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W31",
+      "date": "27. Juli 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "Serien mit starken Frauenfiguren",
+      "theme_short": "Starke Frauen",
+      "file": "2026-W31-prime.json"
+    },
+    {
       "id": "2026-W30",
       "date": "20. Juli 2026",
       "service": "Netflix",
@@ -155,9 +164,13 @@
     }
   ],
   "stats": {
-    "total_picks": 75,
-    "total_weeks": 17,
+    "total_picks": 80,
+    "total_weeks": 18,
     "genres": {
+      "Action/Superhero": 1,
+      "Comedy/Drama": 3,
+      "Thriller/Drama": 4,
+      "Science Fiction/Thriller": 1,
       "Crime Drama": 6,
       "Documentary Series": 2,
       "Crime Thriller": 2,
@@ -174,7 +187,6 @@
       "Spionage-Thriller": 1,
       "Dramedy": 1,
       "Drama/Western": 1,
-      "Thriller/Drama": 3,
       "Science-Fiction/Mystery": 1,
       "Crime/Thriller": 1,
       "Horror/Drama": 1,
@@ -190,7 +202,6 @@
       "Crime/Drama/Thriller": 1,
       "Action/Superhelden-Drama": 1,
       "Crime Drama/Mystery": 1,
-      "Comedy/Drama": 1,
       "Science-Fiction, Horror, Drama": 1,
       "Drama, Biografie, Geschichte": 1,
       "Drama, Romantik, Geschichte": 1,
@@ -212,6 +223,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-07-20T11:33:55.272298"
+    "last_updated": "2026-07-27T12:08:43.020236"
   }
 }
