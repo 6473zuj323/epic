@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-27T12:08:43.020236",
-  "total": 80,
+  "last_updated": "2026-08-03T12:10:19.711217",
+  "total": 85,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime Thriller",
+      "description": "Mindhunter folgt zwei FBI-Agenten in den 1970er Jahren, die revolutionäre Verhörmethoden entwickeln, um Serienmörder zu verstehen. Die Serie kombiniert intensive psychologische Spannungen mit realen Kriminalfällen und bietet tiefe Einblicke in die Köpfe gefährlicher Verbrecher. Die düstere Atmosphäre, brillante Schauspielleistungen und das methodische Vorgehen der Ermittler erzeugen konstante Spannung. Zuschauer erwarten intelligente Dialoge, fesselnde Interviews mit inhaftierten Mördern und die emotionale Belastung der Protagonisten. Die Serie ist perfekt für intellektuelle Thriller-Fans, die komplexe Charakterstudien und psychologische Tiefe schätzen.",
+      "week_id": "2026-W32",
+      "week_date": "03. August 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 2,
+      "title": "The Fall",
+      "year": "2013",
+      "rating": 8.3,
+      "genre": "Psychological Thriller",
+      "description": "The Fall ist ein britischer Thriller, der das intensive Katz-und-Maus-Spiel zwischen einer brillanten Ermittlerin und einem charismantischen Serienmörder zeigt. Stella Gibson jagt den intelligenten Killer Paul Spector durch Belfast, während der Zuschauer in dessen verstörte Gedankenwelt eindringt. Die Serie zeichnet sich durch atmosphärische Dichte, ausgezeichnete Schauspielleistungen und moralisch komplexe Charaktere aus. Die Spannung baut sich kontinuierlich auf, während beide Seiten taktisch vorgehen. Zuschauer erwarten psychologische Tiefe, erotische Spannung und die Frage, wer letztlich dominiert. Perfekt für Fans von nachdenklich stimmenden Thrillern.",
+      "week_id": "2026-W32",
+      "week_date": "03. August 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 3,
+      "title": "Bodyguard",
+      "year": "2018",
+      "rating": 8.2,
+      "genre": "Political Thriller",
+      "description": "Bodyguard ist ein britischer Thriller, der die Welt der Sicherheit und Politik durcheinander wirbelt. Ein traumatisierter Soldat wird zum Leibwächter einer umstrittenen Politikerin und gerät schnell in ein undurchschaubares Netzwerk von Verschwörungen, Verrat und Intrigen. Die Serie besticht durch atemberaubende Plot-Twists, konstante Spannung und moralische Dilemmata. Jede Episode endet mit explosiven Cliffhangern, die zum Weiterschauen zwingen. Die Chemie zwischen den Hauptcharakteren, die schnelle Erzählweise und überraschende Wendungen machen schlaflose Nächte garantiert. Ideal für Zuschauer, die Adrenalin-getriebene Spannung suchen.",
+      "week_id": "2026-W32",
+      "week_date": "03. August 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 4,
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Science Fiction Thriller",
+      "description": "Dark ist eine deutsche Meisterleistung, die ein kleines Dorf in Dunkelheit taucht, als Kinder verschwinden und eine zeitliche Anomalie offenbart wird. Die Serie verwebt Quantenphysik, Familiendramen und existenzielle Horror auf perfekte Weise. Mit komplexen Zeitsprüngen, verstrickten Familienbeziehungen und einer unterschwelligen Beklemmung schafft sie eine einzigartige Atmosphäre. Zuschauer erleben Spannung auf mehreren Zeitebenen, mystische Rätsel und psychologische Tiefe. Die düstere Ästhetik, die durchdachte Handlung und die Frage nach Schicksal und freiem Willen fesseln den Zuschauer vollständig. Ein intellektueller Thriller für anspruchsvolle Zuschauer.",
+      "week_id": "2026-W32",
+      "week_date": "03. August 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 5,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime Drama Thriller",
+      "description": "Ozark folgt einem Finanzberater, der mit seiner Familie in die Welt der Geldwäsche für ein mexikanisches Drogenkartell gezogen wird. Die Serie bietet konstante Hochspannung, moralische Zusammenbrüche und die zunehmende Verdorbenheit der Hauptfiguren. Mit brillanten Schauspielern, intelligent geschriebenen Dialogen und visueller Schönheit schafft Ozark eine süchtig machende Atmosphäre. Zuschauer erwarten komplexe Charakterentwicklung, politische Intrigen und die Frage, wie weit man für die Familie gehen würde. Die Spannung baut sich episodisch auf und führt zu schockierenden Wendungen. Perfekt für Fans von Breaking Bad und Morality-Thrillen.",
+      "week_id": "2026-W32",
+      "week_date": "03. August 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
     {
       "rank": 1,
       "title": "The Boys",
