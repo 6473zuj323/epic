@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W33",
+      "date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "herzerwärmende Serien für schlechte Tage",
+      "theme_short": "Feel-Good",
+      "file": "2026-W33-prime.json"
+    },
+    {
       "id": "2026-W32",
       "date": "03. August 2026",
       "service": "Netflix",
@@ -173,9 +182,13 @@
     }
   ],
   "stats": {
-    "total_picks": 85,
-    "total_weeks": 19,
+    "total_picks": 90,
+    "total_weeks": 20,
     "genres": {
+      "Comedy-Drama": 10,
+      "Comedy": 2,
+      "Fantasy-Comedy": 2,
+      "Comedy-Sci-Fi": 1,
       "Crime Thriller": 3,
       "Psychological Thriller": 1,
       "Political Thriller": 1,
@@ -187,7 +200,6 @@
       "Science Fiction/Thriller": 1,
       "Crime Drama": 6,
       "Documentary Series": 2,
-      "Comedy-Drama": 8,
       "Superhero-Action-Drama": 1,
       "Historical Drama-Thriller": 1,
       "Crime-Thriller-Drama": 1,
@@ -220,8 +232,6 @@
       "Drama, Romantik, Geschichte": 1,
       "Übernatürlich, Horror, Drama": 1,
       "Fantasy, Adventure, Drama": 1,
-      "Comedy": 1,
-      "Fantasy-Comedy": 1,
       "Psychologischer Thriller": 3,
       "Politischer Thriller": 1,
       "Kriminalpsychothriller": 1,
@@ -236,6 +246,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-08-03T12:10:19.711217"
+    "last_updated": "2026-08-10T10:07:04.982584"
   }
 }

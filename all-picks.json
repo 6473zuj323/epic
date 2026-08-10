@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-03T12:10:19.711217",
-  "total": 85,
+  "last_updated": "2026-08-10T10:07:04.982584",
+  "total": 90,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Diese brillante Serie folgt Miriam Maisel, einer Hausfrau der 1950er Jahre, die nach ihrer Scheidung eine Karriere als Stand-up-Comedian beginnt. Mit witzigen Dialogen, farbenfroher Ästhetik und einer inspirierenden Hauptfigur bietet die Show perfekte Unterhaltung für schlechte Tage. Rachel Brosnahan brilliert in ihrer Rolle und verkörpert Unabhängigkeit und Mut. Die Serie verbindet Humor mit tiefgründigen Momenten über Familie, Liebe und Selbstfindung. Die schnelle Schnittweise und die Jazz-Musik schaffen eine fröhliche, energiegeladene Atmosphäre, die Zuschauer aufmuntert und zum Lachen bringt.",
+      "week_id": "2026-W33",
+      "week_date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 2,
+      "title": "Schitt's Creek",
+      "year": "2015",
+      "rating": 8.4,
+      "genre": "Comedy",
+      "description": "Eine wohlhabende Familie verliert ihr Vermögen und muss in einem heruntergekommenen Motel einer kleinen Stadt anfangen. Was folgt, ist eine charmante Reise von Hochmut zur Demut und echten menschlichen Verbindungen. Die Serie besticht durch ihre liebevolle Charakterentwicklung und die positive Botschaft, dass Familie und Freundschaft wertvoller sind als Reichtum. Mit inklusiven Charakteren, subtilen Gags und herzerwärmenden Momenten bietet sie pure Wohlfühl-Unterhaltung. Die Show wächst langsam, wird aber immer besser und endet perfekt.",
+      "week_id": "2026-W33",
+      "week_date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 3,
+      "title": "Good Omens",
+      "year": "2019",
+      "rating": 8.0,
+      "genre": "Fantasy-Comedy",
+      "description": "Ein Dämon und ein Engel, die sich in Tausenden von Jahren näher gekommen sind, arbeiten zusammen, um die Apokalypse zu verhindern. Diese witzige, liebevolle Serie basiert auf Neil Gaimans gleichnamigem Roman und besticht durch brillante Dialoge, großartige Chemie zwischen den Hauptdarstellern und eine optimistische Botschaft über Freundschaft und Liebe. Mit bunter visueller Gestaltung, cleveren Gags und emotional befriedigenden Momenten schafft die Serie eine wunderbar skurrile Atmosphäre. Perfekt für schlechte Tage: unterhaltsam, berührend und voller überraschender Wendungen.",
+      "week_id": "2026-W33",
+      "week_date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 4,
+      "title": "The Boys in the Band",
+      "year": "2020",
+      "rating": 7.9,
+      "genre": "Comedy-Drama",
+      "description": "Diese Neuauflage des Klassikers folgt einer Gruppe schwuler Freunde, die sich zu einem besonderen Abend treffen. Die Serie ist vollgepackt mit Humor, tiefgründigen Diskussionen über Familie, Identität und Zugehörigkeit sowie unvergesslichen Charaktermomenten. Die Chemie zwischen den Schauspielern ist atemberaubend authentisch, was für herzerwärmende und lustige Szenen sorgt. Mit einer diversen, begabten Besetzung, brillantem Drehbuch und der Feier von Freundschaft als Familie bietet die Serie trost- und freudevolle Unterhaltung, die Zuschauer mit einem Lächeln hinterlässt.",
+      "week_id": "2026-W33",
+      "week_date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
+    {
+      "rank": 5,
+      "title": "Upload",
+      "year": "2020",
+      "rating": 7.8,
+      "genre": "Comedy-Sci-Fi",
+      "description": "Nach seinem Tod wird ein Mann in einen digitalen Himmel hochgeladen, wo eine virtuelle Assistentin ihn durch sein neues Afterlife führt. Diese Serie verbindet Science-Fiction mit warmherzigem Humor und überraschend emotionalen Momenten. Sie erforscht Themen wie Liebe, Bedeutung und was wirklich zählt im Leben, während sie eine charmante Liebesgeschichte zwischen dem Hauptcharakter und seiner Assistentin erzählt. Mit cleveren Gags, einer schönen Botschaft und zunehmend komplexeren Plottwists bietet die Show Ablenkung mit Tiefgang, perfekt um sich selbst zu vergessen.",
+      "week_id": "2026-W33",
+      "week_date": "10. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Feel-Good"
+    },
     {
       "rank": 1,
       "title": "Mindhunter",
