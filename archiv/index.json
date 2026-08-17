@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W34",
+      "date": "17. August 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "visuell atemberaubende Serien",
+      "theme_short": "Visuell",
+      "file": "2026-W34-netflix.json"
+    },
+    {
       "id": "2026-W33",
       "date": "10. August 2026",
       "service": "Amazon Prime Video",
@@ -182,9 +191,14 @@
     }
   ],
   "stats": {
-    "total_picks": 90,
-    "total_weeks": 20,
+    "total_picks": 95,
+    "total_weeks": 21,
     "genres": {
+      "Science-Fiction/Horror/Drama": 2,
+      "Drama/Biografie": 1,
+      "Fantasy/Action/Adventure": 1,
+      "Drama/Romance/Period Drama": 1,
+      "Western/Drama": 3,
       "Comedy-Drama": 10,
       "Comedy": 2,
       "Fantasy-Comedy": 2,
@@ -203,7 +217,6 @@
       "Superhero-Action-Drama": 1,
       "Historical Drama-Thriller": 1,
       "Crime-Thriller-Drama": 1,
-      "Science-Fiction/Horror/Drama": 1,
       "Drama/Thriller/Science-Fiction": 1,
       "Drama/Biografie/Historie": 1,
       "Thriller/Drama/Kriminal": 1,
@@ -220,7 +233,6 @@
       "Thriller/Psychologisches Drama": 1,
       "Drama/Familie": 1,
       "Fantasy/Komödie": 1,
-      "Western/Drama": 2,
       "Political Thriller/Drama": 3,
       "Crime/Drama": 1,
       "Dark Comedy/Science Fiction": 1,
@@ -246,6 +258,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-08-10T10:07:04.982584"
+    "last_updated": "2026-08-17T09:28:22.377114"
   }
 }

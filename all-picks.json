@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-10T10:07:04.982584",
-  "total": 90,
+  "last_updated": "2026-08-17T09:28:22.377114",
+  "total": 95,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science-Fiction/Horror/Drama",
+      "description": "Stranger Things ist eine meisterhafte Mischung aus 80er-Jahre-Nostalgie, übernatürlichen Phänomenen und Coming-of-Age-Drama. Die Serie folgt einer Gruppe von Kindern in einer amerikanischen Kleinstadt, die sich mit mysteriösen Verschwundenen, parallelen Dimensionen und gefährlichen Experimenten auseinandersetzen müssen. Die visuellen Effekte sind spektakulär, von der düsteren \"Upside Down\" bis zu atemberaubenden Action-Sequenzen. Die Inszenierung verbindet perfekt Spannung mit emotionalen Charaktermomenten. Mit ikonischer Musik, großartigem Ensemble-Cast und atmosphärischen Cinematography schafft die Serie eine fesselnde Welt, die Zuschauer vollständig in ihren Bann zieht.",
+      "week_id": "2026-W34",
+      "week_date": "17. August 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 2,
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama/Biografie",
+      "description": "The Crown ist ein visuell spektakuläres Drama, das die Herrschaft von Königin Elizabeth II. mit atemberaubender Produktion erzählt. Jede Episode ist wie ein aufwendig inszenierter Film mit prächtigen Palästen, eleganter Mode und grandiosem Kino-Sound. Die Serie erforscht die persönlichen und politischen Herausforderungen der britischen Monarchie über Jahrzehnte hinweg. Mit hervorragenden schauspielerischen Leistungen und meticulous historischer Details wird die Geschichte der königlichen Familie lebendig. Die Kameraarbeit ist makellos, die Sets atemberaubend. Die Serie bietet tiefe historische Einblicke, während sie gleichzeitig fesselndes Drama mit politischen Intrigen und persönlichen Tragödien verbindet.",
+      "week_id": "2026-W34",
+      "week_date": "17. August 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 3,
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": 8.2,
+      "genre": "Fantasy/Action/Adventure",
+      "description": "The Witcher ist ein visuell beeindruckendes Fantasy-Epos basierend auf den beliebten Büchern und Videospielen. Die Serie folgt Geralt von Riva, einem Monster-Jäger, durch eine Welt voller magischer Kreaturen, gefährlicher Magie und epischer Kämpfe. Die Produktionsdesign ist großartig mit detailreich gestalteten Landschaften, beeindruckenden Kostümen und fesselnd choreografierten Kampfszenen. Henry Cavill liefert eine prägende Performance als der grimmige Witcher. Die Atmosphäre balanciert zwischen dunklem Fantasy-Horror und aventuröstem Storytelling. Mit komplexen Charakteren, verflochtenen Zeitlinien und mythologischen Elementen schafft die Serie ein immersives Fantasy-Universum.",
+      "week_id": "2026-W34",
+      "week_date": "17. August 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 4,
+      "title": "Bridgerton",
+      "year": "2020",
+      "rating": 8.0,
+      "genre": "Drama/Romance/Period Drama",
+      "description": "Bridgerton ist ein atemberaubend schönes Period-Drama, das das Regency-England mit modernem Flair zum Leben erweckt. Die Serie folgt der Familie Bridgerton und ihren romantischen Abenteuern in der High Society. Visuell ist Bridgerton ein Meisterwerk: opulente Ballsäle, prächtige Kleider, elegante Innenhöfe und cinematografische Aufnahmen schaffen eine märchenhafte Atmosphäre. Die Serie verbindet klassische Jane-Austen-inspirierte Romance mit modernem Drama und Humor. Mit starkem Ensemble-Cast, sinnlicher Musik und aufwendigem Production Design wird jede Episode zur visuellen Freude. Die Mischung aus Eleganz, Spannung und Emotion macht es zu einem unvergesslichen Schauerlebnis.",
+      "week_id": "2026-W34",
+      "week_date": "17. August 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
+    {
+      "rank": 5,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.1,
+      "genre": "Western/Drama",
+      "description": "Godless ist ein innovativer Western, der vollständig von Frauen angeführt wird und eine einzigartige atmosphärische Schönheit bietet. Die Serie spielt in einer Bergbau-Stadt, die von Frauen regiert wird, und folgt einem geflohenen Sträfling, der dort Zuflucht sucht. Visuell ist der Western bildschön: dramatische Berglandschaften, atmosphärische Kamerabewegungen und eine düstere, staubige Ästhetik schaffen eine unvergessliche Welt. Die Serie kombiniert klassische Western-Elemente mit modernem sozialkritischem Drama über Macht, Geschlecht und Moral. Mit großartigen Schauspielern, packenden Gunfight-Sequenzen und nuancierter Charakterentwicklung bietet Godless ein fesselndes visuelles und narratives Abenteuer.",
+      "week_id": "2026-W34",
+      "week_date": "17. August 2026",
+      "service": "Netflix",
+      "theme": "Visuell"
+    },
     {
       "rank": 1,
       "title": "The Marvelous Mrs. Maisel",
