@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-17T09:28:22.377114",
-  "total": 95,
+  "last_updated": "2026-08-24T09:34:35.776932",
+  "total": 100,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Drama",
+      "description": "The Boys basiert auf der gleichnamigen Comic-Serie und erzählt die düstere Geschichte einer Gruppe von Vigilanten, die gegen korrupte Superhelden kämpfen. Die Serie deckt auf, dass die vermeintlichen Helden der Welt eigentlich egoistische, gewaltätige und moralisch bankrotte Menschen sind. Mit brutalen Action-Sequenzen, dunkelm Humor und gesellschaftskritischen Themen bietet die Serie eine erfrischend andere Perspektive auf das Superhelden-Genre. Die Charakterentwicklung ist tiefgründig, die Spannung konstant hoch und die Wendungen überraschend. Zuschauer erwartet ein spannendes Katz-und-Maus-Spiel zwischen Gut und Böse, wobei die Grenzen verschwimmen.",
+      "week_id": "2026-W35",
+      "week_date": "24. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 2,
+      "title": "Homecoming",
+      "year": "2018",
+      "rating": 7.8,
+      "genre": "Psychologischer Thriller",
+      "description": "Homecoming folgt Heidi Bergman, eine Therapeutin in einer rätselhaften Klinik, die sich an ihre Zeit dort nicht erinnern kann. Die Serie basiert auf dem gleichnamigen Podcast und kombiniert psychologisches Drama mit Mystery-Elementen. Durch nicht-lineare Erzählweise und wechselnde Perspektiven wird eine spannende Verschwörung enthüllt. Julia Roberts gibt eine subtile, nuancierte Performance, die von ihrem Oscar-würdigen Schauspiel getragen wird. Die beklemmende Atmosphäre, die technische Kulisse und die clevere Plotstruktur machen Homecoming zu einem Meisterwerk des Thrillers, das Zuschauer konstant rätseln lässt.",
+      "week_id": "2026-W35",
+      "week_date": "24. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 3,
+      "title": "The Man in the High Castle",
+      "year": "2015",
+      "rating": 8.1,
+      "genre": "Science-Fiction/Drama",
+      "description": "Diese Serie zeigt ein alternatives Amerika nach einem Sieg der Achsenmächte im Zweiten Weltkrieg. Das Land ist zwischen Nazis und Japanern aufgeteilt, während eine Widerstands-Bewegung gegen das totalitäre Regime kämpft. Basierend auf Philip K. Dicks Roman, bietet die Serie eine verstörende, aber faszinierende Dystopie. Die Production Design ist beeindruckend, die Charaktere vielschichtig und die moralischen Dilemmata tiefgründig. Mit exzellenten Schauspielleistungen und brisanten politischen Themen schafft es die Serie, zeitlose Fragen über Macht, Widerstand und menschliche Natur zu erkunden.",
+      "week_id": "2026-W35",
+      "week_date": "24. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 4,
+      "title": "Transparent",
+      "year": "2014",
+      "rating": 8.4,
+      "genre": "Drama",
+      "description": "Transparent erzählt die Geschichte der Pfefferman-Familie, die ihr Leben neu bewerten muss, nachdem der Familienvater sich als transfrau outet. Die Serie kombiniert Drama, Humor und tiefgründige emotionale Momente auf sensible Weise. Jede Staffel erkundet die Perspektiven verschiedener Familienmitglieder, während sie mit Identität, Vergangenheit und Akzeptanz kämpfen. Die Serie ist bahnbrechend in ihrer Darstellung von LGBTQ+-Themen und bietet nuancierte, authentische Charaktere. Mit exzellenten Schauspielleistungen und poetischer Kameraarbeit schafft Transparent einen intimen Blick auf Familie, Liebe und Selbstfindung.",
+      "week_id": "2026-W35",
+      "week_date": "24. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 5,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "Die Serie folgt Miriam Maisel, einer Hausfrau im New York der 1950er Jahre, die nach ihrer Scheidung eine Karriere als Stand-up-Comedienne beginnt. Mit brillantem Skript, vibranter Ästhetik und schnellen Dialogen kombiniert die Serie historisches Drama mit modernem Humor. Rachel Brosnahan's Performance ist charismatisch und energiegeladen, während die Serie zeitlose Themen über Frauenrechte, Ambition und Selbstentdeckung erforscht. Die Atmosphäre ist nostalgisch, die Wendungen überraschend und die Nebencharaktere unvergesslich. Zuschauer erwartet eine unterhaltsame, inspirierende Serie über weibliche Ermächtigung und den Weg zur Karriere.",
+      "week_id": "2026-W35",
+      "week_date": "24. August 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
     {
       "rank": 1,
       "title": "Stranger Things",
