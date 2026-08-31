@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W36",
+      "date": "31. August 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "unterschätzte Serien, die kaum jemand kennt",
+      "theme_short": "Geheimtipps",
+      "file": "2026-W36-netflix.json"
+    },
+    {
       "id": "2026-W35",
       "date": "24. August 2026",
       "service": "Amazon Prime Video",
@@ -200,9 +209,14 @@
     }
   ],
   "stats": {
-    "total_picks": 100,
-    "total_weeks": 22,
+    "total_picks": 105,
+    "total_weeks": 23,
     "genres": {
+      "Western/Drama": 4,
+      "Horror/Mystery": 1,
+      "Sci-Fi/Drama": 1,
+      "Crime/Drama": 2,
+      "Sci-Fi/Mystery": 1,
       "Action/Drama": 1,
       "Psychologischer Thriller": 4,
       "Science-Fiction/Drama": 1,
@@ -212,7 +226,6 @@
       "Drama/Biografie": 1,
       "Fantasy/Action/Adventure": 1,
       "Drama/Romance/Period Drama": 1,
-      "Western/Drama": 3,
       "Comedy-Drama": 10,
       "Comedy": 2,
       "Fantasy-Comedy": 2,
@@ -247,7 +260,6 @@
       "Drama/Familie": 1,
       "Fantasy/Komödie": 1,
       "Political Thriller/Drama": 3,
-      "Crime/Drama": 1,
       "Dark Comedy/Science Fiction": 1,
       "Crime/Drama/Thriller": 1,
       "Action/Superhelden-Drama": 1,
@@ -270,6 +282,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-08-24T09:34:35.776932"
+    "last_updated": "2026-08-31T16:28:26.434162"
   }
 }

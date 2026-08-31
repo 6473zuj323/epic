@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-24T09:34:35.776932",
-  "total": 100,
+  "last_updated": "2026-08-31T16:28:26.434162",
+  "total": 105,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.2,
+      "genre": "Western/Drama",
+      "description": "Diese unterschätzte Western-Serie spielt in einer Kleinstadt, die von Frauen regiert wird, nachdem ein Bergbauunglück alle Männer getötet hat. Jeff Daniels spielt einen charismatischen Outlaw, der in dieser matriarchalen Gesellschaft Chaos verursacht. Die Serie kombiniert innovative Geschlechterrollen mit klassischen Western-Elementen und schafft eine einzigartige, düstere Atmosphäre. Die visuellen Effekte sind beeindruckend, die Charakterentwicklung tiefgründig und die Spannung konstant hoch. Perfekt für Fans von \"Deadwood\" und \"True Detective\", die etwas Neues und Progressives suchen.",
+      "week_id": "2026-W36",
+      "week_date": "31. August 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 2,
+      "title": "The Midnight Club",
+      "year": "2022",
+      "rating": 7.8,
+      "genre": "Horror/Mystery",
+      "description": "Diese atmosphärische Horror-Serie von Mike Flanagan folgt einer Gruppe junger Menschen in einem Hospiz, die sich jede Nacht versammeln, um sich gegenseitig Gruselgeschichten zu erzählen. Jede Episode präsentiert eine andere Episode mit verschiedenen Genres und Stilen. Die Serie meistert es, zwischen emotionaler Tiefe und echtem Horror zu wechseln, während ein größeres Mysterium über die mysteriöse Einrichtung selbst gelüftet wird. Die Erzählweise ist kreativ, die Wendungen überraschend und die Charaktere authentisch entwickelt.",
+      "week_id": "2026-W36",
+      "week_date": "31. August 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 3,
+      "title": "Maniac",
+      "year": "2018",
+      "rating": 7.9,
+      "genre": "Sci-Fi/Drama",
+      "description": "Eine surrealistische Miniserie über zwei völlig fremde Menschen, die an einer experimentellen Pharmakologie-Studie teilnehmen, die tragisch schiefgeht. Emma Stone und Jonah Hill haben eine unglaubliche Chemie und liefern beide ihre besten schauspielerischen Leistungen ab. Die Serie springt zwischen verschiedenen Realitäten, Genres und Erzählstilen, was sie visuell faszinierend und emotional verstörend macht. Mit surrealistischem Flair, dunklem Humor und tiefem psychologischem Kern schafft sie eine unvergessliche und provokative Erfahrung.",
+      "week_id": "2026-W36",
+      "week_date": "31. August 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 4,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime/Drama",
+      "description": "Ein Finanzplaner wird gezwungen, Geldwäsche für einen mexikanischen Drogenkartell zu betreiben und muss seine Familie in die Ozarks verlegen. Jason Bateman und Laura Linney liefern karrierebeste Leistungen ab und zeigen die psychologische Zerreißprobe einer Familie unter extremem Druck. Die Serie verbindet spannungsgeladenes Crime-Drama mit intimer Familiencharakterstudie. Jede Staffel intensiviert die Spannung, während die moralische Erosion der Protagonisten dokumentiert wird. Ein absoluter Meisterwerk für Crime-Drama-Fans.",
+      "week_id": "2026-W36",
+      "week_date": "31. August 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
+    {
+      "rank": 5,
+      "title": "The OA",
+      "year": "2016",
+      "rating": 8.0,
+      "genre": "Sci-Fi/Mystery",
+      "description": "Diese experimentelle Serie folgt einer blinden Frau, die plötzlich sehend wird und mysteriöse Narben auf dem Rücken hat. Sie versammelt eine Gruppe von Außenseitern, um eine komplexe, übernatürliche Geschichte zu offenbaren, die interdimensionale Reisen und metaphysische Konzepte umfasst. Stark visuell stilisiert mit hypnotischer Musik und philosophischen Themen, schafft die Serie eine einzigartige Mischung aus Mystery, Science-Fiction und Drama. Zwar wurde die Serie nach zwei Staffeln abgesetzt, aber ihre innovative Erzählweise und kreative Ambitionen machen sie unvergesslich.",
+      "week_id": "2026-W36",
+      "week_date": "31. August 2026",
+      "service": "Netflix",
+      "theme": "Geheimtipps"
+    },
     {
       "rank": 1,
       "title": "The Boys",
