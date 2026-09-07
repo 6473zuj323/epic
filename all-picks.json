@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-08-31T16:28:26.434162",
-  "total": 105,
+  "last_updated": "2026-09-07T14:32:39.660926",
+  "total": 110,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Superhero/Drama",
+      "description": "The Boys ist eine düstere Dekonstruktion des Superhelden-Genres, die zeigt, was passiert, wenn Supermächte in den Händen korrupter, egoistischer Menschen landen. Eine Gruppe normaler Menschen kämpft gegen übermächtige Superhelden, die von einem bösen Konzern kontrolliert werden. Die Serie brilliert durch ihre Mischung aus brutaler Action, schwarzem Humor und sozialkritischen Themen. Sie bietet Spannung pur mit unerwarteten Wendungen, komplexen Charakteren und einer beklemmenden Atmosphäre. Perfekt für einen Marathon, da jede Staffel süchtig machend ist und konstant neue Wendungen bringt.",
+      "week_id": "2026-W37",
+      "week_date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 2,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.8,
+      "genre": "Comedy/Drama",
+      "description": "Fleabag folgt einer scharf­zün­gigen, emotional unstabilen Londoner Frau, die sich durch ihr chaotisches Leben laviert. Die Serie ist bekannt für ihre innovative Erzählweise mit direkten Blicken in die Kamera, intelligenter Schreib­arbeit und tiefgründigem emotionalen Kern hinter der Comedy-Fassade. Mit nur zwei Staffeln ist sie ideal für einen intensiven Marathon-Tag. Die Charaktere sind erstaunlich vielschichtig, die Handlung überraschend rührend. Fleabag vereint scharfsinnigen Humor mit echten Gefühlen und schafft es, sowohl zum Lachen als auch zum Nachdenken zu bringen.",
+      "week_id": "2026-W37",
+      "week_date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 3,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "Diese bezaubernde Serie folgt Miriam 'Midge' Maisel, einer Hausfrau der 1950er Jahre in New York, die nach ihrer Trennung entdeckt, dass sie eine Leidenschaft für Stand-up-Comedy hat. Die Show strahlt Optimismus und Energie aus, während sie gesellschaftliche Konventionen hinterfragt. Mit wunderschöner Cinematographie, brillantem Drehbuch und spielerischem Humor ist es pure Freude zu schauen. Die Serie bietet Escapismus mit Substanz, inspirierende Charakterentwicklung und einen unglaublich sympathischen Cast. Ideal für einen unterhaltsamen Marathon mit einer Prise historischer Eleganz.",
+      "week_id": "2026-W37",
+      "week_date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 4,
+      "title": "Transparent",
+      "year": "2014",
+      "rating": 8.0,
+      "genre": "Drama",
+      "description": "Transparent ist ein revolutionäres Drama über die Pfefferman-Familie, deren Matriarch sich als Transfrau offenbart. Die Serie erkundet tiefgreifend Familie, Identität, Sexualität und Akzeptanz mit Empathie und Nuancen. Sie zeichnet sich durch ihre künstlerische Herangehensweise, innovative Regie und ensemble-starke Schauspielleistungen aus. Jede Episode ist eine Reise in die Psychologie der Charaktere, voller unvergesslicher Momente. Die Serie ist emotional intensiv, manchmal verstörend, aber immer authentisch. Ein Marathon mit dieser Serie ist eine tiefgreifende, transformative Erfahrung, die lange nachwirkt.",
+      "week_id": "2026-W37",
+      "week_date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
+    {
+      "rank": 5,
+      "title": "Halt and Catch Fire",
+      "year": "2014",
+      "rating": 8.4,
+      "genre": "Drama/Tech",
+      "description": "Diese unterschätzte Serie folgt einer Gruppe ehrgeiziger Menschen während des Personal-Computer-Booms der 1980er und 1990er Jahre. Es ist weniger eine Tech-Serie als vielmehr ein menschliches Drama über Ambition, Innovation, Freundschaft und Opfer. Mit einer großartigen Besetzung, wunderschöner Cinematographie und einer kultigen Soundtrack entwickelt sie sich über vier Staffeln zu einer meisterlichen Charakter-Geschichte. Die Serie hat genau die richtige Balance zwischen Spannung und Tiefe. Sie ist inspirierend ohne naiv zu sein und nostalgisch ohne kitschig zu wirken – perfekt für einen intensiven Marathon.",
+      "week_id": "2026-W37",
+      "week_date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Binge-worthy"
+    },
     {
       "rank": 1,
       "title": "Godless",

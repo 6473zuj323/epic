@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W37",
+      "date": "07. September 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "perfekte Serien für einen Binge-Marathon",
+      "theme_short": "Binge-worthy",
+      "file": "2026-W37-prime.json"
+    },
+    {
       "id": "2026-W36",
       "date": "31. August 2026",
       "service": "Netflix",
@@ -209,9 +218,13 @@
     }
   ],
   "stats": {
-    "total_picks": 105,
-    "total_weeks": 23,
+    "total_picks": 110,
+    "total_weeks": 24,
     "genres": {
+      "Action/Superhero/Drama": 1,
+      "Comedy/Drama": 6,
+      "Drama": 2,
+      "Drama/Tech": 1,
       "Western/Drama": 4,
       "Horror/Mystery": 1,
       "Sci-Fi/Drama": 1,
@@ -220,8 +233,6 @@
       "Action/Drama": 1,
       "Psychologischer Thriller": 4,
       "Science-Fiction/Drama": 1,
-      "Drama": 1,
-      "Comedy/Drama": 4,
       "Science-Fiction/Horror/Drama": 2,
       "Drama/Biografie": 1,
       "Fantasy/Action/Adventure": 1,
@@ -282,6 +293,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-08-31T16:28:26.434162"
+    "last_updated": "2026-09-07T14:32:39.660926"
   }
 }
