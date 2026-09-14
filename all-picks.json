@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-07T14:32:39.660926",
-  "total": 110,
+  "last_updated": "2026-09-14T15:20:56.418971",
+  "total": 115,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Sixth Sense",
+      "year": "1999",
+      "rating": 8.5,
+      "genre": "Thriller/Mystery",
+      "description": "Ein Kinderpsychologe behandelt einen verstörten Jungen, der behauptet, Tote zu sehen. Die Serie baut eine dichte, beklemmende Atmosphäre auf, während sie die Grenze zwischen Realität und Übernatürlichem verwischt. Der finale Plot-Twist revolutionierte das Genre und zwingt Zuschauer, alles Gesehene neu zu bewerten. Die Spannung wächst kontinuierlich durch subtile Hinweise und psychologische Tiefe. Bruce Willis liefert eine einfühlsame Performance, während die cinematographische Umsetzung verstörendes Unbehagen erzeugt. Die Serie kombiniert Horror mit emotionaler Tiefe und hinterlässt einen nachhaltigen Eindruck, der zum mehrmaligen Schauen einlädt.",
+      "week_id": "2026-W38",
+      "week_date": "14. September 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 2,
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Science Fiction/Mystery",
+      "description": "In einer kleinen deutschen Stadt verschwindet ein Junge spurlos, was ein komplexes Netzwerk aus Geheimnissen, Zeitreisen und generationsübergreifenden Verschwörungen aufdeckt. Die Serie besticht durch ihre labyrinthische Handlung mit zahlreichen überraschenden Wendungen und einem perfekt konstruierten Finale. Atmosphäre und Spannung bleiben durchgehend auf höchstem Niveau. Die Non-lineare Erzählweise fordert Zuschauer heraus, Zusammenhänge zu erkennen. Thematische Tiefe zu Determinismus, Schuld und Schicksal erhebt die Serie über Standard-Thrillerkost. Absolut binge-würdig für Mystery-Liebhaber.",
+      "week_id": "2026-W38",
+      "week_date": "14. September 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 3,
+      "title": "The Haunting of Hill House",
+      "year": "2018",
+      "rating": 8.6,
+      "genre": "Horror/Drama",
+      "description": "Eine Familie erlebt übernatürliche Phänomene in einem verfluchten Herrenhaus, doch die wahren Horror-Quellen liegen in emotionalen Traumata und familiären Konflikten. Die Serie meistert brillant die Balance zwischen Jump-Scares und psychologischem Horror. Die verstörensten Momente entstehen durch Charakterentwicklung und emotionale Verwundbarkeit. Ungeklärte Mysterien werden schichtweise enthüllt, führen zu schockierenden Erkenntnissen. Die Atmosphäre ist durchgehend beklemmend, melancholisch und verstörend. Hervorragende Schauspielleistungen unterstreichen die tiefgreifende Erkundung von Trauma. Eine modern interpretierte Klassiker-Adaption, die Horror mit menschlicher Zerbrechlichkeit verbindet.",
+      "week_id": "2026-W38",
+      "week_date": "14. September 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 4,
+      "title": "Unbelievable",
+      "year": "2020",
+      "rating": 8.4,
+      "genre": "Crime Drama",
+      "description": "Eine Vergewaltigungsanzeige wird zur Obsession zweier Ermittlerinnen, die ein Netzwerk von Straftaten aufdecken, während das System der Hauptopferin nicht glaubt. Die Serie basiert auf wahren Ereignissen und enthüllt systembedingten Missbrauch und Geschlechterdiskriminierung. Narrative Plot-Twists zeigen, wie Justiz versagt und Gerechtigkeit subjektiv ist. Die emotionale Intensität ist durchgehend hoch, gespickt mit investigativen Wendungen. Charakterisierung ist außergewöhnlich nuanciert, moralische Komplexität prägt jede Episode. Die Serie provoziert Reflexion über Machtmissbrauch und systemische Ungerechtigkeit. Tiefgründig, unbequem und vollständig fesselnd für Drama-Fans.",
+      "week_id": "2026-W38",
+      "week_date": "14. September 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
+    {
+      "rank": 5,
+      "title": "The Diplomat",
+      "year": "2023",
+      "rating": 8.2,
+      "genre": "Political Thriller/Drama",
+      "description": "Eine erfahrene US-Botschafterin wird zu einer heiklen diplomatischen Krise berufen und stellt fest, dass internationale Politik gefährlicher Spiele voller versteckter Agenden ist. Die Serie kombiniert politische Intrigen mit persönlichen Konflikten und überraschenden Wendungen. Katy Russell liefert eine karismatische Performance, während die Handlung konstant neue Schichten offenbart. Allianzen verschieben sich unerwartet, Verräter werden enthüllt, moralische Grenzen verwischen. Die Atmosphäre mischt Spannung mit diplomatischer Finesse. Intelligent geschriebene Dialoge treffen politische Raffinesse. Perfekt für Liebhaber von Thrillern, die intellektuelle Substanz mit Unterhaltung verbinden.",
+      "week_id": "2026-W38",
+      "week_date": "14. September 2026",
+      "service": "Netflix",
+      "theme": "Plot-Twists"
+    },
     {
       "rank": 1,
       "title": "The Boys",

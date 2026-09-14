@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W38",
+      "date": "14. September 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "Serien mit überraschenden Plot-Twists",
+      "theme_short": "Plot-Twists",
+      "file": "2026-W38-netflix.json"
+    },
+    {
       "id": "2026-W37",
       "date": "07. September 2026",
       "service": "Amazon Prime Video",
@@ -218,9 +227,14 @@
     }
   ],
   "stats": {
-    "total_picks": 110,
-    "total_weeks": 24,
+    "total_picks": 115,
+    "total_weeks": 25,
     "genres": {
+      "Thriller/Mystery": 1,
+      "Science Fiction/Mystery": 1,
+      "Horror/Drama": 2,
+      "Crime Drama": 7,
+      "Political Thriller/Drama": 4,
       "Action/Superhero/Drama": 1,
       "Comedy/Drama": 6,
       "Drama": 2,
@@ -249,7 +263,6 @@
       "Action/Superhero": 1,
       "Thriller/Drama": 4,
       "Science Fiction/Thriller": 1,
-      "Crime Drama": 6,
       "Documentary Series": 2,
       "Superhero-Action-Drama": 1,
       "Historical Drama-Thriller": 1,
@@ -264,13 +277,11 @@
       "Drama/Western": 1,
       "Science-Fiction/Mystery": 1,
       "Crime/Thriller": 1,
-      "Horror/Drama": 1,
       "Action/Superhelden-Satire": 1,
       "Komödie/Drama": 1,
       "Thriller/Psychologisches Drama": 1,
       "Drama/Familie": 1,
       "Fantasy/Komödie": 1,
-      "Political Thriller/Drama": 3,
       "Dark Comedy/Science Fiction": 1,
       "Crime/Drama/Thriller": 1,
       "Action/Superhelden-Drama": 1,
@@ -293,6 +304,6 @@
       "Thriller / Drama / Dystopie": 1,
       "Fantasy / Action / Adventure": 1
     },
-    "last_updated": "2026-09-07T14:32:39.660926"
+    "last_updated": "2026-09-14T15:20:56.418971"
   }
 }
