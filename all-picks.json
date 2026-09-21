@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-14T15:20:56.418971",
-  "total": 115,
+  "last_updated": "2026-09-21T15:25:41.007064",
+  "total": 120,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Engrenages (Spiral)",
+      "year": "2005",
+      "rating": 8.3,
+      "genre": "Crime Drama",
+      "description": "Diese französische Krimiserie folgt einem Team von Pariser Ermittlern, Richtern und Anwälten, die komplexe Mordfälle lösen. Die Serie besticht durch ihre düstere, realistische Atmosphäre und tiefgründige Charakterentwicklung. Engrenages zeigt die verstrickte Welt der französischen Justiz mit all ihren moralischen Grauzonen. Jede Staffel präsentiert neue Fälle, während persönliche Dramen der Charaktere eskalieren. Die intelligente Drehbucher, gritty Inszenierung und starke Performances machen die Serie zu einem europäischen Meisterwerk. Sie gilt als Vorbild für moderne europäische Crime-Serien und bietet spannendes Kino auf höchstem Niveau mit psychologischer Tiefe.",
+      "week_id": "2026-W39",
+      "week_date": "21. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 2,
+      "title": "Borgen",
+      "year": "2010",
+      "rating": 8.1,
+      "genre": "Political Drama",
+      "description": "Die dänische Serie folgt Birgitte Nyborg, die zur ersten weiblichen Premierministerin Dänemarks wird. Borgen brilliert durch intelligente politische Intrigen, feministische Thematik und meisterhafte Charakterentwicklung. Die Serie zeigt den Alltag im Politikzirkus: Machtkämpfe, persönliche Opfer und ethische Dilemmata. Sídse Babett Knudsen liefert eine unforgettable Performance als ehrgeizige, aber verletzliche Politikerin. Die spannungsgeladene Atmosphäre, die strategischen Spielchen und die Balance zwischen Beruf und Privatleben machen die Serie fesselnd. Borgen ist eine masterclass in Political Drama, die tiefgreifende Fragen über Macht, Integrität und weibliche Führung aufwirft.",
+      "week_id": "2026-W39",
+      "week_date": "21. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 3,
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Sci-Fi Mystery",
+      "description": "Diese deutsche Netflix-Produktion ist ein labyrinthisches Sci-Fi-Meisterwerk über zeitliche Zyklen und Verschwörungen in einem kleinen Dorf. Dark verbindet komplexe Zeitreise-Konzepte mit emotionalen Familiendramen und einer beklemmenden Atmosphäre. Als Kinder verschwinden, offenbart sich ein Netzwerk von Geheimnissen, das sich über Generationen erstreckt. Die Serie besticht durch ihre präzise Drehbucharbeit, wo jedes Detail zählt, cinematische Dunkelheit und eine hypnotisierende Filmmusik. Die Zuschauer müssen aktiv dem Rätsel folgen. Dark ist innovativ, anspruchsvoll und beweist die Qualität europäischen Serienfernsehens auf internationalem Level.",
+      "week_id": "2026-W39",
+      "week_date": "21. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 4,
+      "title": "The Killing (Forbrydelsen)",
+      "year": "2007",
+      "rating": 8.5,
+      "genre": "Crime Drama",
+      "description": "Diese dähnische Krimiserie revolutionierte das Genre mit ihrer langsamen, methodischen Erzählweise und psychologischen Tiefe. The Killing folgt Detektivin Sarah Lund bei der Untersuchung eines Mordes, der die ganze Stadt erschüttert. Die Serie zeichnet sich durch Authentizität, grübelnd-düstere Atmosphäre und komplexe, flawed Characters aus. Jede Staffel konzentriert sich auf einen Fall mit widersprüchlichen Verdächtigen und moralischen Grauzonwn. Grethe Holst Christensens Lund ist eine ikonische TV-Figur mit inneren Dämonen. Die Serie bietet spannungsgeladene Ermittlungen, emotionale Tiefe und eine beispiellose Spannung, die über ganze Staffeln erhalten bleibt.",
+      "week_id": "2026-W39",
+      "week_date": "21. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
+    {
+      "rank": 5,
+      "title": "Trapped (Ófærð)",
+      "year": "2015",
+      "rating": 8.2,
+      "genre": "Crime Drama",
+      "description": "Diese isländische Serie bietet eine packende Mischung aus Nordic Noir und Kammerspiel-Drama. Trapped folgt einem Sheriff in einer isolierten isländischen Stadt, als eine Leiche ankommen und mysteriöse Morde das Gefüge durcheinander bringen. Die Serie beeindruckt durch ihre beeindruckende isländische Landschaft, die als beklemmender Character fungiert, und ihre slow-burn-Spannung. Die Handlung entfaltet sich methodisch mit psychologischen Spielen und unverhofften Wendungen. Bjorn Hlynur Haraldsson als Sheriff liefert eine nuancierte, introvertierte Performance. Trapped kombiniert philosophische Tiefe mit Thriller-Elementen und präsentiert ein Gemeinschaftsdrama, in dem sich niemand trauen kann und jeder Verdächtig ist.",
+      "week_id": "2026-W39",
+      "week_date": "21. September 2026",
+      "service": "Amazon Prime Video",
+      "theme": "Europa"
+    },
     {
       "rank": 1,
       "title": "The Sixth Sense",
