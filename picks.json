@@ -1,54 +1,54 @@
 {
-  "id": "2026-W39",
-  "generated": "2026-09-21T15:25:41.007064",
-  "date_formatted": "21. September 2026",
-  "week": 39,
+  "id": "2026-W40",
+  "generated": "2026-09-28T17:07:25.787665",
+  "date_formatted": "28. September 2026",
+  "week": 40,
   "year": 2026,
-  "service": "Amazon Prime Video",
-  "service_slug": "prime",
-  "next_service": "Netflix",
-  "theme": "europäische Serien-Geheimtipps",
-  "theme_short": "Europa",
+  "service": "Netflix",
+  "service_slug": "netflix",
+  "next_service": "Prime Video",
+  "theme": "Serien die nach 1-2 Folgen zünden",
+  "theme_short": "Slow Burner",
   "picks": [
     {
       "rank": 1,
-      "title": "Engrenages (Spiral)",
-      "year": "2005",
-      "rating": 8.3,
-      "genre": "Crime Drama",
-      "description": "Diese französische Krimiserie folgt einem Team von Pariser Ermittlern, Richtern und Anwälten, die komplexe Mordfälle lösen. Die Serie besticht durch ihre düstere, realistische Atmosphäre und tiefgründige Charakterentwicklung. Engrenages zeigt die verstrickte Welt der französischen Justiz mit all ihren moralischen Grauzonen. Jede Staffel präsentiert neue Fälle, während persönliche Dramen der Charaktere eskalieren. Die intelligente Drehbucher, gritty Inszenierung und starke Performances machen die Serie zu einem europäischen Meisterwerk. Sie gilt als Vorbild für moderne europäische Crime-Serien und bietet spannendes Kino auf höchstem Niveau mit psychologischer Tiefe."
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science Fiction / Horror / Drama",
+      "description": "Stranger Things versetzt Zuschauer in die 1980er Jahre nach Hawkins, Indiana, wo ein Junge spurlos verschwindet und übernatürliche Phänomene die Stadt heimsuchen. Die Serie kombiniert Nostalgie, Spannung und emotionale Tiefe perfekt. Nach wenigen Folgen wird man vollständig in das Mysterium um die Upside Down gezogen – eine alternative, düstere Dimension. Die Charakterentwicklung ist außergewöhnlich, die Chemie zwischen den Akteuren glaubwürdig. Mit ikonischer 80er-Jahre-Musik, praktischen Effekten und einer konstanten Mischung aus Horror, Humor und Heartfelt-Momenten schafft die Serie eine süchtig machende Atmosphäre, die schnell zum Binge-Watching führt."
     },
     {
       "rank": 2,
-      "title": "Borgen",
-      "year": "2010",
-      "rating": 8.1,
-      "genre": "Political Drama",
-      "description": "Die dänische Serie folgt Birgitte Nyborg, die zur ersten weiblichen Premierministerin Dänemarks wird. Borgen brilliert durch intelligente politische Intrigen, feministische Thematik und meisterhafte Charakterentwicklung. Die Serie zeigt den Alltag im Politikzirkus: Machtkämpfe, persönliche Opfer und ethische Dilemmata. Sídse Babett Knudsen liefert eine unforgettable Performance als ehrgeizige, aber verletzliche Politikerin. Die spannungsgeladene Atmosphäre, die strategischen Spielchen und die Balance zwischen Beruf und Privatleben machen die Serie fesselnd. Borgen ist eine masterclass in Political Drama, die tiefgreifende Fragen über Macht, Integrität und weibliche Führung aufwirft."
+      "title": "Squid Game",
+      "year": "2021",
+      "rating": 8.0,
+      "genre": "Thriller / Drama",
+      "description": "Squid Game folgt hunderten verzweifelter Menschen, die an mysteriösen, tödlichen Spielen teilnehmen, um massive Geldpreise zu gewinnen. Diese südkoreanische Serie setzt unmittelbar mit hochspannenden Szenen ein und steigert die Intensität kontinuierlich. Die düstere Prämisse – Armut trifft auf Überlebenskampf – resoniert universal. Jede Folge offenbart neue Spielregeln und moralische Dilemmata, die Zuschauer emotional investieren. Die Charaktere werden schnell sympathisch, ihre Schicksale bewegend. Die Serie verbindet visuell beeindruckende Szenen mit tiefgründiger Gesellschaftskritik und bleibt unvorhersehbar."
     },
     {
       "rank": 3,
-      "title": "Dark",
-      "year": "2017",
-      "rating": 8.7,
-      "genre": "Sci-Fi Mystery",
-      "description": "Diese deutsche Netflix-Produktion ist ein labyrinthisches Sci-Fi-Meisterwerk über zeitliche Zyklen und Verschwörungen in einem kleinen Dorf. Dark verbindet komplexe Zeitreise-Konzepte mit emotionalen Familiendramen und einer beklemmenden Atmosphäre. Als Kinder verschwinden, offenbart sich ein Netzwerk von Geheimnissen, das sich über Generationen erstreckt. Die Serie besticht durch ihre präzise Drehbucharbeit, wo jedes Detail zählt, cinematische Dunkelheit und eine hypnotisierende Filmmusik. Die Zuschauer müssen aktiv dem Rätsel folgen. Dark ist innovativ, anspruchsvoll und beweist die Qualität europäischen Serienfernsehens auf internationalem Level."
+      "title": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "genre": "Drama / Historical",
+      "description": "The Crown präsentiert die Herrschaft von Königin Elisabeth II. mit cineastischer Brillanz und menschlicher Tiefe. Die Serie beginnt mit ihrem Aufstieg zur Königin und zieht sofort durch prächtige Produktion, politische Intrigen und intime Familiendramen fesseln. Die Charakterisierung ist nuanciert – Elisabeth ist keine eindimensionale Figur, sondern eine Frau mit Pflichten, Ängsten und persönlichen Konflikten. Mit hochkarätigen Darstellern, atemberaubend schöner Cinematografie und akkurat recherchierten Details schafft die Serie eine fesselnde Mischung aus Geschichtsdrama und Familienthriller, die historische Ereignisse lebendig werden lässt."
     },
     {
       "rank": 4,
-      "title": "The Killing (Forbrydelsen)",
-      "year": "2007",
-      "rating": 8.5,
-      "genre": "Crime Drama",
-      "description": "Diese dähnische Krimiserie revolutionierte das Genre mit ihrer langsamen, methodischen Erzählweise und psychologischen Tiefe. The Killing folgt Detektivin Sarah Lund bei der Untersuchung eines Mordes, der die ganze Stadt erschüttert. Die Serie zeichnet sich durch Authentizität, grübelnd-düstere Atmosphäre und komplexe, flawed Characters aus. Jede Staffel konzentriert sich auf einen Fall mit widersprüchlichen Verdächtigen und moralischen Grauzonwn. Grethe Holst Christensens Lund ist eine ikonische TV-Figur mit inneren Dämonen. Die Serie bietet spannungsgeladene Ermittlungen, emotionale Tiefe und eine beispiellose Spannung, die über ganze Staffeln erhalten bleibt."
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.8,
+      "genre": "Science Fiction / Mystery / Drama",
+      "description": "Dark ist ein deutsches Meisterwerk, das mit einem vermissten Kind in einer kleinen Stadt beginnt und sich zu einem komplex verwobenen, zeitübergreifenden Mysterium entwickelt. Die Serie zündet sofort durch ihre düstere Atmosphäre und verstörenden Szenen. Mehrere Zeitlinien, versteckte Verbindungen und philosophische Fragen durchziehen die Handlung. Jede Folge offenbart neue Schichten der Verschwörung und zwingt Zuschauer zum Nachdenken. Mit excellenter Besetzung, cinematischer Dunkelheit und einem unverhersehbaren Plot, der sich über drei Staffeln entfaltet, wird man süchtig nach Antworten. Ein absoluter Binge-Klassiker."
     },
     {
       "rank": 5,
-      "title": "Trapped (Ófærð)",
-      "year": "2015",
-      "rating": 8.2,
-      "genre": "Crime Drama",
-      "description": "Diese isländische Serie bietet eine packende Mischung aus Nordic Noir und Kammerspiel-Drama. Trapped folgt einem Sheriff in einer isolierten isländischen Stadt, als eine Leiche ankommen und mysteriöse Morde das Gefüge durcheinander bringen. Die Serie beeindruckt durch ihre beeindruckende isländische Landschaft, die als beklemmender Character fungiert, und ihre slow-burn-Spannung. Die Handlung entfaltet sich methodisch mit psychologischen Spielen und unverhofften Wendungen. Bjorn Hlynur Haraldsson als Sheriff liefert eine nuancierte, introvertierte Performance. Trapped kombiniert philosophische Tiefe mit Thriller-Elementen und präsentiert ein Gemeinschaftsdrama, in dem sich niemand trauen kann und jeder Verdächtig ist."
+      "title": "The Witcher",
+      "year": "2019",
+      "rating": 7.9,
+      "genre": "Fantasy / Action / Adventure",
+      "description": "The Witcher folgt Geralt von Riva, einem erfahrenen Monster-Jäger, durch eine fesselnde Fantasy-Welt voller politischer Intrigen, übernatürlicher Bedrohungen und Magie. Die Serie zündet durch packende Action-Sequenzen, dunkle Atmosphäre und komplexe Charakterentwicklung. Geralt ist ein glaubhaft verdienstvoller Protagonist – rau, aber tiefgründig. Die Handlung verbindet mehrere Erzählstränge geschickt miteinander und enthüllt tiefgründige Mythologie. Mit beeindruckender Weltenbau, magischen Effekten und emotionalen Momenten bietet die Serie Fantasy-Fans genau das richtige Maß an Abenteuer, Mystery und Spannung für sofortiges Eintauchen."
     }
   ]
 }
