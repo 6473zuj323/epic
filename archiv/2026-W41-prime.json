@@ -1,0 +1,54 @@
+{
+  "id": "2026-W41",
+  "generated": "2026-10-05T17:31:56.810852",
+  "date_formatted": "05. Oktober 2026",
+  "week": 41,
+  "year": 2026,
+  "service": "Amazon Prime Video",
+  "service_slug": "prime",
+  "next_service": "Netflix",
+  "theme": "beste Serien unter 8 Folgen",
+  "theme_short": "Kurz & Knackig",
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Comedy-Drama",
+      "description": "Fleabag folgt einer scharfsinnigen, selbstzerstörerischen Londonerin, die direkt zur Kamera spricht und ihr chaotisches Leben navigiert. Die Serie brilliert durch ihre innovative Erzählweise, intelligente Humor-Drama-Balance und außergewöhnliche Charakterentwicklung. Mit nur zwei Staffeln à sechs Episoden bietet Fleabag eine perfekt erzählte Geschichte über Familie, Liebe und Selbstfindung. Phoebe Waller-Bridge schafft einen unvergleichlich witzigen und emotionalen Kosmos, der schnell süchtig macht. Die Show wurde mit zahlreichen Emmys ausgezeichnet und gilt als moderner Klassiker des Fernsehens."
+    },
+    {
+      "rank": 2,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime-Drama",
+      "description": "Mindhunter erforscht die Anfänge der FBI-Profilierung in den 1970ern und 80ern. Die Serie folgt zwei Agenten, die mit innovativen Befragungstechniken real existierende Serienmörder analysieren. Mit psychologischer Tiefe, Spannung und historischer Authentizität schafft die Show eine verstörende aber fesselnde Atmosphäre. Die Charakterentwicklung ist beeindruckend, die Interviews mit Killern verstörend real. Mindhunter kombiniert Kriminalgeschichte mit persönlichen Dramen der Ermittler perfekt und bietet intelligentes, anspruchsvolles Fernsehen für Crime-Drama-Fans."
+    },
+    {
+      "rank": 3,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 7.9,
+      "genre": "Western-Drama",
+      "description": "Godless ist ein innovativer Western, der in einer Frauenstadt spielt, in der Männer verboten sind. Als ein verletzter Outlaw ankommt, entsteht eine spannungsgeladene Dynamik zwischen Tradition und Rebellion. Die Serie besticht durch ihre einzigartige Prämisse, starke Charaktere und atemberaubende Cinematografie der Nevada-Wüste. Die Atmosphäre bleibt düster und werkgerecht, während persönliche Geschichten mitreißend erzählt werden. Mit nur sieben Episoden bietet Godless kompakte, packende Action und Drama, die Western-Klassiker neu interpretiert und einen frischen Blick auf das Genre wirft."
+    },
+    {
+      "rank": 4,
+      "title": "The Boys Presents: Diabolical",
+      "year": "2022",
+      "rating": 7.6,
+      "genre": "Animated Action-Comedy",
+      "description": "Diese animierte Anthologie-Serie aus dem The-Boys-Universum bietet acht wildgewordene Episoden voller schwarzer Humor, Gewalt und Superhelden-Satire. Jede Episode erzählt eigenständig bizarre, oft verstörende Geschichten im Universum von korrupten Superkräftigen. Die Serie besticht durch künstlerische Vielfalt verschiedenster Animationsstile und unvorhersehbare Wendungen. Das Tempo ist rasant, der Ton grenzenlos kreativ und irreverent. Fans des Original-Shows werden die schroffe Satire lieben, während die Episoden-Struktur flexibles Schauvergnügen ermöglicht. Ein unterhaltsamer, häufig schockierender Trip ins Dark-Comedy-Superhelden-Genre."
+    },
+    {
+      "rank": 5,
+      "title": "Undone",
+      "year": "2019",
+      "rating": 8.2,
+      "genre": "Animated Drama-Fantasy",
+      "description": "Undone ist eine animierte Rotoscope-Serie über Alma, eine junge Frau, die nach einem Autounfall übernatürliche Fähigkeiten entwickelt. Die Show vereint visuell atemberaubende Animation mit psychologischer Tiefe und Familie Drama. Alma kämpft mit ihrer mentalen Gesundheit und ihrer veränderten Wahrnehmung der Realität, während sie ihre Familie beschützen möchte. Die Handlung bleibt ambivalent zwischen Superpower-Action und psychologischem Realismus. Mit nur zwei Staffeln (8 Episoden) bietet Undone eine eindringliche, emotional nuancierte Geschichte über erwachsen werden, die bildgewaltig und psychologisch fasziniert."
+    }
+  ]
+}

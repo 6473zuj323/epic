@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W41",
+      "date": "05. Oktober 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "beste Serien unter 8 Folgen",
+      "theme_short": "Kurz & Knackig",
+      "file": "2026-W41-prime.json"
+    },
+    {
       "id": "2026-W40",
       "date": "28. September 2026",
       "service": "Netflix",
@@ -245,9 +254,14 @@
     }
   ],
   "stats": {
-    "total_picks": 125,
-    "total_weeks": 27,
+    "total_picks": 130,
+    "total_weeks": 28,
     "genres": {
+      "Comedy-Drama": 11,
+      "Crime-Drama": 1,
+      "Western-Drama": 1,
+      "Animated Action-Comedy": 1,
+      "Animated Drama-Fantasy": 1,
       "Science Fiction / Horror / Drama": 2,
       "Thriller / Drama": 1,
       "Drama / Historical": 1,
@@ -276,7 +290,6 @@
       "Drama/Biografie": 1,
       "Fantasy/Action/Adventure": 1,
       "Drama/Romance/Period Drama": 1,
-      "Comedy-Drama": 10,
       "Comedy": 2,
       "Fantasy-Comedy": 2,
       "Comedy-Sci-Fi": 1,
@@ -327,6 +340,6 @@
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1
     },
-    "last_updated": "2026-09-28T17:07:25.787665"
+    "last_updated": "2026-10-05T17:31:56.810852"
   }
 }

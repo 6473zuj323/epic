@@ -1,54 +1,54 @@
 {
-  "id": "2026-W40",
-  "generated": "2026-09-28T17:07:25.787665",
-  "date_formatted": "28. September 2026",
-  "week": 40,
+  "id": "2026-W41",
+  "generated": "2026-10-05T17:31:56.810852",
+  "date_formatted": "05. Oktober 2026",
+  "week": 41,
   "year": 2026,
-  "service": "Netflix",
-  "service_slug": "netflix",
-  "next_service": "Prime Video",
-  "theme": "Serien die nach 1-2 Folgen zünden",
-  "theme_short": "Slow Burner",
+  "service": "Amazon Prime Video",
+  "service_slug": "prime",
+  "next_service": "Netflix",
+  "theme": "beste Serien unter 8 Folgen",
+  "theme_short": "Kurz & Knackig",
   "picks": [
     {
       "rank": 1,
-      "title": "Stranger Things",
+      "title": "Fleabag",
       "year": "2016",
       "rating": 8.7,
-      "genre": "Science Fiction / Horror / Drama",
-      "description": "Stranger Things versetzt Zuschauer in die 1980er Jahre nach Hawkins, Indiana, wo ein Junge spurlos verschwindet und übernatürliche Phänomene die Stadt heimsuchen. Die Serie kombiniert Nostalgie, Spannung und emotionale Tiefe perfekt. Nach wenigen Folgen wird man vollständig in das Mysterium um die Upside Down gezogen – eine alternative, düstere Dimension. Die Charakterentwicklung ist außergewöhnlich, die Chemie zwischen den Akteuren glaubwürdig. Mit ikonischer 80er-Jahre-Musik, praktischen Effekten und einer konstanten Mischung aus Horror, Humor und Heartfelt-Momenten schafft die Serie eine süchtig machende Atmosphäre, die schnell zum Binge-Watching führt."
+      "genre": "Comedy-Drama",
+      "description": "Fleabag folgt einer scharfsinnigen, selbstzerstörerischen Londonerin, die direkt zur Kamera spricht und ihr chaotisches Leben navigiert. Die Serie brilliert durch ihre innovative Erzählweise, intelligente Humor-Drama-Balance und außergewöhnliche Charakterentwicklung. Mit nur zwei Staffeln à sechs Episoden bietet Fleabag eine perfekt erzählte Geschichte über Familie, Liebe und Selbstfindung. Phoebe Waller-Bridge schafft einen unvergleichlich witzigen und emotionalen Kosmos, der schnell süchtig macht. Die Show wurde mit zahlreichen Emmys ausgezeichnet und gilt als moderner Klassiker des Fernsehens."
     },
     {
       "rank": 2,
-      "title": "Squid Game",
-      "year": "2021",
-      "rating": 8.0,
-      "genre": "Thriller / Drama",
-      "description": "Squid Game folgt hunderten verzweifelter Menschen, die an mysteriösen, tödlichen Spielen teilnehmen, um massive Geldpreise zu gewinnen. Diese südkoreanische Serie setzt unmittelbar mit hochspannenden Szenen ein und steigert die Intensität kontinuierlich. Die düstere Prämisse – Armut trifft auf Überlebenskampf – resoniert universal. Jede Folge offenbart neue Spielregeln und moralische Dilemmata, die Zuschauer emotional investieren. Die Charaktere werden schnell sympathisch, ihre Schicksale bewegend. Die Serie verbindet visuell beeindruckende Szenen mit tiefgründiger Gesellschaftskritik und bleibt unvorhersehbar."
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime-Drama",
+      "description": "Mindhunter erforscht die Anfänge der FBI-Profilierung in den 1970ern und 80ern. Die Serie folgt zwei Agenten, die mit innovativen Befragungstechniken real existierende Serienmörder analysieren. Mit psychologischer Tiefe, Spannung und historischer Authentizität schafft die Show eine verstörende aber fesselnde Atmosphäre. Die Charakterentwicklung ist beeindruckend, die Interviews mit Killern verstörend real. Mindhunter kombiniert Kriminalgeschichte mit persönlichen Dramen der Ermittler perfekt und bietet intelligentes, anspruchsvolles Fernsehen für Crime-Drama-Fans."
     },
     {
       "rank": 3,
-      "title": "The Crown",
-      "year": "2016",
-      "rating": 8.6,
-      "genre": "Drama / Historical",
-      "description": "The Crown präsentiert die Herrschaft von Königin Elisabeth II. mit cineastischer Brillanz und menschlicher Tiefe. Die Serie beginnt mit ihrem Aufstieg zur Königin und zieht sofort durch prächtige Produktion, politische Intrigen und intime Familiendramen fesseln. Die Charakterisierung ist nuanciert – Elisabeth ist keine eindimensionale Figur, sondern eine Frau mit Pflichten, Ängsten und persönlichen Konflikten. Mit hochkarätigen Darstellern, atemberaubend schöner Cinematografie und akkurat recherchierten Details schafft die Serie eine fesselnde Mischung aus Geschichtsdrama und Familienthriller, die historische Ereignisse lebendig werden lässt."
+      "title": "Godless",
+      "year": "2017",
+      "rating": 7.9,
+      "genre": "Western-Drama",
+      "description": "Godless ist ein innovativer Western, der in einer Frauenstadt spielt, in der Männer verboten sind. Als ein verletzter Outlaw ankommt, entsteht eine spannungsgeladene Dynamik zwischen Tradition und Rebellion. Die Serie besticht durch ihre einzigartige Prämisse, starke Charaktere und atemberaubende Cinematografie der Nevada-Wüste. Die Atmosphäre bleibt düster und werkgerecht, während persönliche Geschichten mitreißend erzählt werden. Mit nur sieben Episoden bietet Godless kompakte, packende Action und Drama, die Western-Klassiker neu interpretiert und einen frischen Blick auf das Genre wirft."
     },
     {
       "rank": 4,
-      "title": "Dark",
-      "year": "2017",
-      "rating": 8.8,
-      "genre": "Science Fiction / Mystery / Drama",
-      "description": "Dark ist ein deutsches Meisterwerk, das mit einem vermissten Kind in einer kleinen Stadt beginnt und sich zu einem komplex verwobenen, zeitübergreifenden Mysterium entwickelt. Die Serie zündet sofort durch ihre düstere Atmosphäre und verstörenden Szenen. Mehrere Zeitlinien, versteckte Verbindungen und philosophische Fragen durchziehen die Handlung. Jede Folge offenbart neue Schichten der Verschwörung und zwingt Zuschauer zum Nachdenken. Mit excellenter Besetzung, cinematischer Dunkelheit und einem unverhersehbaren Plot, der sich über drei Staffeln entfaltet, wird man süchtig nach Antworten. Ein absoluter Binge-Klassiker."
+      "title": "The Boys Presents: Diabolical",
+      "year": "2022",
+      "rating": 7.6,
+      "genre": "Animated Action-Comedy",
+      "description": "Diese animierte Anthologie-Serie aus dem The-Boys-Universum bietet acht wildgewordene Episoden voller schwarzer Humor, Gewalt und Superhelden-Satire. Jede Episode erzählt eigenständig bizarre, oft verstörende Geschichten im Universum von korrupten Superkräftigen. Die Serie besticht durch künstlerische Vielfalt verschiedenster Animationsstile und unvorhersehbare Wendungen. Das Tempo ist rasant, der Ton grenzenlos kreativ und irreverent. Fans des Original-Shows werden die schroffe Satire lieben, während die Episoden-Struktur flexibles Schauvergnügen ermöglicht. Ein unterhaltsamer, häufig schockierender Trip ins Dark-Comedy-Superhelden-Genre."
     },
     {
       "rank": 5,
-      "title": "The Witcher",
+      "title": "Undone",
       "year": "2019",
-      "rating": 7.9,
-      "genre": "Fantasy / Action / Adventure",
-      "description": "The Witcher folgt Geralt von Riva, einem erfahrenen Monster-Jäger, durch eine fesselnde Fantasy-Welt voller politischer Intrigen, übernatürlicher Bedrohungen und Magie. Die Serie zündet durch packende Action-Sequenzen, dunkle Atmosphäre und komplexe Charakterentwicklung. Geralt ist ein glaubhaft verdienstvoller Protagonist – rau, aber tiefgründig. Die Handlung verbindet mehrere Erzählstränge geschickt miteinander und enthüllt tiefgründige Mythologie. Mit beeindruckender Weltenbau, magischen Effekten und emotionalen Momenten bietet die Serie Fantasy-Fans genau das richtige Maß an Abenteuer, Mystery und Spannung für sofortiges Eintauchen."
+      "rating": 8.2,
+      "genre": "Animated Drama-Fantasy",
+      "description": "Undone ist eine animierte Rotoscope-Serie über Alma, eine junge Frau, die nach einem Autounfall übernatürliche Fähigkeiten entwickelt. Die Show vereint visuell atemberaubende Animation mit psychologischer Tiefe und Familie Drama. Alma kämpft mit ihrer mentalen Gesundheit und ihrer veränderten Wahrnehmung der Realität, während sie ihre Familie beschützen möchte. Die Handlung bleibt ambivalent zwischen Superpower-Action und psychologischem Realismus. Mit nur zwei Staffeln (8 Episoden) bietet Undone eine eindringliche, emotional nuancierte Geschichte über erwachsen werden, die bildgewaltig und psychologisch fasziniert."
     }
   ]
 }
