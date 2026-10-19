@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W43",
+      "date": "19. Oktober 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "Serien mit starken Frauenfiguren",
+      "theme_short": "Starke Frauen",
+      "file": "2026-W43-prime.json"
+    },
+    {
       "id": "2026-W42",
       "date": "12. Oktober 2026",
       "service": "Netflix",
@@ -263,9 +272,14 @@
     }
   ],
   "stats": {
-    "total_picks": 135,
-    "total_weeks": 29,
+    "total_picks": 140,
+    "total_weeks": 30,
     "genres": {
+      "Action/Superhero": 2,
+      "Comedy/Drama": 7,
+      "Animation/Superhero": 1,
+      "Thriller/Drama": 5,
+      "Sci-Fi/Drama": 2,
       "Crime Drama": 13,
       "Documentary Series": 4,
       "Comedy-Drama": 11,
@@ -285,12 +299,10 @@
       "Horror/Drama": 2,
       "Political Thriller/Drama": 4,
       "Action/Superhero/Drama": 1,
-      "Comedy/Drama": 6,
       "Drama": 2,
       "Drama/Tech": 1,
       "Western/Drama": 4,
       "Horror/Mystery": 1,
-      "Sci-Fi/Drama": 1,
       "Crime/Drama": 2,
       "Sci-Fi/Mystery": 1,
       "Action/Drama": 1,
@@ -308,8 +320,6 @@
       "Political Thriller": 1,
       "Science Fiction Thriller": 1,
       "Crime Drama Thriller": 1,
-      "Action/Superhero": 1,
-      "Thriller/Drama": 4,
       "Science Fiction/Thriller": 1,
       "Superhero-Action-Drama": 1,
       "Historical Drama-Thriller": 1,
@@ -349,6 +359,6 @@
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1
     },
-    "last_updated": "2026-10-12T18:18:49.218951"
+    "last_updated": "2026-10-19T15:58:01.853523"
   }
 }

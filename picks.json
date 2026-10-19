@@ -1,54 +1,54 @@
 {
-  "id": "2026-W42",
-  "generated": "2026-10-12T18:18:49.218951",
-  "date_formatted": "12. Oktober 2026",
-  "week": 42,
+  "id": "2026-W43",
+  "generated": "2026-10-19T15:58:01.853523",
+  "date_formatted": "19. Oktober 2026",
+  "week": 43,
   "year": 2026,
-  "service": "Netflix",
-  "service_slug": "netflix",
-  "next_service": "Prime Video",
-  "theme": "Serien für True Crime Fans",
-  "theme_short": "True Crime",
+  "service": "Amazon Prime Video",
+  "service_slug": "prime",
+  "next_service": "Netflix",
+  "theme": "Serien mit starken Frauenfiguren",
+  "theme_short": "Starke Frauen",
   "picks": [
     {
       "rank": 1,
-      "title": "Mindhunter",
-      "year": "2017",
+      "title": "The Boys",
+      "year": "2019",
       "rating": 8.7,
-      "genre": "Crime Drama",
-      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie das Behavioral Analysis Unit gründen. Die Serie zeigt die Entwicklung der Kriminalprofilierung durch intensive Interviews mit inhaftierten Serienmördern. Mit psychologischer Tiefe und authentischen Details wird die Gründungsgeschichte moderner Ermittlungsmethoden erzählt. Die Atmosphäre ist beklemmend und fesselnd, mit ausgezeichneten Darstellungen von Jonathan Groff und Holt McCallany. Die Serie verbindet Spannung mit wissenschaftlicher Genauigkeit und zeigt, wie Profiling heute funktioniert. Zuschauer erwarten intensives Storytelling, komplexe Charakterentwicklung und tiefe Einblicke in die Psyche von Verbrechern."
+      "genre": "Action/Superhero",
+      "description": "The Boys bietet eine düstere Neuinterpretation des Superhelden-Genres, in der korrupte Superkräfte-Besitzer von einer Gruppe normaler Menschen bekämpft werden. Die Serie zeichnet sich durch ihre starken weiblichen Charaktere aus, insbesondere Starlight und Maeve, die gegen ein unterdrückerisches System rebellieren. Mit brutalen Action-Szenen, dunkelm Humor und tiefgreifender Gesellschaftskritik schafft die Serie eine einzigartige Atmosphäre. Die Handlung enthüllt versteckte Machenschaften großer Konzerne und persönliche Kämpfe um Identität und Macht. Zuschauer können sich auf explosive Momente, emotionale Wendungen und starke Charakterentwicklungen freuen, die traditionelle Superhelden-Mythen deconstruieren."
     },
     {
       "rank": 2,
-      "title": "Dahmer – Monster: The Jeffrey Dahmer Story",
-      "year": "2022",
-      "rating": 8.5,
-      "genre": "Crime Drama",
-      "description": "Diese limitierte Serie erzählt die wahre Geschichte des Serienmörders Jeffrey Dahmer, dargestellt von Evan Peters in einer verstörenden und nuancierten Performance. Die Serie zeigt nicht nur die Verbrechen, sondern auch Dahmers Kindheit, Familie und die Versäumnisse der Polizei. Mit fesselnder Regie von Ryan Murphy werden die psychologischen Aspekte seines Handelns erforscht. Die atmosphärische Inszenierung vermittelt die Beklemmung der 1980er Jahre Milwaukee. Zuschauer erhalten tiefe Einblicke in einen der berüchtigtsten Mörder der US-Geschichte. Die Serie ist verstörend aber intelligent gemacht und behandelt das Thema respektvoll gegenüber den Opfern."
+      "title": "Fleabag",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "Fleabag folgt einer charismatischen, instabilen jungen Frau in London, die direkt mit dem Publikum spricht und ihr Chaos dokumentiert. Die Serie verbindet brillanten britischen Humor mit überraschend tiefem emotionalem Kern und erkundet Themen wie Familie, Liebe und Selbstakzeptanz. Phoebe Waller-Bridges Performance ist iconic, während sie ihre Figur als gleichzeitig lustig und verletzlich darstellt. Die Handlung balanciert zwischen komischen Situationen und ernsthaften Momenten der Selbstreflektion. Mit nur zwei Staffeln bietet die Serie verdichtetes Storytelling auf höchstem Niveau, perfekt für Zuschauer, die Charakter-fokussierte Comedy mit Substanz schätzen."
     },
     {
       "rank": 3,
-      "title": "Making a Murderer",
-      "year": "2015",
-      "rating": 8.2,
-      "genre": "Documentary Series",
-      "description": "Diese investigative Dokumentarserie zeigt den Fall von Steven Avery, einem Mann aus Wisconsin, der wegen Mordes verurteilt wurde. Die Filmemacher Moira Demos und Laura Ricciardi untersuchen die Beweise und hinterfragen die Gerechtigkeit des Verfahrens über mehrere Episoden. Die Serie präsentiert ein komplexes Bild fehlerhafter Ermittlungen und fragwürdiger Beweise. Mit packendem Storytelling und Interviews werden Zuschauer in einen echten Fall hineingezogen, der zum Nachdenken anregt. Die Atmosphäre ist angespannt und provokativ. Zuschauer werden aufgefordert, sich ihre eigene Meinung zu bilden. Die Serie wurde zum Netflix-Phänomen und debattiert immer noch online."
+      "title": "Invincible",
+      "year": "2021",
+      "rating": 8.3,
+      "genre": "Animation/Superhero",
+      "description": "Invincible ist eine animierte Superhelden-Serie, die zeigt, dass Superkräfte keine Garantie für Happy Endings sind. Die Handlung folgt einem Teenager, der seine Fähigkeiten entdeckt, während die Serie starke weibliche Charaktere wie Atom Eve hervorholt, die eigenständig und komplex sind. Die Serie schockiert mit ihrer grafischen Gewalt und emotionalem Realismus, der das Genre neu definiert. Sie erforscht die Kosten des Heroismus auf psychische Gesundheit, Beziehungen und Moral. Die Atmosphäre ist düster und intensiv, mit beeindruckender Animation und Charakterentwicklung. Fans erwartet ein rohes, nicht-lineares Erzählen, das Erwartungen bricht."
     },
     {
       "rank": 4,
-      "title": "Unbelievable",
-      "year": "2020",
-      "rating": 8.4,
-      "genre": "Crime Drama",
-      "description": "Unbelievable basiert auf der wahren Geschichte eines Serienvergewaltigers und der unbegründeten Verfolgung seines Opfers. Kaitlyn Dever spielt ein junges Mädchen, dessen Vergewaltigungsvorwurf von der Polizei als Lüge behandelt wird. Die Serie folgt dann zwei Ermittlerinnen (Merritt Wever und Toni Collette), die den echten Täter verfolgen. Die Erzählung ist verstörend aber notwendig, mit ausgezeichneten Darstellungen und sensibler Behandlung des Themas. Die Atmosphäre wechselt zwischen Frustration und Erleichterung. Zuschauer erfahren von systembedingten Versagen bei der Unterstützung von Opfern. Die Serie ist emotional, intelligent und wirft wichtige Fragen über Glaubwürdigkeit und Gerechtigkeit auf."
+      "title": "Killing Eve",
+      "year": "2018",
+      "rating": 8.1,
+      "genre": "Thriller/Drama",
+      "description": "Killing Eve präsentiert eine fesselnde Katz-und-Maus-Geschichte zwischen einer psychopathischen Killerin und einer MI6-Agentin. Die Serie zeichnet sich durch ihre toxische, süchtig machende Dynamik aus, die Zuschauer in moralische Grauzonen zieht. Jodie Comer liefert eine unvergessliche Performance als charismatische, manipulative Eve. Die Handlung springt zwischen Londons Straßen und europäischen Schauplätzen, gefüllt mit Spannung und schwarzem Humor. Die Atmosphäre ist elegant, verstörend und psychologisch komplex. Zuschauer können erotische Spannungen, unerwartete Plot-Twists und Charakterentwicklungen erwarten, die konstante Überraschungen bieten."
     },
     {
       "rank": 5,
-      "title": "The Trials of Gabriel Fernandez",
-      "year": "2020",
-      "rating": 8.1,
-      "genre": "Documentary Series",
-      "description": "Diese dokumentarische Serie untersucht die Misshandlung und den Tod des achtjährigen Gabriel Fernandez durch seine Mutter und deren Freund in Kalifornien. Die Doku kritisiert das Versagen des Kinderschutzsystems und der Behörden, die Warnsignale ignorierten. Mit Interviews von Sozialarbeitern, Ermittlern und dem Anklägeteam werden systemische Probleme aufgezeigt. Die Atmosphäre ist tragisch und wütend, mit erschütternden Details. Die Serie ist eine eindringliche Anklagung gegen Untätigkeit und bürokratische Versäumnisse. Zuschauer sollten vorbereitet sein auf emotional belastende Inhalte. Die Serie sensibilisiert für Kinderschutz und lädt zum Nachdenken über Verantwortung ein."
+      "title": "The Expanse",
+      "year": "2015",
+      "rating": 8.5,
+      "genre": "Sci-Fi/Drama",
+      "description": "The Expanse ist eine politische Science-Fiction-Serie, die Menschheit in einem kolonisierten Sonnensystem zeigt, wo Spannung zwischen Erde, Mars und dem Asteroidengürtel brodelt. Die Serie besticht durch komplexe weibliche Charaktere wie Chrisjen Avasarala, eine zynische Politikerin mit großem Einfluss, und Bobbie Draper, eine Soldatin mit starkem Moralkompass. Die Handlung verbindet Grand-Scale-Weltenbau mit intimem Character-Drama und erforscht Themen wie Macht, Identität und Überleben. Die Atmosphäre ist realistisch und wissenschaftlich fundiert mit atemberaubender Cinematografie. Zuschauer erwartet komplex strukturiertes Storytelling, politische Intrigen und emotional resonante Momente."
     }
   ]
 }
