@@ -1,54 +1,54 @@
 {
-  "id": "2026-W43",
-  "generated": "2026-10-19T15:58:01.853523",
-  "date_formatted": "19. Oktober 2026",
-  "week": 43,
+  "id": "2026-W44",
+  "generated": "2026-10-26T15:34:31.613715",
+  "date_formatted": "26. Oktober 2026",
+  "week": 44,
   "year": 2026,
-  "service": "Amazon Prime Video",
-  "service_slug": "prime",
-  "next_service": "Netflix",
-  "theme": "Serien mit starken Frauenfiguren",
-  "theme_short": "Starke Frauen",
+  "service": "Netflix",
+  "service_slug": "netflix",
+  "next_service": "Prime Video",
+  "theme": "beste Thriller-Serien für schlaflose Nächte",
+  "theme_short": "Thriller",
   "picks": [
     {
       "rank": 1,
-      "title": "The Boys",
-      "year": "2019",
-      "rating": 8.7,
-      "genre": "Action/Superhero",
-      "description": "The Boys bietet eine düstere Neuinterpretation des Superhelden-Genres, in der korrupte Superkräfte-Besitzer von einer Gruppe normaler Menschen bekämpft werden. Die Serie zeichnet sich durch ihre starken weiblichen Charaktere aus, insbesondere Starlight und Maeve, die gegen ein unterdrückerisches System rebellieren. Mit brutalen Action-Szenen, dunkelm Humor und tiefgreifender Gesellschaftskritik schafft die Serie eine einzigartige Atmosphäre. Die Handlung enthüllt versteckte Machenschaften großer Konzerne und persönliche Kämpfe um Identität und Macht. Zuschauer können sich auf explosive Momente, emotionale Wendungen und starke Charakterentwicklungen freuen, die traditionelle Superhelden-Mythen deconstruieren."
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime Thriller/Drama",
+      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie das Profiling von Serienmördern revolutionieren. Die Serie kombiniert psychologische Spannung mit historischen Kriminalfällen und zeigt die Interviews mit inhaftierten Killern wie Edmund Kemper und Jerry Brudos. Die Atmosphäre ist beklemmend und atmosphärisch dicht, mit Fokus auf die psychologische Manipulation und das mentale Katz-und-Maus-Spiel. Die Charakterentwicklung ist tiefgründig, die Dialoge intelligent und die Fallrekonstruktionen fesselnd. Perfekt für Zuschauer, die sich für Kriminalpsychologie interessieren und psychologische Spannung ohne Action bevorzugen."
     },
     {
       "rank": 2,
-      "title": "Fleabag",
-      "year": "2016",
-      "rating": 8.7,
-      "genre": "Comedy/Drama",
-      "description": "Fleabag folgt einer charismatischen, instabilen jungen Frau in London, die direkt mit dem Publikum spricht und ihr Chaos dokumentiert. Die Serie verbindet brillanten britischen Humor mit überraschend tiefem emotionalem Kern und erkundet Themen wie Familie, Liebe und Selbstakzeptanz. Phoebe Waller-Bridges Performance ist iconic, während sie ihre Figur als gleichzeitig lustig und verletzlich darstellt. Die Handlung balanciert zwischen komischen Situationen und ernsthaften Momenten der Selbstreflektion. Mit nur zwei Staffeln bietet die Serie verdichtetes Storytelling auf höchstem Niveau, perfekt für Zuschauer, die Charakter-fokussierte Comedy mit Substanz schätzen."
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime Thriller/Drama",
+      "description": "Ozark erzählt die Geschichte von Marty Byrde, einem Finanzberater, der in kriminelle Machenschaften verwickelt wird und mit seiner Familie in die Ozark-Region fliehen muss. Die Serie besticht durch komplexe Charaktere, kontinuierliche Spannung und moralische Grauzonen. Jeden Moment könnte alles zusammenbrechen, während Marty versucht, seine Familie zu schützen und gleichzeitig für Drogenbanden zu arbeiten. Die Atmosphäre ist dunkel und beklemmend, mit wunderschöner Cinematografie der Ozark-Landschaft. Jede Staffel steigert die Spannung, und die Charakterentwicklung ist außergewöhnlich. Ein Muss für Fans von Breaking Bad-ähnlichen Serien."
     },
     {
       "rank": 3,
-      "title": "Invincible",
-      "year": "2021",
-      "rating": 8.3,
-      "genre": "Animation/Superhero",
-      "description": "Invincible ist eine animierte Superhelden-Serie, die zeigt, dass Superkräfte keine Garantie für Happy Endings sind. Die Handlung folgt einem Teenager, der seine Fähigkeiten entdeckt, während die Serie starke weibliche Charaktere wie Atom Eve hervorholt, die eigenständig und komplex sind. Die Serie schockiert mit ihrer grafischen Gewalt und emotionalem Realismus, der das Genre neu definiert. Sie erforscht die Kosten des Heroismus auf psychische Gesundheit, Beziehungen und Moral. Die Atmosphäre ist düster und intensiv, mit beeindruckender Animation und Charakterentwicklung. Fans erwartet ein rohes, nicht-lineares Erzählen, das Erwartungen bricht."
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science-Fiction Thriller/Horror",
+      "description": "Stranger Things verschmilzt 1980er-Jahre-Nostalgie mit übernatürlicher Horror und Mystery-Elementen. Nach dem Verschwinden eines Jungen in einer kleinen Stadt entdecken Freunde ein Mädchen mit Telekinese-Kräften und gelangen in eine parallele Dimension namens Upside Down. Die Serie kombiniert Jump Scares mit atmosphärischer Spannung, starken Charakteren und einer fesselnd komplizierten Handlung. Die Musik ist ikonisch, die Effekte beeindruckend. Jede Staffel erweitert das Mysterium, wobei junge und erwachsene Zuschauer gleichermaßen gefesselt werden. Perfekt für nächtliche Marathon-Sessions mit ihrer perfekten Balance zwischen Horror, Drama und Science-Fiction."
     },
     {
       "rank": 4,
-      "title": "Killing Eve",
+      "title": "The Haunting of Hill House",
       "year": "2018",
-      "rating": 8.1,
-      "genre": "Thriller/Drama",
-      "description": "Killing Eve präsentiert eine fesselnde Katz-und-Maus-Geschichte zwischen einer psychopathischen Killerin und einer MI6-Agentin. Die Serie zeichnet sich durch ihre toxische, süchtig machende Dynamik aus, die Zuschauer in moralische Grauzonen zieht. Jodie Comer liefert eine unvergessliche Performance als charismatische, manipulative Eve. Die Handlung springt zwischen Londons Straßen und europäischen Schauplätzen, gefüllt mit Spannung und schwarzem Humor. Die Atmosphäre ist elegant, verstörend und psychologisch komplex. Zuschauer können erotische Spannungen, unerwartete Plot-Twists und Charakterentwicklungen erwarten, die konstante Überraschungen bieten."
+      "rating": 8.4,
+      "genre": "Horror Thriller/Psychodrama",
+      "description": "The Haunting of Hill House ist eine meisterhafte Neuinterpretation von Shirley Jacksons Klassiker, die Übernatürliches mit psychologischem Trauma verwebt. Die Serie folgt einer Familie, die in einem verfluchten Herrenhaus lebt, wobei jedes Familienmitglied mit eigenen Dämonen kämpft. Die Atmosphäre ist dicht und verstörend, mit visuellen Schreckenseffekten, die subtil und effektiv sind. Die Handlung springt zwischen Vergangenheit und Gegenwart, offenbart langsam dunkle Geheimnisse. Jede Episode vertieft das emotionale Trauma der Familie. Die Mischung aus psychologischem Horror und Übernatürlichem schafft ein Gefühl konstanter Bedrohung. Ideal für Zuschauer, die atmosphärischen Horror ohne billige Jump Scares schätzen."
     },
     {
       "rank": 5,
-      "title": "The Expanse",
-      "year": "2015",
-      "rating": 8.5,
-      "genre": "Sci-Fi/Drama",
-      "description": "The Expanse ist eine politische Science-Fiction-Serie, die Menschheit in einem kolonisierten Sonnensystem zeigt, wo Spannung zwischen Erde, Mars und dem Asteroidengürtel brodelt. Die Serie besticht durch komplexe weibliche Charaktere wie Chrisjen Avasarala, eine zynische Politikerin mit großem Einfluss, und Bobbie Draper, eine Soldatin mit starkem Moralkompass. Die Handlung verbindet Grand-Scale-Weltenbau mit intimem Character-Drama und erforscht Themen wie Macht, Identität und Überleben. Die Atmosphäre ist realistisch und wissenschaftlich fundiert mit atemberaubender Cinematografie. Zuschauer erwartet komplex strukturiertes Storytelling, politische Intrigen und emotional resonante Momente."
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.8,
+      "genre": "Science-Fiction Mystery Thriller",
+      "description": "Dark ist ein deutsches Meisterwerk, das Zeitreisen, Multiversum-Theorien und Generationentrauma verflicht. Eine kleine Stadt erlebt mehrere mysteriöse Verschwindungen, was zur Entdeckung von Zeitreise-Experimenten führt. Die Serie ist komplex, intellektuell fordernd und belohnend zugleich. Jede Episode offenbart neue Verbindungen zwischen Charakteren über Jahrzehnte hinweg. Die Atmosphäre ist dunkel, beklemmend und perfekt für nächtliche Zuschauer mit hoher Aufmerksamkeit. Nichts ist zufällig; alles ist sorgfältig verwebt. Die beste Serie für Zuschauer, die Geduld haben und gerne pausieren müssen, um die komplexe Handlung zu verstehen. Ein absolutes Highlight."
     }
   ]
 }

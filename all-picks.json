@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-19T15:58:01.853523",
-  "total": 140,
+  "last_updated": "2026-10-26T15:34:31.613715",
+  "total": 145,
   "picks": [
+    {
+      "rank": 1,
+      "title": "Mindhunter",
+      "year": "2017",
+      "rating": 8.4,
+      "genre": "Crime Thriller/Drama",
+      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie das Profiling von Serienmördern revolutionieren. Die Serie kombiniert psychologische Spannung mit historischen Kriminalfällen und zeigt die Interviews mit inhaftierten Killern wie Edmund Kemper und Jerry Brudos. Die Atmosphäre ist beklemmend und atmosphärisch dicht, mit Fokus auf die psychologische Manipulation und das mentale Katz-und-Maus-Spiel. Die Charakterentwicklung ist tiefgründig, die Dialoge intelligent und die Fallrekonstruktionen fesselnd. Perfekt für Zuschauer, die sich für Kriminalpsychologie interessieren und psychologische Spannung ohne Action bevorzugen.",
+      "week_id": "2026-W44",
+      "week_date": "26. Oktober 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 2,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime Thriller/Drama",
+      "description": "Ozark erzählt die Geschichte von Marty Byrde, einem Finanzberater, der in kriminelle Machenschaften verwickelt wird und mit seiner Familie in die Ozark-Region fliehen muss. Die Serie besticht durch komplexe Charaktere, kontinuierliche Spannung und moralische Grauzonen. Jeden Moment könnte alles zusammenbrechen, während Marty versucht, seine Familie zu schützen und gleichzeitig für Drogenbanden zu arbeiten. Die Atmosphäre ist dunkel und beklemmend, mit wunderschöner Cinematografie der Ozark-Landschaft. Jede Staffel steigert die Spannung, und die Charakterentwicklung ist außergewöhnlich. Ein Muss für Fans von Breaking Bad-ähnlichen Serien.",
+      "week_id": "2026-W44",
+      "week_date": "26. Oktober 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 3,
+      "title": "Stranger Things",
+      "year": "2016",
+      "rating": 8.7,
+      "genre": "Science-Fiction Thriller/Horror",
+      "description": "Stranger Things verschmilzt 1980er-Jahre-Nostalgie mit übernatürlicher Horror und Mystery-Elementen. Nach dem Verschwinden eines Jungen in einer kleinen Stadt entdecken Freunde ein Mädchen mit Telekinese-Kräften und gelangen in eine parallele Dimension namens Upside Down. Die Serie kombiniert Jump Scares mit atmosphärischer Spannung, starken Charakteren und einer fesselnd komplizierten Handlung. Die Musik ist ikonisch, die Effekte beeindruckend. Jede Staffel erweitert das Mysterium, wobei junge und erwachsene Zuschauer gleichermaßen gefesselt werden. Perfekt für nächtliche Marathon-Sessions mit ihrer perfekten Balance zwischen Horror, Drama und Science-Fiction.",
+      "week_id": "2026-W44",
+      "week_date": "26. Oktober 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 4,
+      "title": "The Haunting of Hill House",
+      "year": "2018",
+      "rating": 8.4,
+      "genre": "Horror Thriller/Psychodrama",
+      "description": "The Haunting of Hill House ist eine meisterhafte Neuinterpretation von Shirley Jacksons Klassiker, die Übernatürliches mit psychologischem Trauma verwebt. Die Serie folgt einer Familie, die in einem verfluchten Herrenhaus lebt, wobei jedes Familienmitglied mit eigenen Dämonen kämpft. Die Atmosphäre ist dicht und verstörend, mit visuellen Schreckenseffekten, die subtil und effektiv sind. Die Handlung springt zwischen Vergangenheit und Gegenwart, offenbart langsam dunkle Geheimnisse. Jede Episode vertieft das emotionale Trauma der Familie. Die Mischung aus psychologischem Horror und Übernatürlichem schafft ein Gefühl konstanter Bedrohung. Ideal für Zuschauer, die atmosphärischen Horror ohne billige Jump Scares schätzen.",
+      "week_id": "2026-W44",
+      "week_date": "26. Oktober 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
+    {
+      "rank": 5,
+      "title": "Dark",
+      "year": "2017",
+      "rating": 8.8,
+      "genre": "Science-Fiction Mystery Thriller",
+      "description": "Dark ist ein deutsches Meisterwerk, das Zeitreisen, Multiversum-Theorien und Generationentrauma verflicht. Eine kleine Stadt erlebt mehrere mysteriöse Verschwindungen, was zur Entdeckung von Zeitreise-Experimenten führt. Die Serie ist komplex, intellektuell fordernd und belohnend zugleich. Jede Episode offenbart neue Verbindungen zwischen Charakteren über Jahrzehnte hinweg. Die Atmosphäre ist dunkel, beklemmend und perfekt für nächtliche Zuschauer mit hoher Aufmerksamkeit. Nichts ist zufällig; alles ist sorgfältig verwebt. Die beste Serie für Zuschauer, die Geduld haben und gerne pausieren müssen, um die komplexe Handlung zu verstehen. Ein absolutes Highlight.",
+      "week_id": "2026-W44",
+      "week_date": "26. Oktober 2026",
+      "service": "Netflix",
+      "theme": "Thriller"
+    },
     {
       "rank": 1,
       "title": "The Boys",
