@@ -1,54 +1,54 @@
 {
-  "id": "2026-W44",
-  "generated": "2026-10-26T15:34:31.613715",
-  "date_formatted": "26. Oktober 2026",
-  "week": 44,
+  "id": "2026-W45",
+  "generated": "2026-11-02T18:56:22.685152",
+  "date_formatted": "02. November 2026",
+  "week": 45,
   "year": 2026,
-  "service": "Netflix",
-  "service_slug": "netflix",
-  "next_service": "Prime Video",
-  "theme": "beste Thriller-Serien für schlaflose Nächte",
-  "theme_short": "Thriller",
+  "service": "Amazon Prime Video",
+  "service_slug": "prime",
+  "next_service": "Netflix",
+  "theme": "herzerwärmende Serien für schlechte Tage",
+  "theme_short": "Feel-Good",
   "picks": [
     {
       "rank": 1,
-      "title": "Mindhunter",
-      "year": "2017",
-      "rating": 8.4,
-      "genre": "Crime Thriller/Drama",
-      "description": "Mindhunter folgt den FBI-Agenten Holden Ford und Bill Tench in den 1970er Jahren, als sie das Profiling von Serienmördern revolutionieren. Die Serie kombiniert psychologische Spannung mit historischen Kriminalfällen und zeigt die Interviews mit inhaftierten Killern wie Edmund Kemper und Jerry Brudos. Die Atmosphäre ist beklemmend und atmosphärisch dicht, mit Fokus auf die psychologische Manipulation und das mentale Katz-und-Maus-Spiel. Die Charakterentwicklung ist tiefgründig, die Dialoge intelligent und die Fallrekonstruktionen fesselnd. Perfekt für Zuschauer, die sich für Kriminalpsychologie interessieren und psychologische Spannung ohne Action bevorzugen."
+      "title": "The Boys in the Boat",
+      "year": "2023",
+      "rating": 7.8,
+      "genre": "Drama/Sport",
+      "description": "Diese wunderbare Verfilmung erzählt die wahre Geschichte von neun amerikanischen Arbeiterjungen, die während der Weltwirtschaftskrise ein Ruderteam bilden. Der Film besticht durch seine herzerwärmende Darstellung von Freundschaft, Zusammenhalt und dem Traum gegen alle Widrigkeiten. Mit beeindruckender Kinematographie und einer inspirierenden Botschaft zeigt die Serie, wie unwahrscheinliche Freunde durch gemeinsame Leidenschaft und Durchhaltevermögen Unmögliches erreichen. Die perfekte Pille gegen schlechte Laune: aufmunternd, emotional und absolut fesselnd."
     },
     {
       "rank": 2,
-      "title": "Ozark",
-      "year": "2017",
-      "rating": 8.5,
-      "genre": "Crime Thriller/Drama",
-      "description": "Ozark erzählt die Geschichte von Marty Byrde, einem Finanzberater, der in kriminelle Machenschaften verwickelt wird und mit seiner Familie in die Ozark-Region fliehen muss. Die Serie besticht durch komplexe Charaktere, kontinuierliche Spannung und moralische Grauzonen. Jeden Moment könnte alles zusammenbrechen, während Marty versucht, seine Familie zu schützen und gleichzeitig für Drogenbanden zu arbeiten. Die Atmosphäre ist dunkel und beklemmend, mit wunderschöner Cinematografie der Ozark-Landschaft. Jede Staffel steigert die Spannung, und die Charakterentwicklung ist außergewöhnlich. Ein Muss für Fans von Breaking Bad-ähnlichen Serien."
+      "title": "Tick, Tick... Boom!",
+      "year": "2021",
+      "rating": 8.3,
+      "genre": "Drama/Musical",
+      "description": "Jon M. Chu verfilmt die autobiografische Musical-Revue von Jonathan Larson in dieser lebensfreudigen und tränenreichen Geschichte. Andrew Garfield beeindruckt als ehrgeiziger junger Künstler, der gegen die Zeit kämpft und an seinen Träumen festzuhalten versucht. Der Film fesselt durch farbenfrohe Musical-Nummern, echte Gefühle und eine inspirierende Message über Kreativität, Familie und Leidenschaft. Mit Soundtrack-Highlights und starker Darstellung ist dies das perfekte Feel-Good-Drama für Tage, wenn man Mut und Hoffnung braucht."
     },
     {
       "rank": 3,
-      "title": "Stranger Things",
-      "year": "2016",
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017-2023",
       "rating": 8.7,
-      "genre": "Science-Fiction Thriller/Horror",
-      "description": "Stranger Things verschmilzt 1980er-Jahre-Nostalgie mit übernatürlicher Horror und Mystery-Elementen. Nach dem Verschwinden eines Jungen in einer kleinen Stadt entdecken Freunde ein Mädchen mit Telekinese-Kräften und gelangen in eine parallele Dimension namens Upside Down. Die Serie kombiniert Jump Scares mit atmosphärischer Spannung, starken Charakteren und einer fesselnd komplizierten Handlung. Die Musik ist ikonisch, die Effekte beeindruckend. Jede Staffel erweitert das Mysterium, wobei junge und erwachsene Zuschauer gleichermaßen gefesselt werden. Perfekt für nächtliche Marathon-Sessions mit ihrer perfekten Balance zwischen Horror, Drama und Science-Fiction."
+      "genre": "Komödie/Drama",
+      "description": "Diese brillante Serie folgt einer unbeugsamen Frau in den 1950er Jahren, die ihre Karriere als Stand-up-Comedian startet. Mit rasanten Dialogen, glänzender Regie und Rachel Brosnahan in der Hauptrolle ist diese Serie einfach herrlich unterhaltsam. Sie kombiniert Humor, Wärme und tiefe emotionale Momente nahtlos miteinander. Die Serie ermutigt zur Selbstverwirklichung, zeigt Familie als Zuflucht und bietet endlose Lachmomente. Perfekt, um wieder Lebenslust zu entwickeln und sich selbst zu feiern."
     },
     {
       "rank": 4,
-      "title": "The Haunting of Hill House",
-      "year": "2018",
-      "rating": 8.4,
-      "genre": "Horror Thriller/Psychodrama",
-      "description": "The Haunting of Hill House ist eine meisterhafte Neuinterpretation von Shirley Jacksons Klassiker, die Übernatürliches mit psychologischem Trauma verwebt. Die Serie folgt einer Familie, die in einem verfluchten Herrenhaus lebt, wobei jedes Familienmitglied mit eigenen Dämonen kämpft. Die Atmosphäre ist dicht und verstörend, mit visuellen Schreckenseffekten, die subtil und effektiv sind. Die Handlung springt zwischen Vergangenheit und Gegenwart, offenbart langsam dunkle Geheimnisse. Jede Episode vertieft das emotionale Trauma der Familie. Die Mischung aus psychologischem Horror und Übernatürlichem schafft ein Gefühl konstanter Bedrohung. Ideal für Zuschauer, die atmosphärischen Horror ohne billige Jump Scares schätzen."
+      "title": "A Beautiful Day in the Neighborhood",
+      "year": "2019",
+      "rating": 7.9,
+      "genre": "Drama/Biografie",
+      "description": "Tom Hanks verkörpert Mister Rogers in diesem sanften, wundervollen Film über Kindheit, Empathie und menschliche Verbindung. Die Geschichte folgt einem zynischen Journalist, der durch Rogers' besondere Art neu denkt. Mit durchdachter Inszenierung und tiefgründigen Botschaften schafft der Film eine atmosphäre voller Güte und Hoffnung. Der Film erinnert daran, dass Verständnis und Liebe heilsam sind, und dass gute Menschen existieren. Eine emotionale Umarmung in Filmform – genau richtig für Tage, wenn die Welt überwältigend wirkt."
     },
     {
       "rank": 5,
-      "title": "Dark",
-      "year": "2017",
-      "rating": 8.8,
-      "genre": "Science-Fiction Mystery Thriller",
-      "description": "Dark ist ein deutsches Meisterwerk, das Zeitreisen, Multiversum-Theorien und Generationentrauma verflicht. Eine kleine Stadt erlebt mehrere mysteriöse Verschwindungen, was zur Entdeckung von Zeitreise-Experimenten führt. Die Serie ist komplex, intellektuell fordernd und belohnend zugleich. Jede Episode offenbart neue Verbindungen zwischen Charakteren über Jahrzehnte hinweg. Die Atmosphäre ist dunkel, beklemmend und perfekt für nächtliche Zuschauer mit hoher Aufmerksamkeit. Nichts ist zufällig; alles ist sorgfältig verwebt. Die beste Serie für Zuschauer, die Geduld haben und gerne pausieren müssen, um die komplexe Handlung zu verstehen. Ein absolutes Highlight."
+      "title": "Upload",
+      "year": "2020-2024",
+      "rating": 8.1,
+      "genre": "Sci-Fi/Komödie/Drama",
+      "description": "Diese originelle Serie kombiniert Sci-Fi-Prämisse mit warmherziger Menschlichkeit: Ein Mann stirbt und wird digital hochgeladen. Trotz fantasievollem Konzept besticht die Show durch echte Emotionen, clevere Humor und tiefe Fragen über Liebe und Menschlichkeit. Die Beziehung zwischen dem Protagonisten und seiner virtuellen Betreuerin ist wunderbar entwickelt und berührend. Mit charmantem Humor, visuellen Effekten und überraschenden Wendungen bietet diese Serie Ablenkung, Vergnügen und tiefsinnige Momente – ideal zum Abschalten bei schlechter Laune."
     }
   ]
 }
