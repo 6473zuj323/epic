@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W46",
+      "date": "09. November 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "visuell atemberaubende Serien",
+      "theme_short": "Visuell",
+      "file": "2026-W46-netflix.json"
+    },
+    {
       "id": "2026-W45",
       "date": "02. November 2026",
       "service": "Amazon Prime Video",
@@ -290,9 +299,14 @@
     }
   ],
   "stats": {
-    "total_picks": 150,
-    "total_weeks": 32,
+    "total_picks": 155,
+    "total_weeks": 33,
     "genres": {
+      "Science Fiction/Horror": 1,
+      "Drama/Historisch": 1,
+      "Romance/Drama": 1,
+      "Fantasy/Action": 1,
+      "Thriller/Crime": 1,
       "Drama/Sport": 1,
       "Drama/Musical": 1,
       "Komödie/Drama": 2,
@@ -384,6 +398,6 @@
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1
     },
-    "last_updated": "2026-11-02T18:56:22.685152"
+    "last_updated": "2026-11-09T19:16:35.892215"
   }
 }
