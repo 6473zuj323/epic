@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W47",
+      "date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "service_slug": "prime",
+      "theme": "Serien basierend auf wahren Geschichten",
+      "theme_short": "True Stories",
+      "file": "2026-W47-prime.json"
+    },
+    {
       "id": "2026-W46",
       "date": "09. November 2026",
       "service": "Netflix",
@@ -299,9 +308,14 @@
     }
   ],
   "stats": {
-    "total_picks": 155,
-    "total_weeks": 33,
+    "total_picks": 160,
+    "total_weeks": 34,
     "genres": {
+      "Action/Drama": 2,
+      "Western/Drama": 5,
+      "Comedy/Drama": 8,
+      "Animation/Drama": 1,
+      "Psychologischer Thriller": 5,
       "Science Fiction/Horror": 1,
       "Drama/Historisch": 1,
       "Romance/Drama": 1,
@@ -317,7 +331,6 @@
       "Horror Thriller/Psychodrama": 1,
       "Science-Fiction Mystery Thriller": 1,
       "Action/Superhero": 2,
-      "Comedy/Drama": 7,
       "Animation/Superhero": 1,
       "Thriller/Drama": 5,
       "Sci-Fi/Drama": 2,
@@ -342,12 +355,9 @@
       "Action/Superhero/Drama": 1,
       "Drama": 2,
       "Drama/Tech": 1,
-      "Western/Drama": 4,
       "Horror/Mystery": 1,
       "Crime/Drama": 2,
       "Sci-Fi/Mystery": 1,
-      "Action/Drama": 1,
-      "Psychologischer Thriller": 4,
       "Science-Fiction/Drama": 1,
       "Science-Fiction/Horror/Drama": 2,
       "Fantasy/Action/Adventure": 1,
@@ -398,6 +408,6 @@
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1
     },
-    "last_updated": "2026-11-09T19:16:35.892215"
+    "last_updated": "2026-11-16T19:00:05.732005"
   }
 }

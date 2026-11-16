@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-09T19:16:35.892215",
-  "total": 155,
+  "last_updated": "2026-11-16T19:00:05.732005",
+  "total": 160,
   "picks": [
+    {
+      "rank": 1,
+      "title": "The Boys",
+      "year": "2019",
+      "rating": 8.7,
+      "genre": "Action/Drama",
+      "description": "The Boys basiert auf der gleichnamigen Comic-Serie und erzählt die Geschichte einer Gruppe von Undercover-Agenten, die gegen korrupte Superhelden kämpfen. Die Serie zeigt eine düstere Realität, in der Superkräfte nicht automatisch zum Guten führen. Mit intensiven Action-Szenen, politischen Intrigen und moralischen Dilemmata bietet sie eine erfrischend andere Perspektive auf das Superhelden-Genre. Die charismatischen Darsteller, besonders Karl Urban, liefern starke Performances. Die Serie zeichnet sich durch ihren kritischen Blick auf Macht, Medienmanipulation und Korruption aus. Zuschauer erwartet eine spannende Mischung aus Action, Humor und tiefgründigen Fragen über Ethik und Verantwortung.",
+      "week_id": "2026-W47",
+      "week_date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 2,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.0,
+      "genre": "Western/Drama",
+      "description": "Godless ist ein innovativer Western, der in einer von Frauen geführten Stadt angesiedelt ist. Nach einem Minenunglück übernehmen die Frauen die Kontrolle und schaffen eine neue Gesellschaft ohne männliche Autorität. Als ein Outlaw in der Stadt auftaucht, gerät diese Utopie in Gefahr. Die Serie besticht durch atemberaubende Cinematografie der New Mexico Landschaften und komplexe Charakterentwicklung. Sie verbindet klassische Western-Elemente mit progressiven Themen und bietet eine frische Perspektive auf das Genre. Die starke weibliche Besetzung und die philosophischen Fragen über Gemeinschaft und Macht machen Godless zu einem unvergesslichen Erlebnis für Western-Fans und Neulinge.",
+      "week_id": "2026-W47",
+      "week_date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 3,
+      "title": "The Marvelous Mrs. Maisel",
+      "year": "2017",
+      "rating": 8.7,
+      "genre": "Comedy/Drama",
+      "description": "Diese Emmy-prämierte Serie folgt Miriam 'Midge' Maisel, eine Hausfrau der 1950er Jahre, die nach ihrer Scheidung zur Stand-up-Comedienne wird. Die Show basiert auf wahren Geschichten aus dieser Ära und zeigt den Aufstieg einer Frau in einer männerdominierten Unterhaltungsindustrie. Mit schnellen Dialogen, visuellen Gags und authentischen Kostümen erzählt die Serie eine inspirierende Geschichte über Unabhängigkeit und Selbstfindung. Rachel Brosnahan brilliert in der Hauptrolle und verkörpert eine rebellische, talentierte Frau, die sich gegen gesellschaftliche Normen auflehnt. Die Serie bietet Humor, Herzwärme und wichtige Lektionen über Durchhaltevermögen und Authentizität in einer repressiven Gesellschaft.",
+      "week_id": "2026-W47",
+      "week_date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 4,
+      "title": "Undone",
+      "year": "2019",
+      "rating": 8.4,
+      "genre": "Animation/Drama",
+      "description": "Undone ist eine rotoscope-animierte Serie, die die Geschichte von Alma erzählt, einer jungen Frau, die nach einem Autounfall übernatürliche Fähigkeiten entwickelt. Sie beginnt, die Vergangenheit ihrer Familie zu untersuchen und entdeckt dunkle Geheimnisse. Die Serie basiert auf echten Familientraumen und psychologischen Themen wie Schizophrenie und Identitätssuche. Die einzigartige Animation verleiht der Serie einen traumartigen, verwirrenden Charakter, der perfekt zur Thematik passt. Mit starken Performances und einer eindringlichen Score schafft Undone eine intensiv emotionale Atmosphäre. Die Serie erforscht die Grenzen zwischen Wahrheit und Wahnsinn und ist ein innovatives Meisterwerk für Zuschauer, die experimentelle Erzählungen schätzen.",
+      "week_id": "2026-W47",
+      "week_date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
+    {
+      "rank": 5,
+      "title": "Homecoming",
+      "year": "2018",
+      "rating": 7.8,
+      "genre": "Psychologischer Thriller",
+      "description": "Homecoming folgt Heidi Bergman, einer Therapeutin in einer mysteriösen Regierungseinrichtung, wo Soldaten auf ihre Rückkehr ins Zivilleben vorbereitet werden. Die Serie basiert auf wahren Fällen militärischer Rehabilitation und verstrickter staatlicher Verschwörungen. Mit Julia Roberts in der Hauptrolle entfaltet sich ein Thriller voller Geheimnisse, bei dem nichts so ist, wie es scheint. Die erzählerische Struktur springt zwischen Vergangenheit und Gegenwart, was Verwirrung und Spannung erzeugt. Die atmosphärische Cinematografie und die subtile Musikkomposition verstärken das Gefühl von Unbehagen. Die Serie stellt Fragen über Vertrauen, Wahrheit und die Auswirkungen von Trauma auf die menschliche Psyche.",
+      "week_id": "2026-W47",
+      "week_date": "16. November 2026",
+      "service": "Amazon Prime Video",
+      "theme": "True Stories"
+    },
     {
       "rank": 1,
       "title": "Stranger Things",
