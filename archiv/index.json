@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "id": "2026-W48",
+      "date": "23. November 2026",
+      "service": "Netflix",
+      "service_slug": "netflix",
+      "theme": "unterschätzte Serien, die kaum jemand kennt",
+      "theme_short": "Geheimtipps",
+      "file": "2026-W48-netflix.json"
+    },
+    {
       "id": "2026-W47",
       "date": "16. November 2026",
       "service": "Amazon Prime Video",
@@ -308,11 +317,15 @@
     }
   ],
   "stats": {
-    "total_picks": 160,
-    "total_weeks": 34,
+    "total_picks": 165,
+    "total_weeks": 35,
     "genres": {
+      "Western/Drama": 6,
+      "Science Fiction/Mystery": 2,
+      "Psychologisches Drama/Sci-Fi": 1,
+      "Crime Drama/Thriller": 1,
+      "Cyberpunk/Science Fiction": 1,
       "Action/Drama": 2,
-      "Western/Drama": 5,
       "Comedy/Drama": 8,
       "Animation/Drama": 1,
       "Psychologischer Thriller": 5,
@@ -349,7 +362,6 @@
       "Political Drama": 1,
       "Sci-Fi Mystery": 1,
       "Thriller/Mystery": 1,
-      "Science Fiction/Mystery": 1,
       "Horror/Drama": 2,
       "Political Thriller/Drama": 4,
       "Action/Superhero/Drama": 1,
@@ -408,6 +420,6 @@
       "Crime Thriller / Drama": 1,
       "Thriller / Drama / Dystopie": 1
     },
-    "last_updated": "2026-11-16T19:00:05.732005"
+    "last_updated": "2026-11-23T20:40:21.571989"
   }
 }

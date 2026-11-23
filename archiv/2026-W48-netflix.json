@@ -1,0 +1,54 @@
+{
+  "id": "2026-W48",
+  "generated": "2026-11-23T20:40:21.571989",
+  "date_formatted": "23. November 2026",
+  "week": 48,
+  "year": 2026,
+  "service": "Netflix",
+  "service_slug": "netflix",
+  "next_service": "Prime Video",
+  "theme": "unterschätzte Serien, die kaum jemand kennt",
+  "theme_short": "Geheimtipps",
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Godless",
+      "year": "2017",
+      "rating": 8.2,
+      "genre": "Western/Drama",
+      "description": "Diese unterschätzte Western-Serie spielt in einer ungewöhnlichen Bergbaustadt, die von Frauen regiert wird. Ein Outlaw versteckt sich dort und muss lernen, seinen Platz in dieser matriarchalischen Gesellschaft zu finden. Die Serie besticht durch ihre visuell atemberaubende Cinematografie, starke weibliche Charaktere und eine düstere, atmosphärische Erzählung. Sie verbindet klassische Western-Elemente mit modernen Themen von Macht und Gerechtigkeit. Die einzelnen Episoden sind kunstvoll inszeniert wie Filme, mit packenden Action-Sequenzen und tiefgreifendem Character-Entwicklung. Trotz ihrer Qualität blieb Godless unter dem Radar vieler Zuschauer."
+    },
+    {
+      "rank": 2,
+      "title": "The OA",
+      "year": "2016",
+      "rating": 8.0,
+      "genre": "Science Fiction/Mystery",
+      "description": "Eine blinde Frau kehrt nach sieben Jahren mysteriös sehend zurück und erzählt von interdimensionalen Reisen und gefährlichen Experimenten. Diese surreale Serie vermischt Mystery, Science Fiction und spirituelle Elemente in einer fesselnden Erzählung. Die Show ist atmosphärisch dicht, visuell innovativ und voller rätselhafter Wendungen, die Zuschauer zum Theoretisieren einladen. Mit ihrer einzigartigen Mischung aus tanzartigen Bewegungssequenzen, kryptischen Hinweisen und tiefem Worldbuilding schuf The OA eine Cult-Fangemeinde. Leider wurde die Serie nach zwei Staffeln abgebrochen, aber die verfügbaren Episoden bieten eine unvergessliche, geheimnisvolle Reise."
+    },
+    {
+      "rank": 3,
+      "title": "Maniac",
+      "year": "2018",
+      "rating": 7.8,
+      "genre": "Psychologisches Drama/Sci-Fi",
+      "description": "Zwei Fremde nehmen an einer experimentellen klinischen Studie teil, die sie in surreale, verwirrende Träume zieht. Diese surrealistische Miniserie mit Emma Stone und Jonah Hill erforscht Einsamkeit, psychische Erkrankung und menschliche Verbindung durch absurde, farbenprächtige Szenarien. Jede Episode entführt Zuschauer in neue Welten, während Realität und Fantasie verschwimmen. Die Serie ist wild visuell, emotional tiefgreifend und doch humorvoll. Mit ihrer innovativen Regie, starken Performances und psychologischer Tiefe schafft Maniac eine einzigartige Erfahrung, die zwischen verstörendem Sci-Fi-Thriller und intimer Liebesgeschichte balanciert."
+    },
+    {
+      "rank": 4,
+      "title": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "genre": "Crime Drama/Thriller",
+      "description": "Ein Finanzplaner wird in Geldwäsche für ein mexikanisches Kartell verwickelt und muss mit seiner Familie in die Ozark-Region fliehen, um ein Imperium aufzubauen. Diese spannungsgeladene Serie bietet psychologische Komplexität und moralische Ambiguität ähnlich wie Breaking Bad. Mit herausragenden Performances von Jason Bateman und Laura Linney entwickelt sich eine fesselnde Saga von Verrat, Familie und Überleben. Die Ozark-Landschaft wird selbst zur Hauptfigur, und die Spannung eskaliert kontinuierlich über vier Staffeln. Trotz ihrer Qualität und Critical Acclaim bleibt Ozark in manchen Kreisen unterschätzt – eine intelligent geschriebene Thriller-Serie, die psychologische Tiefe mit Action vereint."
+    },
+    {
+      "rank": 5,
+      "title": "Altered Carbon",
+      "year": "2018",
+      "rating": 8.0,
+      "genre": "Cyberpunk/Science Fiction",
+      "description": "In einer dystopischen Zukunft können wohlhabende Menschen ihre Bewusstseine in neue Körper transferieren. Ein ehemaliger Soldat wird für einen Millionär aufgeweckt, um dessen mysteriösen Tod zu untersuchen. Diese visuell spektakuläre Cyberpunk-Serie bietet düstere Neon-Ästhetik, komplexe Philosophie über Identität und Unsterblichkeit sowie brutale Action-Sequenzen. Die Welt ist detailliert und immersiv, mit Asian-Einflüssen und technologischer Raffinesse. Altered Carbon erforscht tiefgreifende Fragen über menschliche Natur und Klassenunterschiede. Trotz ihrer beeindruckenden Produktion und philosophischen Tiefe blieb sie im Schatten anderer Sci-Fi-Serien – eine unterschätzte Perle für Genre-Fans."
+    }
+  ]
+}
